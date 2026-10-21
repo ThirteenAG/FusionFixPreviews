@@ -1,0 +1,54 @@
+{
+ "format": 1,
+ "plugin": "GTAIV.EFLC.FusionFix",
+ "background": {
+  "dark": "background-dark.jpg",
+  "light": "background-light.jpg"
+ },
+ "logo": {
+  "dark": "logo.svg",
+  "light": "logo.svg"
+ },
+ "icon": "icon.ico",
+ "scrim": {
+  "dark": 0.4,
+  "light": 0.2
+ },
+ "colors": {
+  "dark": {
+   "accent": "#F0A000",
+   "accent2": "#FFB41E",
+   "onAccent": "#14120E",
+   "text": "#FFFFFF",
+   "secondary": "#ECEEF2"
+  },
+  "light": {
+   "accent": "#C08000",
+   "accent2": "#F0A000",
+   "onAccent": "#14120E",
+   "text": "#000000",
+   "secondary": "#121212"
+  }
+ },
+ "text": {
+  "en": {
+   "title": "Fusion Fix for GTAIV: The Complete Edition",
+   "subtitle": "Choose where to install Fusion Fix",
+   "description": "Fusion Fix is a comprehensive modification for Grand Theft Auto IV: The Complete Edition that aims to fix a wide range of technical issues, bugs, and limitations in the game that were left unaddressed in official updates."
+  }
+ },
+ "links": [
+  {
+   "label": "fusionfix.io/iv",
+   "url": "https://fusionfix.io/iv"
+  },
+  {
+   "label": "GitHub",
+   "url": "https://github.com/ThirteenAG/GTAIV.EFLC.FusionFix"
+  },
+  {
+   "label": "Discord",
+   "url": "https://discord.gg/2ckFCS572Z"
+  }
+ ]
+}

@@ -1,0 +1,968 @@
+{
+ "format": 1,
+ "plugin": "GTAIV.EFLC.FusionFix",
+ "version": "19.10.2026.1656",
+ "capture": "19.10.2026.1656-20261020T185016",
+ "exe": "1.2.0.59",
+ "resolution": [
+  1920,
+  1080
+ ],
+ "fps": 30,
+ "source": "automation.py release",
+ "files": {
+  "FOG.VolumetricFog.0.full.webp": "cadce36aa3c1e814",
+  "FOG.VolumetricFog.0.webp": "15184e590554b74f",
+  "FOG.VolumetricFog.1.full.webp": "b5714fc4764fbeaf",
+  "FOG.VolumetricFog.1.webp": "ae61d614846cd7e3",
+  "MAIN.Bloom.0.full.webp": "24e436ecb85e450c",
+  "MAIN.Bloom.0.webp": "2b777134630c2849",
+  "MAIN.Bloom.1.full.webp": "978972da63c07839",
+  "MAIN.Bloom.1.webp": "512d23ae1340bd80",
+  "MAIN.Definition.0.full.webp": "3047bb9cb69dfd69",
+  "MAIN.Definition.0.webp": "c23766f806bf836f",
+  "MAIN.Definition.1.full.webp": "103de7a2ab6631f4",
+  "MAIN.Definition.1.webp": "3a7341fb6bf55bc4",
+  "MISC.AmbientOcclusion.0.full.webp": "cb6c311c112c26db",
+  "MISC.AmbientOcclusion.0.webp": "ca21face88fe30db",
+  "MISC.AmbientOcclusion.1.full.webp": "f1bf81828590e629",
+  "MISC.AmbientOcclusion.1.webp": "fbfb777dacb16adb",
+  "MISC.Antialiasing.0.full.webp": "60f428201e48b5fc",
+  "MISC.Antialiasing.0.webp": "58f4089c1b6db72a",
+  "MISC.Antialiasing.1.full.webp": "bd8e4c81848f9edf",
+  "MISC.Antialiasing.1.webp": "7cd5c217bd9b0c1e",
+  "MISC.Antialiasing.2.full.webp": "a543e324b0db7a46",
+  "MISC.Antialiasing.2.webp": "3a68f4e91c8f78bc",
+  "MISC.Antialiasing.3.full.webp": "06830a9e01b49a01",
+  "MISC.Antialiasing.3.webp": "bfe43070907aecaf",
+  "MISC.Antialiasing.4.full.webp": "f1c3a29a76574cb0",
+  "MISC.Antialiasing.4.webp": "7d6c879001af570c",
+  "MISC.Antialiasing.5.full.webp": "c1efa0b36ea3cd61",
+  "MISC.Antialiasing.5.webp": "08c87e015e8b5938",
+  "MISC.CenteredFootCam.0.full.webp": "7fd3d6fb1f2b4bfc",
+  "MISC.CenteredFootCam.0.webp": "238616fbf56f42e0",
+  "MISC.CenteredFootCam.1.full.webp": "1398f8435db3b87d",
+  "MISC.CenteredFootCam.1.webp": "9cec044f5f2a69ad",
+  "MISC.CenteredVehCam.0.full.webp": "b45cd6312078f538",
+  "MISC.CenteredVehCam.0.webp": "590b141887ca583f",
+  "MISC.CenteredVehCam.1.full.webp": "ee21165c455a0737",
+  "MISC.CenteredVehCam.1.webp": "f53ce3eac14e6578",
+  "MISC.ConsoleGamma.0.full.webp": "e924b2fa725bec73",
+  "MISC.ConsoleGamma.0.webp": "a08c3ceba93bfddb",
+  "MISC.ConsoleGamma.1.full.webp": "b2e59ddc3efa77ab",
+  "MISC.ConsoleGamma.1.webp": "20043b151e0d0b25",
+  "MISC.ConsoleGamma.2.full.webp": "1fd3941f4760fb8a",
+  "MISC.ConsoleGamma.2.webp": "d4475b402cd49fb8",
+  "MISC.DepthOfField.0.full.webp": "f40339573051b25c",
+  "MISC.DepthOfField.0.webp": "f3cc09bf2659fadb",
+  "MISC.DepthOfField.1.full.webp": "f40339573051b25c",
+  "MISC.DepthOfField.1.webp": "f3cc09bf2659fadb",
+  "MISC.DepthOfField.2.full.webp": "fd1dd771563eaae6",
+  "MISC.DepthOfField.2.webp": "68e83e6bcb26977a",
+  "MISC.DepthOfField.3.full.webp": "2746ced36694ce52",
+  "MISC.DepthOfField.3.webp": "2d6708454790ea1c",
+  "MISC.DepthOfField.4.full.webp": "64fd324f179f148a",
+  "MISC.DepthOfField.4.webp": "1944b1414c60cec4",
+  "MISC.DepthOfField.5.full.webp": "221db0a3bee8afb9",
+  "MISC.DepthOfField.5.webp": "0efdd8ccece07a09",
+  "MISC.DistantLights.0.full.webp": "6a8148fbf4e40032",
+  "MISC.DistantLights.0.webp": "61422a57b87c5eab",
+  "MISC.DistantLights.1.full.webp": "ee2c9f6f444eb9fa",
+  "MISC.DistantLights.1.webp": "b46e4c30731fd7ff",
+  "MISC.FieldOfView.0.webp": "d8c653aea954fe8b",
+  "MISC.FieldOfView.1.webp": "dc2b147abc3ea068",
+  "MISC.FieldOfView.2.webp": "15428d823845a3c6",
+  "MISC.FieldOfView.3.webp": "d2abe1ed7fd96665",
+  "MISC.FieldOfView.4.webp": "619efa5ba5a62478",
+  "MISC.FieldOfView.5.webp": "be07f472b4c9c3f3",
+  "MISC.FieldOfView.6.webp": "3adeff530650210a",
+  "MISC.FieldOfView.7.webp": "7ef84fb24c90b6d0",
+  "MISC.FieldOfView.8.webp": "635213090d004f41",
+  "MISC.FieldOfView.9.webp": "a4f578bcb51c30e5",
+  "MISC.FieldOfView.mp4": "69407c2917d2befa",
+  "MISC.OverrideTreeAlpha.0.full.webp": "80e1f867f05151f3",
+  "MISC.OverrideTreeAlpha.0.webp": "fbd48f1c0be89bdc",
+  "MISC.OverrideTreeAlpha.1.full.webp": "7d0c02b51766aa1d",
+  "MISC.OverrideTreeAlpha.1.webp": "3a4cd49dd5932c9f",
+  "MISC.OverrideTreeAlpha.2.full.webp": "ecc4070e2c1a6759",
+  "MISC.OverrideTreeAlpha.2.webp": "4580bc3340aae99c",
+  "MISC.OverrideTreeAlpha.3.full.webp": "570f92b082d25211",
+  "MISC.OverrideTreeAlpha.3.webp": "a5a4fbcac7db7d1a",
+  "MISC.OverrideTreeAlpha.mp4": "76b10312fda1dda2",
+  "MISC.ScreenFilter.0.full.webp": "6838f10c5be0574e",
+  "MISC.ScreenFilter.0.webp": "0ec42fcbc3f7114c",
+  "MISC.ScreenFilter.1.full.webp": "f463e99029cff0f9",
+  "MISC.ScreenFilter.1.webp": "eaf3e7d2467ea4b2",
+  "MISC.ScreenFilter.2.full.webp": "91d23438db9804b8",
+  "MISC.ScreenFilter.2.webp": "37b54591471aa2a5",
+  "MISC.ScreenFilter.3.full.webp": "e6cb98fdb2e7b2bb",
+  "MISC.ScreenFilter.3.webp": "6f45b601bd513e20",
+  "MISC.ScreenFilter.4.full.webp": "6880008484bef358",
+  "MISC.ScreenFilter.4.webp": "0ed051312220bb23",
+  "MISC.SunShafts.0.full.webp": "c3ad7e505d2ce5e9",
+  "MISC.SunShafts.0.webp": "e49b215b53b1506d",
+  "MISC.SunShafts.1.full.webp": "053d3a055362d772",
+  "MISC.SunShafts.1.webp": "96f07edb5c8e05dd",
+  "MISC.ToneMapping.0.full.webp": "978972da63c07839",
+  "MISC.ToneMapping.0.webp": "512d23ae1340bd80",
+  "MISC.ToneMapping.1.full.webp": "22f9ce4f047496e6",
+  "MISC.ToneMapping.1.webp": "1aea8f1e74c3ed12",
+  "MISC.TreeAlpha.0.full.webp": "d60bc9358b836e90",
+  "MISC.TreeAlpha.0.webp": "0cc3a0b465d48e8b",
+  "MISC.TreeAlpha.1.full.webp": "4e42adaa8985f2d4",
+  "MISC.TreeAlpha.1.webp": "a7e9be0105ba04d3",
+  "MISC.TreeAlpha.2.full.webp": "041d21bcb3c9e181",
+  "MISC.TreeAlpha.2.webp": "8f1fabae8ab60504",
+  "MISC.TreeLighting.0.full.webp": "d226c1bd9696a455",
+  "MISC.TreeLighting.0.webp": "9dfb3fb86a23b0a6",
+  "MISC.TreeLighting.1.full.webp": "3bc7d0f4315e52c8",
+  "MISC.TreeLighting.1.webp": "15d09d364116f6ec",
+  "MISC.TreeLighting.2.full.webp": "aafa5a6d14402f1f",
+  "MISC.TreeLighting.2.webp": "d33811ac5985214f",
+  "MISC.UnclampLighting.0.full.webp": "ebac50465b75cf36",
+  "MISC.UnclampLighting.0.webp": "b14ba0433d2c37fa",
+  "MISC.UnclampLighting.1.full.webp": "7491b8c34a0241ad",
+  "MISC.UnclampLighting.1.webp": "3b8fc6ea39e12be9",
+  "POSTFX.AmbientOcclusionIntensity.0.full.webp": "e967edf21c8da0a6",
+  "POSTFX.AmbientOcclusionIntensity.0.webp": "d6c3d60fcbf5ee6f",
+  "POSTFX.AmbientOcclusionIntensity.1.full.webp": "f57a6b75201725a4",
+  "POSTFX.AmbientOcclusionIntensity.1.webp": "b91d10de3734f201",
+  "POSTFX.AmbientOcclusionIntensity.2.full.webp": "f4558c33f6078ede",
+  "POSTFX.AmbientOcclusionIntensity.2.webp": "5e956d1f0d1aec52",
+  "POSTFX.AmbientOcclusionIntensity.mp4": "9c1b9dc09fc5750e",
+  "PROJECT2DFX.CoronaAlphaMultiplier.0.full.webp": "1edc7135e47e0760",
+  "PROJECT2DFX.CoronaAlphaMultiplier.0.webp": "08adfac3a6850983",
+  "PROJECT2DFX.CoronaAlphaMultiplier.1.full.webp": "0abd95e4ba6160b2",
+  "PROJECT2DFX.CoronaAlphaMultiplier.1.webp": "f75c1aff35feaac9",
+  "PROJECT2DFX.CoronaAlphaMultiplier.2.full.webp": "e2811578de132b5c",
+  "PROJECT2DFX.CoronaAlphaMultiplier.2.webp": "09f1af7cf54db64c",
+  "PROJECT2DFX.CoronaAlphaMultiplier.mp4": "af083675d43b731f",
+  "PROJECT2DFX.CoronaRadiusMultiplier.0.full.webp": "f675111f7c9b7d5f",
+  "PROJECT2DFX.CoronaRadiusMultiplier.0.webp": "096d4faff081c187",
+  "PROJECT2DFX.CoronaRadiusMultiplier.1.full.webp": "3343fda006a785a1",
+  "PROJECT2DFX.CoronaRadiusMultiplier.1.webp": "3e3ba22cb0b54243",
+  "PROJECT2DFX.CoronaRadiusMultiplier.2.full.webp": "c393a0559d967958",
+  "PROJECT2DFX.CoronaRadiusMultiplier.2.webp": "d416b41fc2a26c79",
+  "PROJECT2DFX.CoronaRadiusMultiplier.mp4": "56f9e809005bfd1e",
+  "SHADOWS.ExtraDynamicShadows.0.full.webp": "339c69134d4292f7",
+  "SHADOWS.ExtraDynamicShadows.0.webp": "ff25a4f1e70b237f",
+  "SHADOWS.ExtraDynamicShadows.1.full.webp": "476ca597ea74a9c1",
+  "SHADOWS.ExtraDynamicShadows.1.webp": "45cd0adf1ac69ab5",
+  "SHADOWS.ExtraDynamicShadows.2.full.webp": "f1f784a096fbb512",
+  "SHADOWS.ExtraDynamicShadows.2.webp": "d7bcabd027089281",
+  "SHADOWS.ShadowFilter.0.full.webp": "ecf0a02945e4a96c",
+  "SHADOWS.ShadowFilter.0.webp": "0ad9e2dfdaa25c20",
+  "SHADOWS.ShadowFilter.1.full.webp": "cfb03944b8e0fb71",
+  "SHADOWS.ShadowFilter.1.webp": "c3e955c5fac50c8a",
+  "SUNSHAFTS.SunShaftsDecay.0.full.webp": "2b951444907d1ca4",
+  "SUNSHAFTS.SunShaftsDecay.0.webp": "bbd35c7ee9daa963",
+  "SUNSHAFTS.SunShaftsDecay.1.full.webp": "01227231a99ed1b0",
+  "SUNSHAFTS.SunShaftsDecay.1.webp": "62591f28380f1aa1",
+  "SUNSHAFTS.SunShaftsDecay.2.full.webp": "4c53051992f45930",
+  "SUNSHAFTS.SunShaftsDecay.2.webp": "7825e666c7bde83c",
+  "SUNSHAFTS.SunShaftsDecay.mp4": "78da197ff6575656",
+  "SUNSHAFTS.SunShaftsDensity.0.full.webp": "79445d639d4d6008",
+  "SUNSHAFTS.SunShaftsDensity.0.webp": "8e8ebef4405fad3e",
+  "SUNSHAFTS.SunShaftsDensity.1.full.webp": "063d033a84cca9af",
+  "SUNSHAFTS.SunShaftsDensity.1.webp": "b3015e169c2a2509",
+  "SUNSHAFTS.SunShaftsDensity.2.full.webp": "4b2c99b6f6e04bc7",
+  "SUNSHAFTS.SunShaftsDensity.2.webp": "284f1d92a1753b75",
+  "SUNSHAFTS.SunShaftsDensity.mp4": "f6bf0355bb91b91f",
+  "TEMPORAL.FSRSharpness.0.full.webp": "7f0dbe0d886b8ec7",
+  "TEMPORAL.FSRSharpness.0.webp": "81b34154f0f73f73",
+  "TEMPORAL.FSRSharpness.1.full.webp": "9fa28bb8a3bc28d0",
+  "TEMPORAL.FSRSharpness.1.webp": "83435303012fa01c",
+  "TEMPORAL.FSRSharpness.2.full.webp": "0a962bf95198c932",
+  "TEMPORAL.FSRSharpness.2.webp": "052ca9ff2cb8af89",
+  "TEMPORAL.FSRSharpness.mp4": "18d1bed833efd82b",
+  "brand/background-dark.jpg": "492071fa6ddf2e2f",
+  "brand/background-light.jpg": "fef3fb41a609ff7c",
+  "brand/brand.json": "04514c0bdf2b2193",
+  "brand/icon.ico": "24b1e3161b90d1df",
+  "brand/logo.svg": "5de7dd501d40c337"
+ },
+ "settings": {
+  "MISC.Antialiasing": {
+   "scene": "bohan-street",
+   "stage": "beforeUI",
+   "kind": "choice",
+   "values": [
+    "0",
+    "1",
+    "2",
+    "3",
+    "4",
+    "5"
+   ],
+   "frameOfValue": {
+    "0": 0,
+    "1": 1,
+    "2": 2,
+    "3": 3,
+    "4": 4,
+    "5": 5
+   },
+   "stills": [
+    "MISC.Antialiasing.0.webp",
+    "MISC.Antialiasing.1.webp",
+    "MISC.Antialiasing.2.webp",
+    "MISC.Antialiasing.3.webp",
+    "MISC.Antialiasing.4.webp",
+    "MISC.Antialiasing.5.webp"
+   ],
+   "full": [
+    "MISC.Antialiasing.0.full.webp",
+    "MISC.Antialiasing.1.full.webp",
+    "MISC.Antialiasing.2.full.webp",
+    "MISC.Antialiasing.3.full.webp",
+    "MISC.Antialiasing.4.full.webp",
+    "MISC.Antialiasing.5.full.webp"
+   ],
+   "resolution": [
+    1920,
+    1080
+   ]
+  },
+  "MAIN.Definition": {
+   "scene": "bohan-street",
+   "stage": "beforeUI",
+   "kind": "bool",
+   "values": [
+    "0",
+    "1"
+   ],
+   "frameOfValue": {
+    "0": 0,
+    "1": 1
+   },
+   "stills": [
+    "MAIN.Definition.0.webp",
+    "MAIN.Definition.1.webp"
+   ],
+   "full": [
+    "MAIN.Definition.0.full.webp",
+    "MAIN.Definition.1.full.webp"
+   ],
+   "resolution": [
+    1920,
+    1080
+   ]
+  },
+  "MISC.ConsoleGamma": {
+   "scene": "bohan-street",
+   "stage": "afterUI",
+   "kind": "choice",
+   "values": [
+    "0",
+    "1",
+    "2"
+   ],
+   "frameOfValue": {
+    "0": 0,
+    "1": 1,
+    "2": 2
+   },
+   "stills": [
+    "MISC.ConsoleGamma.0.webp",
+    "MISC.ConsoleGamma.1.webp",
+    "MISC.ConsoleGamma.2.webp"
+   ],
+   "full": [
+    "MISC.ConsoleGamma.0.full.webp",
+    "MISC.ConsoleGamma.1.full.webp",
+    "MISC.ConsoleGamma.2.full.webp"
+   ],
+   "resolution": [
+    1920,
+    1080
+   ]
+  },
+  "MISC.UnclampLighting": {
+   "scene": "middle-park",
+   "stage": "beforeUI",
+   "kind": "bool",
+   "values": [
+    "0",
+    "1"
+   ],
+   "frameOfValue": {
+    "0": 0,
+    "1": 1
+   },
+   "stills": [
+    "MISC.UnclampLighting.0.webp",
+    "MISC.UnclampLighting.1.webp"
+   ],
+   "full": [
+    "MISC.UnclampLighting.0.full.webp",
+    "MISC.UnclampLighting.1.full.webp"
+   ],
+   "resolution": [
+    1920,
+    1080
+   ]
+  },
+  "SHADOWS.ShadowFilter": {
+   "scene": "fusionfix-page-shadows",
+   "stage": "beforeUI",
+   "kind": "choice",
+   "values": [
+    "0",
+    "2"
+   ],
+   "frameOfValue": {
+    "0": 0,
+    "2": 1
+   },
+   "stills": [
+    "SHADOWS.ShadowFilter.0.webp",
+    "SHADOWS.ShadowFilter.1.webp"
+   ],
+   "full": [
+    "SHADOWS.ShadowFilter.0.full.webp",
+    "SHADOWS.ShadowFilter.1.full.webp"
+   ],
+   "resolution": [
+    2560,
+    1440
+   ]
+  },
+  "MISC.AmbientOcclusion": {
+   "scene": "bohan-corner",
+   "stage": "beforeUI",
+   "kind": "bool",
+   "values": [
+    "0",
+    "1"
+   ],
+   "frameOfValue": {
+    "0": 0,
+    "1": 1
+   },
+   "stills": [
+    "MISC.AmbientOcclusion.0.webp",
+    "MISC.AmbientOcclusion.1.webp"
+   ],
+   "full": [
+    "MISC.AmbientOcclusion.0.full.webp",
+    "MISC.AmbientOcclusion.1.full.webp"
+   ],
+   "resolution": [
+    1920,
+    1080
+   ]
+  },
+  "MISC.SunShafts": {
+   "scene": "park-sunset",
+   "stage": "beforeUI",
+   "kind": "bool",
+   "values": [
+    "0",
+    "1"
+   ],
+   "frameOfValue": {
+    "0": 0,
+    "1": 1
+   },
+   "stills": [
+    "MISC.SunShafts.0.webp",
+    "MISC.SunShafts.1.webp"
+   ],
+   "full": [
+    "MISC.SunShafts.0.full.webp",
+    "MISC.SunShafts.1.full.webp"
+   ],
+   "resolution": [
+    1920,
+    1080
+   ]
+  },
+  "MISC.ToneMapping": {
+   "scene": "park-sunset",
+   "stage": "beforeUI",
+   "kind": "bool",
+   "values": [
+    "0",
+    "1"
+   ],
+   "frameOfValue": {
+    "0": 0,
+    "1": 1
+   },
+   "stills": [
+    "MISC.ToneMapping.0.webp",
+    "MISC.ToneMapping.1.webp"
+   ],
+   "full": [
+    "MISC.ToneMapping.0.full.webp",
+    "MISC.ToneMapping.1.full.webp"
+   ],
+   "resolution": [
+    1920,
+    1080
+   ]
+  },
+  "MAIN.Bloom": {
+   "scene": "park-sunset",
+   "stage": "beforeUI",
+   "kind": "bool",
+   "values": [
+    "0",
+    "1"
+   ],
+   "frameOfValue": {
+    "0": 0,
+    "1": 1
+   },
+   "stills": [
+    "MAIN.Bloom.0.webp",
+    "MAIN.Bloom.1.webp"
+   ],
+   "full": [
+    "MAIN.Bloom.0.full.webp",
+    "MAIN.Bloom.1.full.webp"
+   ],
+   "resolution": [
+    1920,
+    1080
+   ]
+  },
+  "MISC.DepthOfField": {
+   "scene": "skyline-day",
+   "stage": "beforeUI",
+   "kind": "choice",
+   "values": [
+    "0",
+    "1",
+    "2",
+    "3",
+    "4",
+    "5"
+   ],
+   "frameOfValue": {
+    "0": 0,
+    "1": 1,
+    "2": 2,
+    "3": 3,
+    "4": 4,
+    "5": 5
+   },
+   "stills": [
+    "MISC.DepthOfField.0.webp",
+    "MISC.DepthOfField.1.webp",
+    "MISC.DepthOfField.2.webp",
+    "MISC.DepthOfField.3.webp",
+    "MISC.DepthOfField.4.webp",
+    "MISC.DepthOfField.5.webp"
+   ],
+   "full": [
+    "MISC.DepthOfField.0.full.webp",
+    "MISC.DepthOfField.1.full.webp",
+    "MISC.DepthOfField.2.full.webp",
+    "MISC.DepthOfField.3.full.webp",
+    "MISC.DepthOfField.4.full.webp",
+    "MISC.DepthOfField.5.full.webp"
+   ],
+   "resolution": [
+    1920,
+    1080
+   ]
+  },
+  "FOG.VolumetricFog": {
+   "scene": "skyline-night-rain",
+   "stage": "beforeUI",
+   "kind": "bool",
+   "values": [
+    "0",
+    "1"
+   ],
+   "frameOfValue": {
+    "0": 0,
+    "1": 1
+   },
+   "stills": [
+    "FOG.VolumetricFog.0.webp",
+    "FOG.VolumetricFog.1.webp"
+   ],
+   "full": [
+    "FOG.VolumetricFog.0.full.webp",
+    "FOG.VolumetricFog.1.full.webp"
+   ],
+   "resolution": [
+    1920,
+    1080
+   ]
+  },
+  "MISC.DistantLights": {
+   "scene": "skyline-night",
+   "stage": "beforeUI",
+   "kind": "choice",
+   "values": [
+    "0",
+    "1"
+   ],
+   "frameOfValue": {
+    "0": 0,
+    "1": 1
+   },
+   "stills": [
+    "MISC.DistantLights.0.webp",
+    "MISC.DistantLights.1.webp"
+   ],
+   "full": [
+    "MISC.DistantLights.0.full.webp",
+    "MISC.DistantLights.1.full.webp"
+   ],
+   "resolution": [
+    1920,
+    1080
+   ]
+  },
+  "MISC.TreeLighting": {
+   "scene": "middle-park",
+   "stage": "beforeUI",
+   "kind": "choice",
+   "values": [
+    "0",
+    "1",
+    "2"
+   ],
+   "frameOfValue": {
+    "0": 0,
+    "1": 1,
+    "2": 2
+   },
+   "stills": [
+    "MISC.TreeLighting.0.webp",
+    "MISC.TreeLighting.1.webp",
+    "MISC.TreeLighting.2.webp"
+   ],
+   "full": [
+    "MISC.TreeLighting.0.full.webp",
+    "MISC.TreeLighting.1.full.webp",
+    "MISC.TreeLighting.2.full.webp"
+   ],
+   "resolution": [
+    1920,
+    1080
+   ]
+  },
+  "MISC.TreeAlpha": {
+   "scene": "middle-park",
+   "stage": "beforeUI",
+   "kind": "choice",
+   "values": [
+    "0",
+    "1",
+    "2"
+   ],
+   "frameOfValue": {
+    "0": 0,
+    "1": 1,
+    "2": 2
+   },
+   "stills": [
+    "MISC.TreeAlpha.0.webp",
+    "MISC.TreeAlpha.1.webp",
+    "MISC.TreeAlpha.2.webp"
+   ],
+   "full": [
+    "MISC.TreeAlpha.0.full.webp",
+    "MISC.TreeAlpha.1.full.webp",
+    "MISC.TreeAlpha.2.full.webp"
+   ],
+   "resolution": [
+    1920,
+    1080
+   ]
+  },
+  "MISC.FieldOfView": {
+   "scene": "bohan-street-player",
+   "stage": "beforeUI",
+   "kind": "int",
+   "values": [
+    "0",
+    "1",
+    "2",
+    "3",
+    "4",
+    "5",
+    "6",
+    "7",
+    "8",
+    "9"
+   ],
+   "frameOfValue": {
+    "0": 0,
+    "1": 1,
+    "2": 2,
+    "3": 3,
+    "4": 4,
+    "5": 5,
+    "6": 6,
+    "7": 7,
+    "8": 8,
+    "9": 9
+   },
+   "stills": [
+    "MISC.FieldOfView.0.webp",
+    "MISC.FieldOfView.1.webp",
+    "MISC.FieldOfView.2.webp",
+    "MISC.FieldOfView.3.webp",
+    "MISC.FieldOfView.4.webp",
+    "MISC.FieldOfView.5.webp",
+    "MISC.FieldOfView.6.webp",
+    "MISC.FieldOfView.7.webp",
+    "MISC.FieldOfView.8.webp",
+    "MISC.FieldOfView.9.webp"
+   ],
+   "full": [
+    "MISC.FieldOfView.0.webp",
+    "MISC.FieldOfView.1.webp",
+    "MISC.FieldOfView.2.webp",
+    "MISC.FieldOfView.3.webp",
+    "MISC.FieldOfView.4.webp",
+    "MISC.FieldOfView.5.webp",
+    "MISC.FieldOfView.6.webp",
+    "MISC.FieldOfView.7.webp",
+    "MISC.FieldOfView.8.webp",
+    "MISC.FieldOfView.9.webp"
+   ],
+   "resolution": [
+    1920,
+    1080
+   ],
+   "clip": "MISC.FieldOfView.mp4"
+  },
+  "MISC.CenteredFootCam": {
+   "scene": "bohan-street-player",
+   "stage": "beforeUI",
+   "kind": "bool",
+   "values": [
+    "0",
+    "1"
+   ],
+   "frameOfValue": {
+    "0": 0,
+    "1": 1
+   },
+   "stills": [
+    "MISC.CenteredFootCam.0.webp",
+    "MISC.CenteredFootCam.1.webp"
+   ],
+   "full": [
+    "MISC.CenteredFootCam.0.full.webp",
+    "MISC.CenteredFootCam.1.full.webp"
+   ],
+   "resolution": [
+    1920,
+    1080
+   ]
+  },
+  "MISC.OverrideTreeAlpha": {
+   "scene": "middle-park",
+   "stage": "beforeUI",
+   "kind": "float",
+   "values": [
+    "0",
+    "0.625",
+    "2.5",
+    "4"
+   ],
+   "frameOfValue": {
+    "0": 0,
+    "4": 3,
+    "0.625": 1,
+    "2.5": 2
+   },
+   "stills": [
+    "MISC.OverrideTreeAlpha.0.webp",
+    "MISC.OverrideTreeAlpha.1.webp",
+    "MISC.OverrideTreeAlpha.2.webp",
+    "MISC.OverrideTreeAlpha.3.webp"
+   ],
+   "full": [
+    "MISC.OverrideTreeAlpha.0.full.webp",
+    "MISC.OverrideTreeAlpha.1.full.webp",
+    "MISC.OverrideTreeAlpha.2.full.webp",
+    "MISC.OverrideTreeAlpha.3.full.webp"
+   ],
+   "resolution": [
+    1920,
+    1080
+   ],
+   "clip": "MISC.OverrideTreeAlpha.mp4"
+  },
+  "SUNSHAFTS.SunShaftsDensity": {
+   "scene": "park-sunset",
+   "stage": "beforeUI",
+   "kind": "float",
+   "values": [
+    "0.5",
+    "0.9",
+    "1"
+   ],
+   "frameOfValue": {
+    "1": 2,
+    "0.5": 0,
+    "0.9": 1
+   },
+   "stills": [
+    "SUNSHAFTS.SunShaftsDensity.0.webp",
+    "SUNSHAFTS.SunShaftsDensity.1.webp",
+    "SUNSHAFTS.SunShaftsDensity.2.webp"
+   ],
+   "full": [
+    "SUNSHAFTS.SunShaftsDensity.0.full.webp",
+    "SUNSHAFTS.SunShaftsDensity.1.full.webp",
+    "SUNSHAFTS.SunShaftsDensity.2.full.webp"
+   ],
+   "resolution": [
+    1920,
+    1080
+   ],
+   "clip": "SUNSHAFTS.SunShaftsDensity.mp4"
+  },
+  "SUNSHAFTS.SunShaftsDecay": {
+   "scene": "park-sunset",
+   "stage": "beforeUI",
+   "kind": "float",
+   "values": [
+    "0.85",
+    "0.95",
+    "1"
+   ],
+   "frameOfValue": {
+    "1": 2,
+    "0.85": 0,
+    "0.95": 1
+   },
+   "stills": [
+    "SUNSHAFTS.SunShaftsDecay.0.webp",
+    "SUNSHAFTS.SunShaftsDecay.1.webp",
+    "SUNSHAFTS.SunShaftsDecay.2.webp"
+   ],
+   "full": [
+    "SUNSHAFTS.SunShaftsDecay.0.full.webp",
+    "SUNSHAFTS.SunShaftsDecay.1.full.webp",
+    "SUNSHAFTS.SunShaftsDecay.2.full.webp"
+   ],
+   "resolution": [
+    1920,
+    1080
+   ],
+   "clip": "SUNSHAFTS.SunShaftsDecay.mp4"
+  },
+  "PROJECT2DFX.CoronaRadiusMultiplier": {
+   "scene": "skyline-night",
+   "stage": "beforeUI",
+   "kind": "float",
+   "values": [
+    "0.5",
+    "1",
+    "2"
+   ],
+   "frameOfValue": {
+    "1": 1,
+    "2": 2,
+    "0.5": 0
+   },
+   "stills": [
+    "PROJECT2DFX.CoronaRadiusMultiplier.0.webp",
+    "PROJECT2DFX.CoronaRadiusMultiplier.1.webp",
+    "PROJECT2DFX.CoronaRadiusMultiplier.2.webp"
+   ],
+   "full": [
+    "PROJECT2DFX.CoronaRadiusMultiplier.0.full.webp",
+    "PROJECT2DFX.CoronaRadiusMultiplier.1.full.webp",
+    "PROJECT2DFX.CoronaRadiusMultiplier.2.full.webp"
+   ],
+   "resolution": [
+    1920,
+    1080
+   ],
+   "clip": "PROJECT2DFX.CoronaRadiusMultiplier.mp4"
+  },
+  "PROJECT2DFX.CoronaAlphaMultiplier": {
+   "scene": "skyline-night",
+   "stage": "beforeUI",
+   "kind": "float",
+   "values": [
+    "0.5",
+    "1",
+    "2"
+   ],
+   "frameOfValue": {
+    "1": 1,
+    "2": 2,
+    "0.5": 0
+   },
+   "stills": [
+    "PROJECT2DFX.CoronaAlphaMultiplier.0.webp",
+    "PROJECT2DFX.CoronaAlphaMultiplier.1.webp",
+    "PROJECT2DFX.CoronaAlphaMultiplier.2.webp"
+   ],
+   "full": [
+    "PROJECT2DFX.CoronaAlphaMultiplier.0.full.webp",
+    "PROJECT2DFX.CoronaAlphaMultiplier.1.full.webp",
+    "PROJECT2DFX.CoronaAlphaMultiplier.2.full.webp"
+   ],
+   "resolution": [
+    1920,
+    1080
+   ],
+   "clip": "PROJECT2DFX.CoronaAlphaMultiplier.mp4"
+  },
+  "POSTFX.AmbientOcclusionIntensity": {
+   "scene": "bohan-corner",
+   "stage": "beforeUI",
+   "kind": "float",
+   "values": [
+    "0.2",
+    "0.4",
+    "0.8"
+   ],
+   "frameOfValue": {
+    "0.2": 0,
+    "0.4": 1,
+    "0.8": 2
+   },
+   "stills": [
+    "POSTFX.AmbientOcclusionIntensity.0.webp",
+    "POSTFX.AmbientOcclusionIntensity.1.webp",
+    "POSTFX.AmbientOcclusionIntensity.2.webp"
+   ],
+   "full": [
+    "POSTFX.AmbientOcclusionIntensity.0.full.webp",
+    "POSTFX.AmbientOcclusionIntensity.1.full.webp",
+    "POSTFX.AmbientOcclusionIntensity.2.full.webp"
+   ],
+   "resolution": [
+    1920,
+    1080
+   ],
+   "clip": "POSTFX.AmbientOcclusionIntensity.mp4"
+  },
+  "SHADOWS.ExtraDynamicShadows": {
+   "scene": "middle-park",
+   "stage": "beforeUI",
+   "kind": "choice",
+   "values": [
+    "0",
+    "1",
+    "2"
+   ],
+   "frameOfValue": {
+    "0": 0,
+    "1": 1,
+    "2": 2
+   },
+   "stills": [
+    "SHADOWS.ExtraDynamicShadows.0.webp",
+    "SHADOWS.ExtraDynamicShadows.1.webp",
+    "SHADOWS.ExtraDynamicShadows.2.webp"
+   ],
+   "full": [
+    "SHADOWS.ExtraDynamicShadows.0.full.webp",
+    "SHADOWS.ExtraDynamicShadows.1.full.webp",
+    "SHADOWS.ExtraDynamicShadows.2.full.webp"
+   ],
+   "resolution": [
+    1920,
+    1080
+   ]
+  },
+  "TEMPORAL.FSRSharpness": {
+   "scene": "bohan-corner",
+   "stage": "beforeUI",
+   "kind": "float",
+   "values": [
+    "0",
+    "0.5",
+    "1"
+   ],
+   "frameOfValue": {
+    "0": 0,
+    "1": 2,
+    "0.5": 1
+   },
+   "stills": [
+    "TEMPORAL.FSRSharpness.0.webp",
+    "TEMPORAL.FSRSharpness.1.webp",
+    "TEMPORAL.FSRSharpness.2.webp"
+   ],
+   "full": [
+    "TEMPORAL.FSRSharpness.0.full.webp",
+    "TEMPORAL.FSRSharpness.1.full.webp",
+    "TEMPORAL.FSRSharpness.2.full.webp"
+   ],
+   "resolution": [
+    1920,
+    1080
+   ],
+   "clip": "TEMPORAL.FSRSharpness.mp4"
+  },
+  "MISC.ScreenFilter": {
+   "scene": "bohan-street-evening",
+   "stage": "beforeUI",
+   "kind": "choice",
+   "values": [
+    "0",
+    "1",
+    "2",
+    "3",
+    "4"
+   ],
+   "frameOfValue": {
+    "0": 0,
+    "1": 1,
+    "2": 2,
+    "3": 3,
+    "4": 4
+   },
+   "stills": [
+    "MISC.ScreenFilter.0.webp",
+    "MISC.ScreenFilter.1.webp",
+    "MISC.ScreenFilter.2.webp",
+    "MISC.ScreenFilter.3.webp",
+    "MISC.ScreenFilter.4.webp"
+   ],
+   "full": [
+    "MISC.ScreenFilter.0.full.webp",
+    "MISC.ScreenFilter.1.full.webp",
+    "MISC.ScreenFilter.2.full.webp",
+    "MISC.ScreenFilter.3.full.webp",
+    "MISC.ScreenFilter.4.full.webp"
+   ],
+   "resolution": [
+    1920,
+    1080
+   ]
+  },
+  "MISC.CenteredVehCam": {
+   "scene": "fusionfix-page-centered-camera",
+   "stage": "beforeUI",
+   "kind": "bool",
+   "values": [
+    "0",
+    "1"
+   ],
+   "frameOfValue": {
+    "0": 0,
+    "1": 1
+   },
+   "stills": [
+    "MISC.CenteredVehCam.0.webp",
+    "MISC.CenteredVehCam.1.webp"
+   ],
+   "full": [
+    "MISC.CenteredVehCam.0.full.webp",
+    "MISC.CenteredVehCam.1.full.webp"
+   ],
+   "resolution": [
+    2560,
+    1440
+   ]
+  }
+ }
+}
