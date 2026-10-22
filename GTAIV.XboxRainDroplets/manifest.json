@@ -1,0 +1,162 @@
+{
+ "format": 1,
+ "plugin": "GTAIV.XboxRainDroplets",
+ "version": "21.10.2026.1437",
+ "resolution": [
+  1920,
+  1080
+ ],
+ "fps": 30,
+ "files": {
+  "MAIN.DropBlur.0.full.webp": "6afaf37381c0f003",
+  "MAIN.DropBlur.0.webp": "b49e2f94a92c47a9",
+  "MAIN.DropBlur.1.full.webp": "71be1b397fdb88df",
+  "MAIN.DropBlur.1.webp": "a1370b288e706645",
+  "MAIN.DropBlur.2.full.webp": "7c79dd65024cba99",
+  "MAIN.DropBlur.2.webp": "838cd33fdb5257ab",
+  "MAIN.DropBlur.3.full.webp": "e3fc67ca9b53479f",
+  "MAIN.DropBlur.3.webp": "2fd043f1efdb7521",
+  "MAIN.DropBlur.4.full.webp": "480e70b125fd41fa",
+  "MAIN.DropBlur.4.webp": "e90e8f0256b38f58",
+  "MAIN.DropBlur.mp4": "22863b7b51ccc0af",
+  "MAIN.Enabled.0.full.webp": "2f20847f039bc6d9",
+  "MAIN.Enabled.0.webp": "ef8908c5b574ea4a",
+  "MAIN.Enabled.1.full.webp": "26dbf2f0b954361d",
+  "MAIN.Enabled.1.webp": "c76193b537aa1a26",
+  "MAIN.MaxSize.0.full.webp": "ff0063eb53456de8",
+  "MAIN.MaxSize.0.webp": "691523f4c1b9b1fb",
+  "MAIN.MaxSize.1.full.webp": "4a3a8bfb13cfb6ae",
+  "MAIN.MaxSize.1.webp": "e3bcac97923b2778",
+  "MAIN.MaxSize.2.full.webp": "76b6f3be1439744c",
+  "MAIN.MaxSize.2.webp": "aad31f31ff15ff76",
+  "MAIN.MaxSize.3.full.webp": "87549dfb2fa1080b",
+  "MAIN.MaxSize.3.webp": "3502de667b9be3e8",
+  "MAIN.MaxSize.4.full.webp": "70434a3dc780e3b7",
+  "MAIN.MaxSize.4.webp": "74a936ebdf3b09eb",
+  "MAIN.MaxSize.mp4": "bd9c3ec9a08b24f9",
+  "MAIN.Refractions.0.full.webp": "b9c217fe7321a3a9",
+  "MAIN.Refractions.0.webp": "c6df48efdf4690e4",
+  "MAIN.Refractions.1.full.webp": "9a659ad7cd6e6d17",
+  "MAIN.Refractions.1.webp": "886db15e06fd0a93"
+ },
+ "settings": {
+  "MAIN.Enabled": {
+   "kind": "bool",
+   "values": [
+    "0",
+    "1"
+   ],
+   "frameOfValue": {
+    "0": 0,
+    "1": 1
+   },
+   "stills": [
+    "MAIN.Enabled.0.webp",
+    "MAIN.Enabled.1.webp"
+   ],
+   "full": [
+    "MAIN.Enabled.0.full.webp",
+    "MAIN.Enabled.1.full.webp"
+   ],
+   "resolution": [
+    1920,
+    1080
+   ]
+  },
+  "MAIN.Refractions": {
+   "kind": "bool",
+   "values": [
+    "0",
+    "1"
+   ],
+   "frameOfValue": {
+    "0": 0,
+    "1": 1
+   },
+   "stills": [
+    "MAIN.Refractions.0.webp",
+    "MAIN.Refractions.1.webp"
+   ],
+   "full": [
+    "MAIN.Refractions.0.full.webp",
+    "MAIN.Refractions.1.full.webp"
+   ],
+   "resolution": [
+    1920,
+    1080
+   ]
+  },
+  "MAIN.DropBlur": {
+   "kind": "float",
+   "values": [
+    "0",
+    "0.25",
+    "0.5",
+    "0.75",
+    "1"
+   ],
+   "frameOfValue": {
+    "0": 0,
+    "1": 4,
+    "0.25": 1,
+    "0.5": 2,
+    "0.75": 3
+   },
+   "stills": [
+    "MAIN.DropBlur.0.webp",
+    "MAIN.DropBlur.1.webp",
+    "MAIN.DropBlur.2.webp",
+    "MAIN.DropBlur.3.webp",
+    "MAIN.DropBlur.4.webp"
+   ],
+   "full": [
+    "MAIN.DropBlur.0.full.webp",
+    "MAIN.DropBlur.1.full.webp",
+    "MAIN.DropBlur.2.full.webp",
+    "MAIN.DropBlur.3.full.webp",
+    "MAIN.DropBlur.4.full.webp"
+   ],
+   "resolution": [
+    1920,
+    1080
+   ],
+   "clip": "MAIN.DropBlur.mp4"
+  },
+  "MAIN.MaxSize": {
+   "kind": "int",
+   "values": [
+    "10",
+    "19",
+    "30",
+    "45",
+    "60"
+   ],
+   "frameOfValue": {
+    "10": 0,
+    "19": 1,
+    "30": 2,
+    "45": 3,
+    "60": 4
+   },
+   "stills": [
+    "MAIN.MaxSize.0.webp",
+    "MAIN.MaxSize.1.webp",
+    "MAIN.MaxSize.2.webp",
+    "MAIN.MaxSize.3.webp",
+    "MAIN.MaxSize.4.webp"
+   ],
+   "full": [
+    "MAIN.MaxSize.0.full.webp",
+    "MAIN.MaxSize.1.full.webp",
+    "MAIN.MaxSize.2.full.webp",
+    "MAIN.MaxSize.3.full.webp",
+    "MAIN.MaxSize.4.full.webp"
+   ],
+   "resolution": [
+    1920,
+    1080
+   ],
+   "clip": "MAIN.MaxSize.mp4"
+  }
+ }
+}

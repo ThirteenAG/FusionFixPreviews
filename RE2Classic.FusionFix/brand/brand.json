@@ -1,0 +1,37 @@
+{
+ "format": 1,
+ "plugin": "RE2Classic.FusionFix",
+ "logo": {
+  "dark": "logo.svg",
+  "light": "logo.svg"
+ },
+ "colors": {
+  "dark": {
+   "accent": "#C93B2F",
+   "accent2": "#E05547",
+   "onAccent": "#FFFFFF"
+  },
+  "light": {
+   "accent": "#A51C1C",
+   "accent2": "#C8352B",
+   "onAccent": "#FFFFFF"
+  }
+ },
+ "text": {
+  "en": {
+   "title": "Fusion Fix for Resident Evil 2",
+   "subtitle": "Choose where to install Fusion Fix",
+   "description": "Widescreen presentation, alternate controls and less waiting for Resident Evil 2 on Steam and GOG."
+  }
+ },
+ "links": [
+  {
+   "label": "fusionfix.io",
+   "url": "https://fusionfix.io/games/re2classic/"
+  },
+  {
+   "label": "GitHub",
+   "url": "https://github.com/Fusion-Fix/ResidentEvilClassicTrilogy.FusionFix"
+  }
+ ]
+}

@@ -1,0 +1,43 @@
+{
+ "format": 1,
+ "plugin": "RE3Nemesis.FusionFix",
+ "version": "21.10.2026.1706",
+ "resolution": [
+  1920,
+  1080
+ ],
+ "fps": 30,
+ "files": {
+  "MAIN.PanAndScan.0.full.webp": "4ae64d0593ab63da",
+  "MAIN.PanAndScan.0.webp": "acb01c095cd9fefb",
+  "MAIN.PanAndScan.1.full.webp": "34a3ff7f20747a37",
+  "MAIN.PanAndScan.1.webp": "2296b5a111b463c1",
+  "brand/brand.json": "1cbf127cae46c910",
+  "brand/logo.svg": "cfcbeda47d8b7ed0"
+ },
+ "settings": {
+  "MAIN.PanAndScan": {
+   "kind": "choice",
+   "values": [
+    "0",
+    "1"
+   ],
+   "frameOfValue": {
+    "0": 0,
+    "1": 1
+   },
+   "stills": [
+    "MAIN.PanAndScan.0.webp",
+    "MAIN.PanAndScan.1.webp"
+   ],
+   "full": [
+    "MAIN.PanAndScan.0.full.webp",
+    "MAIN.PanAndScan.1.full.webp"
+   ],
+   "resolution": [
+    1920,
+    1080
+   ]
+  }
+ }
+}

@@ -1,0 +1,43 @@
+{
+ "format": 1,
+ "plugin": "RE2Classic.FusionFix",
+ "version": "21.10.2026.1706",
+ "resolution": [
+  1920,
+  1080
+ ],
+ "fps": 30,
+ "files": {
+  "MAIN.PanAndScan.0.full.webp": "07b1b8a50474576b",
+  "MAIN.PanAndScan.0.webp": "92bcd5f211e6c671",
+  "MAIN.PanAndScan.1.full.webp": "171e251b91c4aabb",
+  "MAIN.PanAndScan.1.webp": "b67cd46464a528ca",
+  "brand/brand.json": "aba693c83aba33ca",
+  "brand/logo.svg": "cfcbeda47d8b7ed0"
+ },
+ "settings": {
+  "MAIN.PanAndScan": {
+   "kind": "choice",
+   "values": [
+    "0",
+    "1"
+   ],
+   "frameOfValue": {
+    "0": 0,
+    "1": 1
+   },
+   "stills": [
+    "MAIN.PanAndScan.0.webp",
+    "MAIN.PanAndScan.1.webp"
+   ],
+   "full": [
+    "MAIN.PanAndScan.0.full.webp",
+    "MAIN.PanAndScan.1.full.webp"
+   ],
+   "resolution": [
+    1920,
+    1080
+   ]
+  }
+ }
+}
