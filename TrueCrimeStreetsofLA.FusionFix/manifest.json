@@ -1,0 +1,42 @@
+{
+ "format": 1,
+ "plugin": "TrueCrimeStreetsofLA.FusionFix",
+ "version": "2.11.2026.2040",
+ "resolution": [
+  1600,
+  900
+ ],
+ "fps": 30,
+ "files": {
+  "MAIN.SkipIntro.0.full.webp": "c1c8bee29e4fa052",
+  "MAIN.SkipIntro.0.webp": "cf45bcaac04b032d",
+  "MAIN.SkipIntro.1.full.webp": "96fdc72732653be9",
+  "MAIN.SkipIntro.1.webp": "277e6ee8b37bd816"
+ },
+ "settings": {
+  "MAIN.SkipIntro": {
+   "kind": "bool",
+   "values": [
+    "0",
+    "1"
+   ],
+   "frameOfValue": {
+    "0": 0,
+    "1": 1
+   },
+   "stills": [
+    "MAIN.SkipIntro.0.webp",
+    "MAIN.SkipIntro.1.webp"
+   ],
+   "full": [
+    "MAIN.SkipIntro.0.full.webp",
+    "MAIN.SkipIntro.1.full.webp"
+   ],
+   "resolution": [
+    1600,
+    900
+   ],
+   "version": "2.11.2026.2040"
+  }
+ }
+}

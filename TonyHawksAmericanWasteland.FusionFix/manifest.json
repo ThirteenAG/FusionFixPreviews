@@ -1,0 +1,42 @@
+{
+ "format": 1,
+ "plugin": "TonyHawksAmericanWasteland.FusionFix",
+ "version": "2.11.2026.2114",
+ "resolution": [
+  1600,
+  900
+ ],
+ "fps": 30,
+ "files": {
+  "MAIN.SkipIntro.0.full.webp": "8db7bc69334c77ae",
+  "MAIN.SkipIntro.0.webp": "4909d1b9b31aa94a",
+  "MAIN.SkipIntro.1.full.webp": "cdb8d1d851b90e1a",
+  "MAIN.SkipIntro.1.webp": "ed906ec502c0369b"
+ },
+ "settings": {
+  "MAIN.SkipIntro": {
+   "kind": "bool",
+   "values": [
+    "0",
+    "1"
+   ],
+   "frameOfValue": {
+    "0": 0,
+    "1": 1
+   },
+   "stills": [
+    "MAIN.SkipIntro.0.webp",
+    "MAIN.SkipIntro.1.webp"
+   ],
+   "full": [
+    "MAIN.SkipIntro.0.full.webp",
+    "MAIN.SkipIntro.1.full.webp"
+   ],
+   "resolution": [
+    1600,
+    900
+   ],
+   "version": "2.11.2026.2114"
+  }
+ }
+}

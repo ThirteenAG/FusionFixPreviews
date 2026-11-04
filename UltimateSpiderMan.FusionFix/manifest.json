@@ -1,0 +1,42 @@
+{
+ "format": 1,
+ "plugin": "UltimateSpiderMan.FusionFix",
+ "version": "2.11.2026.2040",
+ "resolution": [
+  1280,
+  720
+ ],
+ "fps": 30,
+ "files": {
+  "MAIN.SkipIntro.0.full.webp": "9176ddb58aa76c7a",
+  "MAIN.SkipIntro.0.webp": "ad90992984310c76",
+  "MAIN.SkipIntro.1.full.webp": "b88650494d9f499c",
+  "MAIN.SkipIntro.1.webp": "361a70302253dd1a"
+ },
+ "settings": {
+  "MAIN.SkipIntro": {
+   "kind": "bool",
+   "values": [
+    "0",
+    "1"
+   ],
+   "frameOfValue": {
+    "0": 0,
+    "1": 1
+   },
+   "stills": [
+    "MAIN.SkipIntro.0.webp",
+    "MAIN.SkipIntro.1.webp"
+   ],
+   "full": [
+    "MAIN.SkipIntro.0.full.webp",
+    "MAIN.SkipIntro.1.full.webp"
+   ],
+   "resolution": [
+    1280,
+    720
+   ],
+   "version": "2.11.2026.2040"
+  }
+ }
+}

@@ -1,0 +1,88 @@
+{
+ "format": 1,
+ "plugin": "SilentHill2.FusionFix",
+ "version": "28.10.2026.335",
+ "resolution": [
+  1280,
+  960
+ ],
+ "fps": 30,
+ "files": {
+  "MAIN.FMVWidescreenMode.0.full.webp": "fb66e79f6752d58f",
+  "MAIN.FMVWidescreenMode.0.webp": "a87965ee712a457a",
+  "MAIN.FMVWidescreenMode.1.full.webp": "ceefefdbd10f457d",
+  "MAIN.FMVWidescreenMode.1.webp": "21ddd919f1e85dd5",
+  "MAIN.FOVFactor.0.full.webp": "25c9a9c1a4c2a44e",
+  "MAIN.FOVFactor.0.webp": "ad86abcfc1f14732",
+  "MAIN.FOVFactor.1.full.webp": "8ce86096a1ccc31f",
+  "MAIN.FOVFactor.1.webp": "313ea6cc9d8a077d",
+  "MAIN.FOVFactor.2.full.webp": "215edd77ff6e1247",
+  "MAIN.FOVFactor.2.webp": "a1926907cee21ad9",
+  "MAIN.FOVFactor.3.full.webp": "a2fab370323018d0",
+  "MAIN.FOVFactor.3.webp": "b3ef96d9f0feddf2",
+  "MAIN.FOVFactor.4.full.webp": "e431eb7d9c66167f",
+  "MAIN.FOVFactor.4.webp": "42519f42c34f877b"
+ },
+ "settings": {
+  "MAIN.FOVFactor": {
+   "kind": "float",
+   "values": [
+    0.5,
+    0.75,
+    1,
+    1.5,
+    2
+   ],
+   "frameOfValue": {
+    "1": 2,
+    "2": 4,
+    "0.5": 0,
+    "0.75": 1,
+    "1.5": 3
+   },
+   "stills": [
+    "MAIN.FOVFactor.0.webp",
+    "MAIN.FOVFactor.1.webp",
+    "MAIN.FOVFactor.2.webp",
+    "MAIN.FOVFactor.3.webp",
+    "MAIN.FOVFactor.4.webp"
+   ],
+   "full": [
+    "MAIN.FOVFactor.0.full.webp",
+    "MAIN.FOVFactor.1.full.webp",
+    "MAIN.FOVFactor.2.full.webp",
+    "MAIN.FOVFactor.3.full.webp",
+    "MAIN.FOVFactor.4.full.webp"
+   ],
+   "resolution": [
+    1280,
+    960
+   ],
+   "version": "28.10.2026.335"
+  },
+  "MAIN.FMVWidescreenMode": {
+   "kind": "choice",
+   "values": [
+    0,
+    1
+   ],
+   "frameOfValue": {
+    "0": 0,
+    "1": 1
+   },
+   "stills": [
+    "MAIN.FMVWidescreenMode.0.webp",
+    "MAIN.FMVWidescreenMode.1.webp"
+   ],
+   "full": [
+    "MAIN.FMVWidescreenMode.0.full.webp",
+    "MAIN.FMVWidescreenMode.1.full.webp"
+   ],
+   "resolution": [
+    1280,
+    960
+   ],
+   "version": "28.10.2026.335"
+  }
+ }
+}

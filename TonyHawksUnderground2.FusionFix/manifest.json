@@ -1,0 +1,42 @@
+{
+ "format": 1,
+ "plugin": "TonyHawksUnderground2.FusionFix",
+ "version": "2.11.2026.2114",
+ "resolution": [
+  1600,
+  900
+ ],
+ "fps": 30,
+ "files": {
+  "MAIN.SkipIntro.0.full.webp": "eedefc2dcfab527c",
+  "MAIN.SkipIntro.0.webp": "45c40b77f6e9841a",
+  "MAIN.SkipIntro.1.full.webp": "f6f39abe8bb13d4c",
+  "MAIN.SkipIntro.1.webp": "7fcddf1e978a8a6e"
+ },
+ "settings": {
+  "MAIN.SkipIntro": {
+   "kind": "bool",
+   "values": [
+    "0",
+    "1"
+   ],
+   "frameOfValue": {
+    "0": 0,
+    "1": 1
+   },
+   "stills": [
+    "MAIN.SkipIntro.0.webp",
+    "MAIN.SkipIntro.1.webp"
+   ],
+   "full": [
+    "MAIN.SkipIntro.0.full.webp",
+    "MAIN.SkipIntro.1.full.webp"
+   ],
+   "resolution": [
+    1600,
+    900
+   ],
+   "version": "2.11.2026.2114"
+  }
+ }
+}

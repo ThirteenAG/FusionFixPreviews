@@ -1,0 +1,70 @@
+{
+ "format": 1,
+ "plugin": "TotalOverdose.FusionFix",
+ "version": "2.11.2026.2040",
+ "resolution": [
+  1280,
+  720
+ ],
+ "fps": 30,
+ "files": {
+  "MAIN.FMVWidescreenMode.0.full.webp": "474cbdf43fcfc49c",
+  "MAIN.FMVWidescreenMode.0.webp": "58888d1b0e6664a2",
+  "MAIN.FMVWidescreenMode.1.full.webp": "b3e4ea80f9836d7f",
+  "MAIN.FMVWidescreenMode.1.webp": "2f0587f48c259b00",
+  "MAIN.SkipIntro.0.full.webp": "70b1e95857a33d50",
+  "MAIN.SkipIntro.0.webp": "d688b1cb45b5acf3",
+  "MAIN.SkipIntro.1.full.webp": "f843ec48ea6bfaa1",
+  "MAIN.SkipIntro.1.webp": "43415d9ad7ff2e12"
+ },
+ "settings": {
+  "MAIN.FMVWidescreenMode": {
+   "kind": "choice",
+   "values": [
+    "0",
+    "1"
+   ],
+   "frameOfValue": {
+    "0": 0,
+    "1": 1
+   },
+   "stills": [
+    "MAIN.FMVWidescreenMode.0.webp",
+    "MAIN.FMVWidescreenMode.1.webp"
+   ],
+   "full": [
+    "MAIN.FMVWidescreenMode.0.full.webp",
+    "MAIN.FMVWidescreenMode.1.full.webp"
+   ],
+   "resolution": [
+    1280,
+    720
+   ],
+   "version": "2.11.2026.2040"
+  },
+  "MAIN.SkipIntro": {
+   "kind": "bool",
+   "values": [
+    "0",
+    "1"
+   ],
+   "frameOfValue": {
+    "0": 0,
+    "1": 1
+   },
+   "stills": [
+    "MAIN.SkipIntro.0.webp",
+    "MAIN.SkipIntro.1.webp"
+   ],
+   "full": [
+    "MAIN.SkipIntro.0.full.webp",
+    "MAIN.SkipIntro.1.full.webp"
+   ],
+   "resolution": [
+    1280,
+    720
+   ],
+   "version": "2.11.2026.2040"
+  }
+ }
+}

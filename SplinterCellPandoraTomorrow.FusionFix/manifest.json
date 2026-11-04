@@ -1,0 +1,338 @@
+{
+ "format": 1,
+ "plugin": "SplinterCellPandoraTomorrow.FusionFix",
+ "version": "27.10.2026.1551",
+ "resolution": [
+  1280,
+  720
+ ],
+ "fps": 30,
+ "files": {
+  "BONUS.GogglesLightColor.0.full.webp": "cde5ef9ae0381cd6",
+  "BONUS.GogglesLightColor.0.webp": "937b96a933149f52",
+  "BONUS.GogglesLightColor.1.full.webp": "3f06c65eeb308e87",
+  "BONUS.GogglesLightColor.1.webp": "194dfd652f49d588",
+  "MAIN.CutsceneBorders.0.full.webp": "049e156f9997cb69",
+  "MAIN.CutsceneBorders.0.webp": "78e53f6216f1abf9",
+  "MAIN.CutsceneBorders.1.full.webp": "f4400678b80f065c",
+  "MAIN.CutsceneBorders.1.webp": "5471f54677aa8043",
+  "MAIN.CutsceneBorders.2.full.webp": "d8d6602dbc76c383",
+  "MAIN.CutsceneBorders.2.webp": "5980bf88977a13aa",
+  "MAIN.CutsceneBorders.3.full.webp": "5f949d23f03462c6",
+  "MAIN.CutsceneBorders.3.webp": "d71c4e9fd02d5425",
+  "MAIN.FMVWidescreenMode.0.full.webp": "5012a94c716ef7ae",
+  "MAIN.FMVWidescreenMode.0.webp": "5e9119e23f20a80f",
+  "MAIN.FMVWidescreenMode.1.full.webp": "ff46011571d9a532",
+  "MAIN.FMVWidescreenMode.1.webp": "66751979f651f0ce",
+  "MAIN.FOVFactor.0.full.webp": "6f40254f85fdbd13",
+  "MAIN.FOVFactor.0.webp": "9fdec394d6071ceb",
+  "MAIN.FOVFactor.1.full.webp": "ddbb7234dfd1bcf3",
+  "MAIN.FOVFactor.1.webp": "fa421b44cf3a7bf4",
+  "MAIN.FOVFactor.2.full.webp": "08afb9e8c06f7f64",
+  "MAIN.FOVFactor.2.webp": "80b0e066ae6d123c",
+  "MAIN.FOVFactor.3.full.webp": "398fca124d88250d",
+  "MAIN.FOVFactor.3.webp": "d20f071490ce28f0",
+  "MAIN.FOVFactor.4.full.webp": "0c24faaeb8043050",
+  "MAIN.FOVFactor.4.webp": "ae45a7489fdf7dc7",
+  "MAIN.GamepadIcons.0.full.webp": "476b48aed2a4e1ad",
+  "MAIN.GamepadIcons.0.webp": "4ee025754b6edbda",
+  "MAIN.GamepadIcons.1.full.webp": "3b1f7beb7d2335d3",
+  "MAIN.GamepadIcons.1.webp": "5a9dac78f2c34e42",
+  "MAIN.GamepadIcons.2.full.webp": "8a12bbe75373e8c9",
+  "MAIN.GamepadIcons.2.webp": "bbaf10fc532e0678",
+  "MAIN.GamepadIcons.3.full.webp": "2f4a9ab45b1111fa",
+  "MAIN.GamepadIcons.3.webp": "94bb99900cff60e7",
+  "MAIN.GrainScale.0.full.webp": "ded4d054c1240d64",
+  "MAIN.GrainScale.0.webp": "8fe448e409b108a0",
+  "MAIN.GrainScale.1.full.webp": "da541e6a15b3fb5f",
+  "MAIN.GrainScale.1.webp": "4308c10659ea1f00",
+  "MAIN.GrainScale.2.full.webp": "b191a586a4a8e7bb",
+  "MAIN.GrainScale.2.webp": "71977bcb47872411",
+  "MAIN.HudAspectRatioConstraint.0.full.webp": "b1b938876136eb60",
+  "MAIN.HudAspectRatioConstraint.0.webp": "44f508f1e1a24bb3",
+  "MAIN.HudAspectRatioConstraint.1.full.webp": "dda50ba83b7084f4",
+  "MAIN.HudAspectRatioConstraint.1.webp": "ac4ff1710e3ac1c3",
+  "MAIN.HudAspectRatioConstraint.2.full.webp": "0f05dba1dd8c3605",
+  "MAIN.HudAspectRatioConstraint.2.webp": "3cad5adf555058ba",
+  "MAIN.HudAspectRatioConstraint.3.full.webp": "71a6082453be7356",
+  "MAIN.HudAspectRatioConstraint.3.webp": "d6fcd81a2681685c",
+  "MAIN.HudAspectRatioConstraint.4.full.webp": "c6abd6a70e0d8c62",
+  "MAIN.HudAspectRatioConstraint.4.webp": "3f5f483f107f1247",
+  "MAIN.LightDistanceMultiplier.0.full.webp": "0bb48c2bf04b8e0a",
+  "MAIN.LightDistanceMultiplier.0.webp": "cf6c0eb1f5fdd6c9",
+  "MAIN.LightDistanceMultiplier.1.full.webp": "36f1b5314c0a1201",
+  "MAIN.LightDistanceMultiplier.1.webp": "1282c59aa8380aa4",
+  "MAIN.LightDistanceMultiplier.2.full.webp": "8ff1134c8740ada6",
+  "MAIN.LightDistanceMultiplier.2.webp": "d852dd0668820995",
+  "MAIN.ScopeWidescreenMode.0.full.webp": "a354beacd5262ea5",
+  "MAIN.ScopeWidescreenMode.0.webp": "c85248701162b446",
+  "MAIN.ScopeWidescreenMode.1.full.webp": "0acf63e1c87dbd70",
+  "MAIN.ScopeWidescreenMode.1.webp": "d62fdc62d2fd99a1"
+ },
+ "settings": {
+  "MAIN.HudAspectRatioConstraint": {
+   "kind": "string",
+   "values": [
+    "Auto",
+    "4:3",
+    "16:9",
+    "21:9",
+    "32:9"
+   ],
+   "frameOfValue": {
+    "Auto": 0,
+    "4:3": 1,
+    "16:9": 2,
+    "21:9": 3,
+    "32:9": 4
+   },
+   "stills": [
+    "MAIN.HudAspectRatioConstraint.0.webp",
+    "MAIN.HudAspectRatioConstraint.1.webp",
+    "MAIN.HudAspectRatioConstraint.2.webp",
+    "MAIN.HudAspectRatioConstraint.3.webp",
+    "MAIN.HudAspectRatioConstraint.4.webp"
+   ],
+   "full": [
+    "MAIN.HudAspectRatioConstraint.0.full.webp",
+    "MAIN.HudAspectRatioConstraint.1.full.webp",
+    "MAIN.HudAspectRatioConstraint.2.full.webp",
+    "MAIN.HudAspectRatioConstraint.3.full.webp",
+    "MAIN.HudAspectRatioConstraint.4.full.webp"
+   ],
+   "resolution": [
+    1600,
+    600
+   ],
+   "version": "27.10.2026.726"
+  },
+  "MAIN.ScopeWidescreenMode": {
+   "kind": "bool",
+   "values": [
+    "0",
+    "1"
+   ],
+   "frameOfValue": {
+    "0": 0,
+    "1": 1
+   },
+   "stills": [
+    "MAIN.ScopeWidescreenMode.0.webp",
+    "MAIN.ScopeWidescreenMode.1.webp"
+   ],
+   "full": [
+    "MAIN.ScopeWidescreenMode.0.full.webp",
+    "MAIN.ScopeWidescreenMode.1.full.webp"
+   ],
+   "resolution": [
+    1600,
+    600
+   ],
+   "version": "27.10.2026.726"
+  },
+  "MAIN.FOVFactor": {
+   "kind": "float",
+   "values": [
+    "0.5",
+    "0.75",
+    "1.0",
+    "1.5",
+    "2.0"
+   ],
+   "frameOfValue": {
+    "0.5": 0,
+    "0.75": 1,
+    "1.0": 2,
+    "1.5": 3,
+    "2.0": 4
+   },
+   "stills": [
+    "MAIN.FOVFactor.0.webp",
+    "MAIN.FOVFactor.1.webp",
+    "MAIN.FOVFactor.2.webp",
+    "MAIN.FOVFactor.3.webp",
+    "MAIN.FOVFactor.4.webp"
+   ],
+   "full": [
+    "MAIN.FOVFactor.0.full.webp",
+    "MAIN.FOVFactor.1.full.webp",
+    "MAIN.FOVFactor.2.full.webp",
+    "MAIN.FOVFactor.3.full.webp",
+    "MAIN.FOVFactor.4.full.webp"
+   ],
+   "resolution": [
+    1280,
+    960
+   ],
+   "version": "27.10.2026.726"
+  },
+  "MAIN.CutsceneBorders": {
+   "kind": "choice",
+   "values": [
+    "0",
+    "1",
+    "2",
+    "3"
+   ],
+   "frameOfValue": {
+    "0": 0,
+    "1": 1,
+    "2": 2,
+    "3": 3
+   },
+   "stills": [
+    "MAIN.CutsceneBorders.0.webp",
+    "MAIN.CutsceneBorders.1.webp",
+    "MAIN.CutsceneBorders.2.webp",
+    "MAIN.CutsceneBorders.3.webp"
+   ],
+   "full": [
+    "MAIN.CutsceneBorders.0.full.webp",
+    "MAIN.CutsceneBorders.1.full.webp",
+    "MAIN.CutsceneBorders.2.full.webp",
+    "MAIN.CutsceneBorders.3.full.webp"
+   ],
+   "resolution": [
+    1280,
+    960
+   ],
+   "version": "27.10.2026.726"
+  },
+  "MAIN.FMVWidescreenMode": {
+   "kind": "choice",
+   "values": [
+    "0",
+    "1"
+   ],
+   "frameOfValue": {
+    "0": 0,
+    "1": 1
+   },
+   "stills": [
+    "MAIN.FMVWidescreenMode.0.webp",
+    "MAIN.FMVWidescreenMode.1.webp"
+   ],
+   "full": [
+    "MAIN.FMVWidescreenMode.0.full.webp",
+    "MAIN.FMVWidescreenMode.1.full.webp"
+   ],
+   "resolution": [
+    1600,
+    600
+   ],
+   "version": "27.10.2026.726"
+  },
+  "MAIN.LightDistanceMultiplier": {
+   "kind": "float",
+   "values": [
+    "1.0",
+    "4.5",
+    "8.0"
+   ],
+   "frameOfValue": {
+    "1.0": 0,
+    "4.5": 1,
+    "8.0": 2
+   },
+   "stills": [
+    "MAIN.LightDistanceMultiplier.0.webp",
+    "MAIN.LightDistanceMultiplier.1.webp",
+    "MAIN.LightDistanceMultiplier.2.webp"
+   ],
+   "full": [
+    "MAIN.LightDistanceMultiplier.0.full.webp",
+    "MAIN.LightDistanceMultiplier.1.full.webp",
+    "MAIN.LightDistanceMultiplier.2.full.webp"
+   ],
+   "resolution": [
+    1600,
+    600
+   ],
+   "version": "27.10.2026.726"
+  },
+  "MAIN.GrainScale": {
+   "kind": "float",
+   "values": [
+    "0.0",
+    "0.5",
+    "1.0"
+   ],
+   "frameOfValue": {
+    "0.0": 0,
+    "0.5": 1,
+    "1.0": 2
+   },
+   "stills": [
+    "MAIN.GrainScale.0.webp",
+    "MAIN.GrainScale.1.webp",
+    "MAIN.GrainScale.2.webp"
+   ],
+   "full": [
+    "MAIN.GrainScale.0.full.webp",
+    "MAIN.GrainScale.1.full.webp",
+    "MAIN.GrainScale.2.full.webp"
+   ],
+   "resolution": [
+    1280,
+    960
+   ],
+   "version": "27.10.2026.726"
+  },
+  "BONUS.GogglesLightColor": {
+   "kind": "int",
+   "values": [
+    "0",
+    "16777215"
+   ],
+   "frameOfValue": {
+    "0": 0,
+    "16777215": 1
+   },
+   "stills": [
+    "BONUS.GogglesLightColor.0.webp",
+    "BONUS.GogglesLightColor.1.webp"
+   ],
+   "full": [
+    "BONUS.GogglesLightColor.0.full.webp",
+    "BONUS.GogglesLightColor.1.full.webp"
+   ],
+   "resolution": [
+    1280,
+    960
+   ],
+   "version": "27.10.2026.726"
+  },
+  "MAIN.GamepadIcons": {
+   "kind": "choice",
+   "values": [
+    "0",
+    "1",
+    "2",
+    "3"
+   ],
+   "frameOfValue": {
+    "0": 0,
+    "1": 1,
+    "2": 2,
+    "3": 3
+   },
+   "stills": [
+    "MAIN.GamepadIcons.0.webp",
+    "MAIN.GamepadIcons.1.webp",
+    "MAIN.GamepadIcons.2.webp",
+    "MAIN.GamepadIcons.3.webp"
+   ],
+   "full": [
+    "MAIN.GamepadIcons.0.full.webp",
+    "MAIN.GamepadIcons.1.full.webp",
+    "MAIN.GamepadIcons.2.full.webp",
+    "MAIN.GamepadIcons.3.full.webp"
+   ],
+   "resolution": [
+    1280,
+    720
+   ],
+   "version": "27.10.2026.1551"
+  }
+ }
+}

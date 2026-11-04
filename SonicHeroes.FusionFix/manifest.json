@@ -1,0 +1,126 @@
+{
+ "format": 1,
+ "plugin": "SonicHeroes.FusionFix",
+ "version": "2.11.2026.2114",
+ "resolution": [
+  1280,
+  720
+ ],
+ "fps": 30,
+ "files": {
+  "MAIN.FOVFactor.0.full.webp": "a6e0cb60f13a0ab6",
+  "MAIN.FOVFactor.0.webp": "170d7c704cd2350a",
+  "MAIN.FOVFactor.1.full.webp": "6db358e269ce59c9",
+  "MAIN.FOVFactor.1.webp": "d71dd1e7d46c0c7a",
+  "MAIN.SkipIntro.0.full.webp": "a3507b249a7ddd0a",
+  "MAIN.SkipIntro.0.webp": "a5d63d969cc583b7",
+  "MAIN.SkipIntro.1.full.webp": "85b8b602e309f109",
+  "MAIN.SkipIntro.1.webp": "ae7478908228def9",
+  "MAIN.SkipPressStart.0.full.webp": "2d8b53acf175cf39",
+  "MAIN.SkipPressStart.0.webp": "7b812909353d3229",
+  "MAIN.SkipPressStart.1.full.webp": "d84e0750d02250d3",
+  "MAIN.SkipPressStart.1.webp": "8603f340a54532a4",
+  "MISC.RestoreDemos.0.full.webp": "f5b403b7132c174d",
+  "MISC.RestoreDemos.0.webp": "1ae719110d5aed6f",
+  "MISC.RestoreDemos.1.full.webp": "8cbb9d07943cec7c",
+  "MISC.RestoreDemos.1.webp": "bdcd90c7c17c93a1"
+ },
+ "settings": {
+  "MAIN.FOVFactor": {
+   "kind": "float",
+   "values": [
+    "0.5",
+    "2.0"
+   ],
+   "frameOfValue": {
+    "0.5": 0,
+    "2.0": 1
+   },
+   "stills": [
+    "MAIN.FOVFactor.0.webp",
+    "MAIN.FOVFactor.1.webp"
+   ],
+   "full": [
+    "MAIN.FOVFactor.0.full.webp",
+    "MAIN.FOVFactor.1.full.webp"
+   ],
+   "resolution": [
+    1280,
+    720
+   ],
+   "version": "2.11.2026.2114"
+  },
+  "MAIN.SkipPressStart": {
+   "kind": "bool",
+   "values": [
+    "0",
+    "1"
+   ],
+   "frameOfValue": {
+    "0": 0,
+    "1": 1
+   },
+   "stills": [
+    "MAIN.SkipPressStart.0.webp",
+    "MAIN.SkipPressStart.1.webp"
+   ],
+   "full": [
+    "MAIN.SkipPressStart.0.full.webp",
+    "MAIN.SkipPressStart.1.full.webp"
+   ],
+   "resolution": [
+    1280,
+    720
+   ],
+   "version": "2.11.2026.2040"
+  },
+  "MAIN.SkipIntro": {
+   "kind": "bool",
+   "values": [
+    "0",
+    "1"
+   ],
+   "frameOfValue": {
+    "0": 0,
+    "1": 1
+   },
+   "stills": [
+    "MAIN.SkipIntro.0.webp",
+    "MAIN.SkipIntro.1.webp"
+   ],
+   "full": [
+    "MAIN.SkipIntro.0.full.webp",
+    "MAIN.SkipIntro.1.full.webp"
+   ],
+   "resolution": [
+    1280,
+    720
+   ],
+   "version": "2.11.2026.2040"
+  },
+  "MISC.RestoreDemos": {
+   "kind": "bool",
+   "values": [
+    "0",
+    "1"
+   ],
+   "frameOfValue": {
+    "0": 0,
+    "1": 1
+   },
+   "stills": [
+    "MISC.RestoreDemos.0.webp",
+    "MISC.RestoreDemos.1.webp"
+   ],
+   "full": [
+    "MISC.RestoreDemos.0.full.webp",
+    "MISC.RestoreDemos.1.full.webp"
+   ],
+   "resolution": [
+    1280,
+    720
+   ],
+   "version": "2.11.2026.2040"
+  }
+ }
+}

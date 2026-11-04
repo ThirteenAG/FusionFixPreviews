@@ -1,0 +1,174 @@
+{
+ "format": 1,
+ "plugin": "SplinterCellBlacklist.FusionFix",
+ "version": "29.10.2026.2",
+ "resolution": [
+  2560,
+  720
+ ],
+ "fps": 30,
+ "files": {
+  "MAIN.CutsceneBorders.0.full.webp": "a47ddb643b784fcc",
+  "MAIN.CutsceneBorders.0.webp": "918c5c47ca27e15e",
+  "MAIN.CutsceneBorders.1.full.webp": "a79b122430b4ec27",
+  "MAIN.CutsceneBorders.1.webp": "fcd2baf0a571ff6a",
+  "MAIN.CutsceneBorders.2.full.webp": "ce620a957243973c",
+  "MAIN.CutsceneBorders.2.webp": "32838d155189b423",
+  "MAIN.CutsceneBorders.3.full.webp": "ad072d29b166d4c7",
+  "MAIN.CutsceneBorders.3.webp": "bf98f3def7336e03",
+  "MAIN.FMVWidescreenMode.0.full.webp": "f8c7260cf9f4e4a0",
+  "MAIN.FMVWidescreenMode.0.webp": "6de1a4413707f947",
+  "MAIN.FMVWidescreenMode.1.full.webp": "6dd2828cc22e2a08",
+  "MAIN.FMVWidescreenMode.1.webp": "7b440d655fecafc1",
+  "MAIN.FOVFactor.0.full.webp": "ded37adc62ca5703",
+  "MAIN.FOVFactor.0.webp": "592878949df91231",
+  "MAIN.FOVFactor.1.full.webp": "5fa6e8f04e4663c3",
+  "MAIN.FOVFactor.1.webp": "67d2e9708a2b95b2",
+  "MAIN.FOVFactor.2.full.webp": "f1f97cc8b621ddd7",
+  "MAIN.FOVFactor.2.webp": "d8f8ef30226b7afe",
+  "MAIN.FOVFactor.3.full.webp": "ff13c06a654b0619",
+  "MAIN.FOVFactor.3.webp": "2ad24de94edba084",
+  "MAIN.FOVFactor.4.full.webp": "6fcf4d1659b47994",
+  "MAIN.FOVFactor.4.webp": "bb7a07ab4c4352d1",
+  "MAIN.HudAspectRatioConstraint.0.full.webp": "25894b95969c2256",
+  "MAIN.HudAspectRatioConstraint.0.webp": "89e8feb9bdee9a93",
+  "MAIN.HudAspectRatioConstraint.1.full.webp": "923915f3ead1d3bb",
+  "MAIN.HudAspectRatioConstraint.1.webp": "f7e7bced72f235a4",
+  "MAIN.HudAspectRatioConstraint.2.full.webp": "5b62acb0c8519429",
+  "MAIN.HudAspectRatioConstraint.2.webp": "caee3203086e7a1c",
+  "MAIN.HudAspectRatioConstraint.3.full.webp": "32056ca15f8d8d3e",
+  "MAIN.HudAspectRatioConstraint.3.webp": "5125e632c24d1c43",
+  "MAIN.HudAspectRatioConstraint.4.full.webp": "2faee536ea630a4c",
+  "MAIN.HudAspectRatioConstraint.4.webp": "17712ff12b805ce8"
+ },
+ "settings": {
+  "MAIN.FOVFactor": {
+   "kind": "float",
+   "values": [
+    0.5,
+    0.75,
+    1,
+    1.5,
+    2
+   ],
+   "frameOfValue": {
+    "1": 2,
+    "2": 4,
+    "0.5": 0,
+    "0.75": 1,
+    "1.5": 3
+   },
+   "stills": [
+    "MAIN.FOVFactor.0.webp",
+    "MAIN.FOVFactor.1.webp",
+    "MAIN.FOVFactor.2.webp",
+    "MAIN.FOVFactor.3.webp",
+    "MAIN.FOVFactor.4.webp"
+   ],
+   "full": [
+    "MAIN.FOVFactor.0.full.webp",
+    "MAIN.FOVFactor.1.full.webp",
+    "MAIN.FOVFactor.2.full.webp",
+    "MAIN.FOVFactor.3.full.webp",
+    "MAIN.FOVFactor.4.full.webp"
+   ],
+   "resolution": [
+    2560,
+    720
+   ],
+   "version": "29.10.2026.2"
+  },
+  "MAIN.CutsceneBorders": {
+   "kind": "int",
+   "values": [
+    0,
+    1,
+    2,
+    3
+   ],
+   "frameOfValue": {
+    "0": 0,
+    "1": 1,
+    "2": 2,
+    "3": 3
+   },
+   "stills": [
+    "MAIN.CutsceneBorders.0.webp",
+    "MAIN.CutsceneBorders.1.webp",
+    "MAIN.CutsceneBorders.2.webp",
+    "MAIN.CutsceneBorders.3.webp"
+   ],
+   "full": [
+    "MAIN.CutsceneBorders.0.full.webp",
+    "MAIN.CutsceneBorders.1.full.webp",
+    "MAIN.CutsceneBorders.2.full.webp",
+    "MAIN.CutsceneBorders.3.full.webp"
+   ],
+   "resolution": [
+    2560,
+    720
+   ],
+   "version": "29.10.2026.2"
+  },
+  "MAIN.HudAspectRatioConstraint": {
+   "kind": "string",
+   "values": [
+    "Auto",
+    "4:3",
+    "16:9",
+    "21:9",
+    "32:9"
+   ],
+   "frameOfValue": {
+    "Auto": 0,
+    "4:3": 1,
+    "16:9": 2,
+    "21:9": 3,
+    "32:9": 4
+   },
+   "stills": [
+    "MAIN.HudAspectRatioConstraint.0.webp",
+    "MAIN.HudAspectRatioConstraint.1.webp",
+    "MAIN.HudAspectRatioConstraint.2.webp",
+    "MAIN.HudAspectRatioConstraint.3.webp",
+    "MAIN.HudAspectRatioConstraint.4.webp"
+   ],
+   "full": [
+    "MAIN.HudAspectRatioConstraint.0.full.webp",
+    "MAIN.HudAspectRatioConstraint.1.full.webp",
+    "MAIN.HudAspectRatioConstraint.2.full.webp",
+    "MAIN.HudAspectRatioConstraint.3.full.webp",
+    "MAIN.HudAspectRatioConstraint.4.full.webp"
+   ],
+   "resolution": [
+    2560,
+    720
+   ],
+   "version": "29.10.2026.2"
+  },
+  "MAIN.FMVWidescreenMode": {
+   "kind": "int",
+   "values": [
+    0,
+    1
+   ],
+   "frameOfValue": {
+    "0": 0,
+    "1": 1
+   },
+   "stills": [
+    "MAIN.FMVWidescreenMode.0.webp",
+    "MAIN.FMVWidescreenMode.1.webp"
+   ],
+   "full": [
+    "MAIN.FMVWidescreenMode.0.full.webp",
+    "MAIN.FMVWidescreenMode.1.full.webp"
+   ],
+   "resolution": [
+    2560,
+    720
+   ],
+   "version": "29.10.2026.2"
+  }
+ }
+}

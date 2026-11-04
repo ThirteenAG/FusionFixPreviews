@@ -1,0 +1,106 @@
+{
+ "format": 1,
+ "plugin": "SilentHill4.FusionFix",
+ "version": "28.10.2026.1227",
+ "resolution": [
+  1280,
+  360
+ ],
+ "fps": 30,
+ "files": {
+  "MAIN.FOVFactor.0.full.webp": "9280643b4e35700e",
+  "MAIN.FOVFactor.0.webp": "221fd6bf7e84c573",
+  "MAIN.FOVFactor.1.full.webp": "82d62b4506d61713",
+  "MAIN.FOVFactor.1.webp": "717579045971cc59",
+  "MAIN.FOVFactor.2.full.webp": "35d9ed396803c935",
+  "MAIN.FOVFactor.2.webp": "ca93b578b2c56afc",
+  "MAIN.FOVFactor.3.full.webp": "25e029e3db9cc9d7",
+  "MAIN.FOVFactor.3.webp": "7ca0c9fe1c1be910",
+  "MAIN.FOVFactor.4.full.webp": "9df2fb5e0caae347",
+  "MAIN.FOVFactor.4.webp": "ef9860f578eda928",
+  "MAIN.HudAspectRatioConstraint.0.full.webp": "3cce07da5b78569f",
+  "MAIN.HudAspectRatioConstraint.0.webp": "d155e9dac24f234a",
+  "MAIN.HudAspectRatioConstraint.1.full.webp": "638259be66f03a02",
+  "MAIN.HudAspectRatioConstraint.1.webp": "e710870765fb1136",
+  "MAIN.HudAspectRatioConstraint.2.full.webp": "e7b2c276e82a00d3",
+  "MAIN.HudAspectRatioConstraint.2.webp": "7ce369c870f4cb69",
+  "MAIN.HudAspectRatioConstraint.3.full.webp": "e7f5280e61b73383",
+  "MAIN.HudAspectRatioConstraint.3.webp": "be79621ae31fb8c6",
+  "MAIN.HudAspectRatioConstraint.4.full.webp": "88db5596b4530bde",
+  "MAIN.HudAspectRatioConstraint.4.webp": "7b45bebad92a597d"
+ },
+ "settings": {
+  "MAIN.FOVFactor": {
+   "kind": "float",
+   "values": [
+    0.5,
+    0.75,
+    1,
+    1.5,
+    2
+   ],
+   "frameOfValue": {
+    "1": 2,
+    "2": 4,
+    "0.5": 0,
+    "0.75": 1,
+    "1.5": 3
+   },
+   "stills": [
+    "MAIN.FOVFactor.0.webp",
+    "MAIN.FOVFactor.1.webp",
+    "MAIN.FOVFactor.2.webp",
+    "MAIN.FOVFactor.3.webp",
+    "MAIN.FOVFactor.4.webp"
+   ],
+   "full": [
+    "MAIN.FOVFactor.0.full.webp",
+    "MAIN.FOVFactor.1.full.webp",
+    "MAIN.FOVFactor.2.full.webp",
+    "MAIN.FOVFactor.3.full.webp",
+    "MAIN.FOVFactor.4.full.webp"
+   ],
+   "resolution": [
+    1280,
+    360
+   ],
+   "version": "28.10.2026.1227"
+  },
+  "MAIN.HudAspectRatioConstraint": {
+   "kind": "string",
+   "values": [
+    "Auto",
+    "4:3",
+    "16:9",
+    "21:9",
+    "32:9"
+   ],
+   "frameOfValue": {
+    "Auto": 0,
+    "4:3": 1,
+    "16:9": 2,
+    "21:9": 3,
+    "32:9": 4
+   },
+   "stills": [
+    "MAIN.HudAspectRatioConstraint.0.webp",
+    "MAIN.HudAspectRatioConstraint.1.webp",
+    "MAIN.HudAspectRatioConstraint.2.webp",
+    "MAIN.HudAspectRatioConstraint.3.webp",
+    "MAIN.HudAspectRatioConstraint.4.webp"
+   ],
+   "full": [
+    "MAIN.HudAspectRatioConstraint.0.full.webp",
+    "MAIN.HudAspectRatioConstraint.1.full.webp",
+    "MAIN.HudAspectRatioConstraint.2.full.webp",
+    "MAIN.HudAspectRatioConstraint.3.full.webp",
+    "MAIN.HudAspectRatioConstraint.4.full.webp"
+   ],
+   "resolution": [
+    1280,
+    360
+   ],
+   "version": "28.10.2026.1227"
+  }
+ }
+}

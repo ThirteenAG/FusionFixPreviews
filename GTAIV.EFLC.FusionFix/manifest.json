@@ -2,14 +2,11 @@
  "format": 1,
  "plugin": "GTAIV.EFLC.FusionFix",
  "version": "19.10.2026.1656",
- "capture": "19.10.2026.1656-20261020T185016",
- "exe": "1.2.0.59",
  "resolution": [
   1920,
   1080
  ],
  "fps": 30,
- "source": "automation.py release",
  "files": {
   "FOG.VolumetricFog.0.full.webp": "cadce36aa3c1e814",
   "FOG.VolumetricFog.0.webp": "15184e590554b74f",
@@ -65,10 +62,6 @@
   "MISC.DepthOfField.4.webp": "1944b1414c60cec4",
   "MISC.DepthOfField.5.full.webp": "221db0a3bee8afb9",
   "MISC.DepthOfField.5.webp": "0efdd8ccece07a09",
-  "MISC.DistantLights.0.full.webp": "6a8148fbf4e40032",
-  "MISC.DistantLights.0.webp": "61422a57b87c5eab",
-  "MISC.DistantLights.1.full.webp": "ee2c9f6f444eb9fa",
-  "MISC.DistantLights.1.webp": "b46e4c30731fd7ff",
   "MISC.FieldOfView.0.webp": "d8c653aea954fe8b",
   "MISC.FieldOfView.1.webp": "dc2b147abc3ea068",
   "MISC.FieldOfView.2.webp": "15428d823845a3c6",
@@ -130,20 +123,6 @@
   "POSTFX.AmbientOcclusionIntensity.2.full.webp": "f4558c33f6078ede",
   "POSTFX.AmbientOcclusionIntensity.2.webp": "5e956d1f0d1aec52",
   "POSTFX.AmbientOcclusionIntensity.mp4": "9c1b9dc09fc5750e",
-  "PROJECT2DFX.CoronaAlphaMultiplier.0.full.webp": "1edc7135e47e0760",
-  "PROJECT2DFX.CoronaAlphaMultiplier.0.webp": "08adfac3a6850983",
-  "PROJECT2DFX.CoronaAlphaMultiplier.1.full.webp": "0abd95e4ba6160b2",
-  "PROJECT2DFX.CoronaAlphaMultiplier.1.webp": "f75c1aff35feaac9",
-  "PROJECT2DFX.CoronaAlphaMultiplier.2.full.webp": "e2811578de132b5c",
-  "PROJECT2DFX.CoronaAlphaMultiplier.2.webp": "09f1af7cf54db64c",
-  "PROJECT2DFX.CoronaAlphaMultiplier.mp4": "af083675d43b731f",
-  "PROJECT2DFX.CoronaRadiusMultiplier.0.full.webp": "f675111f7c9b7d5f",
-  "PROJECT2DFX.CoronaRadiusMultiplier.0.webp": "096d4faff081c187",
-  "PROJECT2DFX.CoronaRadiusMultiplier.1.full.webp": "3343fda006a785a1",
-  "PROJECT2DFX.CoronaRadiusMultiplier.1.webp": "3e3ba22cb0b54243",
-  "PROJECT2DFX.CoronaRadiusMultiplier.2.full.webp": "c393a0559d967958",
-  "PROJECT2DFX.CoronaRadiusMultiplier.2.webp": "d416b41fc2a26c79",
-  "PROJECT2DFX.CoronaRadiusMultiplier.mp4": "56f9e809005bfd1e",
   "SHADOWS.ExtraDynamicShadows.0.full.webp": "339c69134d4292f7",
   "SHADOWS.ExtraDynamicShadows.0.webp": "ff25a4f1e70b237f",
   "SHADOWS.ExtraDynamicShadows.1.full.webp": "476ca597ea74a9c1",
@@ -183,8 +162,6 @@
  },
  "settings": {
   "MISC.Antialiasing": {
-   "scene": "bohan-street",
-   "stage": "beforeUI",
    "kind": "choice",
    "values": [
     "0",
@@ -224,8 +201,6 @@
    ]
   },
   "MAIN.Definition": {
-   "scene": "bohan-street",
-   "stage": "beforeUI",
    "kind": "bool",
    "values": [
     "0",
@@ -249,8 +224,6 @@
    ]
   },
   "MISC.ConsoleGamma": {
-   "scene": "bohan-street",
-   "stage": "afterUI",
    "kind": "choice",
    "values": [
     "0",
@@ -278,8 +251,6 @@
    ]
   },
   "MISC.UnclampLighting": {
-   "scene": "middle-park",
-   "stage": "beforeUI",
    "kind": "bool",
    "values": [
     "0",
@@ -303,8 +274,6 @@
    ]
   },
   "SHADOWS.ShadowFilter": {
-   "scene": "fusionfix-page-shadows",
-   "stage": "beforeUI",
    "kind": "choice",
    "values": [
     "0",
@@ -328,8 +297,6 @@
    ]
   },
   "MISC.AmbientOcclusion": {
-   "scene": "bohan-corner",
-   "stage": "beforeUI",
    "kind": "bool",
    "values": [
     "0",
@@ -353,8 +320,6 @@
    ]
   },
   "MISC.SunShafts": {
-   "scene": "park-sunset",
-   "stage": "beforeUI",
    "kind": "bool",
    "values": [
     "0",
@@ -378,8 +343,6 @@
    ]
   },
   "MISC.ToneMapping": {
-   "scene": "park-sunset",
-   "stage": "beforeUI",
    "kind": "bool",
    "values": [
     "0",
@@ -403,8 +366,6 @@
    ]
   },
   "MAIN.Bloom": {
-   "scene": "park-sunset",
-   "stage": "beforeUI",
    "kind": "bool",
    "values": [
     "0",
@@ -428,8 +389,6 @@
    ]
   },
   "MISC.DepthOfField": {
-   "scene": "skyline-day",
-   "stage": "beforeUI",
    "kind": "choice",
    "values": [
     "0",
@@ -469,8 +428,6 @@
    ]
   },
   "FOG.VolumetricFog": {
-   "scene": "skyline-night-rain",
-   "stage": "beforeUI",
    "kind": "bool",
    "values": [
     "0",
@@ -493,34 +450,7 @@
     1080
    ]
   },
-  "MISC.DistantLights": {
-   "scene": "skyline-night",
-   "stage": "beforeUI",
-   "kind": "choice",
-   "values": [
-    "0",
-    "1"
-   ],
-   "frameOfValue": {
-    "0": 0,
-    "1": 1
-   },
-   "stills": [
-    "MISC.DistantLights.0.webp",
-    "MISC.DistantLights.1.webp"
-   ],
-   "full": [
-    "MISC.DistantLights.0.full.webp",
-    "MISC.DistantLights.1.full.webp"
-   ],
-   "resolution": [
-    1920,
-    1080
-   ]
-  },
   "MISC.TreeLighting": {
-   "scene": "middle-park",
-   "stage": "beforeUI",
    "kind": "choice",
    "values": [
     "0",
@@ -548,8 +478,6 @@
    ]
   },
   "MISC.TreeAlpha": {
-   "scene": "middle-park",
-   "stage": "beforeUI",
    "kind": "choice",
    "values": [
     "0",
@@ -577,8 +505,6 @@
    ]
   },
   "MISC.FieldOfView": {
-   "scene": "bohan-street-player",
-   "stage": "beforeUI",
    "kind": "int",
    "values": [
     "0",
@@ -635,8 +561,6 @@
    "clip": "MISC.FieldOfView.mp4"
   },
   "MISC.CenteredFootCam": {
-   "scene": "bohan-street-player",
-   "stage": "beforeUI",
    "kind": "bool",
    "values": [
     "0",
@@ -660,8 +584,6 @@
    ]
   },
   "MISC.OverrideTreeAlpha": {
-   "scene": "middle-park",
-   "stage": "beforeUI",
    "kind": "float",
    "values": [
     "0",
@@ -694,8 +616,6 @@
    "clip": "MISC.OverrideTreeAlpha.mp4"
   },
   "SUNSHAFTS.SunShaftsDensity": {
-   "scene": "park-sunset",
-   "stage": "beforeUI",
    "kind": "float",
    "values": [
     "0.5",
@@ -724,8 +644,6 @@
    "clip": "SUNSHAFTS.SunShaftsDensity.mp4"
   },
   "SUNSHAFTS.SunShaftsDecay": {
-   "scene": "park-sunset",
-   "stage": "beforeUI",
    "kind": "float",
    "values": [
     "0.85",
@@ -753,69 +671,7 @@
    ],
    "clip": "SUNSHAFTS.SunShaftsDecay.mp4"
   },
-  "PROJECT2DFX.CoronaRadiusMultiplier": {
-   "scene": "skyline-night",
-   "stage": "beforeUI",
-   "kind": "float",
-   "values": [
-    "0.5",
-    "1",
-    "2"
-   ],
-   "frameOfValue": {
-    "1": 1,
-    "2": 2,
-    "0.5": 0
-   },
-   "stills": [
-    "PROJECT2DFX.CoronaRadiusMultiplier.0.webp",
-    "PROJECT2DFX.CoronaRadiusMultiplier.1.webp",
-    "PROJECT2DFX.CoronaRadiusMultiplier.2.webp"
-   ],
-   "full": [
-    "PROJECT2DFX.CoronaRadiusMultiplier.0.full.webp",
-    "PROJECT2DFX.CoronaRadiusMultiplier.1.full.webp",
-    "PROJECT2DFX.CoronaRadiusMultiplier.2.full.webp"
-   ],
-   "resolution": [
-    1920,
-    1080
-   ],
-   "clip": "PROJECT2DFX.CoronaRadiusMultiplier.mp4"
-  },
-  "PROJECT2DFX.CoronaAlphaMultiplier": {
-   "scene": "skyline-night",
-   "stage": "beforeUI",
-   "kind": "float",
-   "values": [
-    "0.5",
-    "1",
-    "2"
-   ],
-   "frameOfValue": {
-    "1": 1,
-    "2": 2,
-    "0.5": 0
-   },
-   "stills": [
-    "PROJECT2DFX.CoronaAlphaMultiplier.0.webp",
-    "PROJECT2DFX.CoronaAlphaMultiplier.1.webp",
-    "PROJECT2DFX.CoronaAlphaMultiplier.2.webp"
-   ],
-   "full": [
-    "PROJECT2DFX.CoronaAlphaMultiplier.0.full.webp",
-    "PROJECT2DFX.CoronaAlphaMultiplier.1.full.webp",
-    "PROJECT2DFX.CoronaAlphaMultiplier.2.full.webp"
-   ],
-   "resolution": [
-    1920,
-    1080
-   ],
-   "clip": "PROJECT2DFX.CoronaAlphaMultiplier.mp4"
-  },
   "POSTFX.AmbientOcclusionIntensity": {
-   "scene": "bohan-corner",
-   "stage": "beforeUI",
    "kind": "float",
    "values": [
     "0.2",
@@ -844,8 +700,6 @@
    "clip": "POSTFX.AmbientOcclusionIntensity.mp4"
   },
   "SHADOWS.ExtraDynamicShadows": {
-   "scene": "middle-park",
-   "stage": "beforeUI",
    "kind": "choice",
    "values": [
     "0",
@@ -873,8 +727,6 @@
    ]
   },
   "TEMPORAL.FSRSharpness": {
-   "scene": "bohan-corner",
-   "stage": "beforeUI",
    "kind": "float",
    "values": [
     "0",
@@ -903,8 +755,6 @@
    "clip": "TEMPORAL.FSRSharpness.mp4"
   },
   "MISC.ScreenFilter": {
-   "scene": "bohan-street-evening",
-   "stage": "beforeUI",
    "kind": "choice",
    "values": [
     "0",
@@ -940,8 +790,6 @@
    ]
   },
   "MISC.CenteredVehCam": {
-   "scene": "fusionfix-page-centered-camera",
-   "stage": "beforeUI",
    "kind": "bool",
    "values": [
     "0",

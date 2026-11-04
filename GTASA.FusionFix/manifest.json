@@ -1,0 +1,747 @@
+{
+ "format": 1,
+ "plugin": "GTASA.FusionFix",
+ "version": "26.10.2026.1144",
+ "resolution": [
+  1920,
+  1080
+ ],
+ "fps": 30,
+ "files": {
+  "GRAPHICS.AntiAliasing.0.webp": "394807e73eb6fa03",
+  "GRAPHICS.AntiAliasing.1.webp": "b0400fed69f02e4e",
+  "GRAPHICS.ConsoleGamma.0.full.webp": "d5f4c7a20d137842",
+  "GRAPHICS.ConsoleGamma.0.webp": "8b7bcb8aca5547e7",
+  "GRAPHICS.ConsoleGamma.1.full.webp": "3bd89f9d32e94d9d",
+  "GRAPHICS.ConsoleGamma.1.webp": "f015a262c63bdd8d",
+  "GRAPHICS.TransparentMenu.0.webp": "00600e071a420072",
+  "GRAPHICS.TransparentMenu.1.webp": "a604d24b79e7b521",
+  "MAIN.FOVFactor.0.webp": "b40b9d3ba36e750a",
+  "MAIN.FOVFactor.1.webp": "b700e471a8c3b181",
+  "MAIN.FOVFactor.10.webp": "1d63997d52b5644b",
+  "MAIN.FOVFactor.11.webp": "f87e1fca849b93ac",
+  "MAIN.FOVFactor.12.webp": "46c2a8af44649829",
+  "MAIN.FOVFactor.13.webp": "0cd50d227832b263",
+  "MAIN.FOVFactor.14.webp": "2ecb404f94ea9f99",
+  "MAIN.FOVFactor.15.webp": "b522d771861b94c6",
+  "MAIN.FOVFactor.2.webp": "09b5ca80b0b56ff5",
+  "MAIN.FOVFactor.3.webp": "303b40537ad7dbc9",
+  "MAIN.FOVFactor.4.webp": "8ff7699f2ba1c5ad",
+  "MAIN.FOVFactor.5.webp": "1f26f1d2cdf47d6c",
+  "MAIN.FOVFactor.6.webp": "640af16086812544",
+  "MAIN.FOVFactor.7.webp": "94de71aa4672930f",
+  "MAIN.FOVFactor.8.webp": "2f1fa5c06967dff8",
+  "MAIN.FOVFactor.9.webp": "8d0bde3be73747c9",
+  "MAIN.FOVFactor.mp4": "59218192b6e09ade",
+  "MAIN.GamepadIcons.0.webp": "1eb7075ecb805242",
+  "MAIN.GamepadIcons.1.webp": "73b539a9eff312d5",
+  "MAIN.GamepadIcons.2.webp": "88d6d5989316658e",
+  "MAIN.HudAspectRatioConstraint.0.webp": "861cd2c06b41a9ee",
+  "MAIN.HudAspectRatioConstraint.1.webp": "b15b0939364753bb",
+  "MAIN.HudAspectRatioConstraint.2.webp": "c707963ceba91d4a",
+  "MAIN.HudHeightScale.0.webp": "d377c73179f83c67",
+  "MAIN.HudHeightScale.1.webp": "c5497bfc01341954",
+  "MAIN.HudHeightScale.10.webp": "4f882f7edb764df3",
+  "MAIN.HudHeightScale.2.webp": "2d51364099af30bc",
+  "MAIN.HudHeightScale.3.webp": "27d9cf54946ce81c",
+  "MAIN.HudHeightScale.4.webp": "c5bd6b54dddf2ad1",
+  "MAIN.HudHeightScale.5.webp": "4ef19b6120cbdac3",
+  "MAIN.HudHeightScale.6.webp": "6ccdeb227a146ba1",
+  "MAIN.HudHeightScale.7.webp": "34f0b1f7f564767c",
+  "MAIN.HudHeightScale.8.webp": "0cb32d030416a967",
+  "MAIN.HudHeightScale.9.webp": "95485378a3140e49",
+  "MAIN.HudHeightScale.mp4": "6d852048c09b829c",
+  "MAIN.HudWidthScale.0.webp": "f3a8b76884c2ef49",
+  "MAIN.HudWidthScale.1.webp": "103dba92bf7d4a27",
+  "MAIN.HudWidthScale.10.webp": "5c8958928cf73c92",
+  "MAIN.HudWidthScale.2.webp": "8b53cbb377cc0da3",
+  "MAIN.HudWidthScale.3.webp": "f58b7d755bf5c456",
+  "MAIN.HudWidthScale.4.webp": "6af3ce722bebe36d",
+  "MAIN.HudWidthScale.5.webp": "4d1596c6bfb44e0d",
+  "MAIN.HudWidthScale.6.webp": "626b1b5f0f7d783b",
+  "MAIN.HudWidthScale.7.webp": "068425ddbd70b549",
+  "MAIN.HudWidthScale.8.webp": "2e8d64848d72a75f",
+  "MAIN.HudWidthScale.9.webp": "59868cb247a569f8",
+  "MAIN.HudWidthScale.mp4": "56cab72f72ca33f9",
+  "MAIN.KeyboardIcons.0.webp": "06e56fada6bc45c9",
+  "MAIN.KeyboardIcons.1.webp": "d21f73ca237c2584",
+  "MAIN.MenuAspectRatioConstraint.0.webp": "ff22b066da96490d",
+  "MAIN.MenuAspectRatioConstraint.1.webp": "2da085128500060c",
+  "MAIN.MenuAspectRatioConstraint.2.webp": "ff08fdf9408f1de8",
+  "MAIN.ModernControls.0.webp": "24086ba6d462f2e7",
+  "MAIN.ModernControls.1.webp": "3988d99457b5cccd",
+  "MAIN.RadarHeight.0.webp": "68a3054ce7b8d0a1",
+  "MAIN.RadarHeight.1.webp": "c7be512ffbe9c4a7",
+  "MAIN.RadarHeight.2.webp": "337ef5cb5e01c4e4",
+  "MAIN.RadarHeight.3.webp": "17d05d58caf6fb37",
+  "MAIN.RadarHeight.4.webp": "54fa5f41901edac6",
+  "MAIN.RadarHeight.5.webp": "d4bbeaa3556d158e",
+  "MAIN.RadarHeight.6.webp": "e8d22ae0b6e43531",
+  "MAIN.RadarHeight.7.webp": "562dd4a73156bb03",
+  "MAIN.RadarHeight.8.webp": "fc5a3ab2bd8542e9",
+  "MAIN.RadarHeight.mp4": "85701adf419279d2",
+  "MAIN.RadarWidth.0.webp": "665d9a87364a592b",
+  "MAIN.RadarWidth.1.webp": "09a5c0d02bce937c",
+  "MAIN.RadarWidth.2.webp": "102b5a568dc27e27",
+  "MAIN.RadarWidth.3.webp": "c5e725e744b3feca",
+  "MAIN.RadarWidth.4.webp": "640e10e22fa11ccc",
+  "MAIN.RadarWidth.5.webp": "7b4bcc41aef41742",
+  "MAIN.RadarWidth.6.webp": "fcffcc0c168102a0",
+  "MAIN.RadarWidth.7.webp": "a7e8f1fcc14a4fd7",
+  "MAIN.RadarWidth.8.webp": "f9ca71f088052df2",
+  "MAIN.RadarWidth.mp4": "0f2a4b5f5871a50e",
+  "MAIN.SubtitlesScale.0.webp": "6082931a486c3bde",
+  "MAIN.SubtitlesScale.1.webp": "3b35715799446d52",
+  "MAIN.SubtitlesScale.2.webp": "956f40cbe608bf3c",
+  "MAIN.SubtitlesScale.3.webp": "2a3705a3c5c19d27",
+  "MAIN.SubtitlesScale.4.webp": "d498c73f3e3de124",
+  "MAIN.SubtitlesScale.5.webp": "93609f89df9e2825",
+  "MAIN.SubtitlesScale.6.webp": "949bddb715f0df4f",
+  "MAIN.SubtitlesScale.mp4": "87cd9e5f0a695728",
+  "MISC.FullscreenMap.0.full.webp": "2d25d7b0109e178e",
+  "MISC.FullscreenMap.0.webp": "ed9f2d24442494b3",
+  "MISC.FullscreenMap.1.full.webp": "d4629c036709d3c3",
+  "MISC.FullscreenMap.1.webp": "e7b0154940ea7c88",
+  "MISC.HQRadarDisc.0.webp": "d473eb53ce0c5f59",
+  "MISC.HQRadarDisc.1.webp": "6d38546548c48a9e",
+  "MISC.ReplaceTextShadowWithOutline.0.webp": "4279340843499649",
+  "MISC.ReplaceTextShadowWithOutline.1.webp": "a58d7dd123f71016",
+  "MISC.ReplaceTextShadowWithOutline.2.webp": "140f33b12fb6adfb"
+ },
+ "settings": {
+  "MAIN.HudAspectRatioConstraint": {
+   "kind": "string",
+   "values": [
+    "Auto",
+    "21:9",
+    "16:9"
+   ],
+   "frameOfValue": {
+    "Auto": 0,
+    "21:9": 1,
+    "16:9": 2
+   },
+   "stills": [
+    "MAIN.HudAspectRatioConstraint.0.webp",
+    "MAIN.HudAspectRatioConstraint.1.webp",
+    "MAIN.HudAspectRatioConstraint.2.webp"
+   ],
+   "full": [
+    "MAIN.HudAspectRatioConstraint.0.webp",
+    "MAIN.HudAspectRatioConstraint.1.webp",
+    "MAIN.HudAspectRatioConstraint.2.webp"
+   ],
+   "resolution": [
+    3840,
+    1080
+   ],
+   "version": "26.10.2026.1144"
+  },
+  "MAIN.MenuAspectRatioConstraint": {
+   "kind": "string",
+   "values": [
+    "Auto",
+    "21:9",
+    "16:9"
+   ],
+   "frameOfValue": {
+    "Auto": 0,
+    "21:9": 1,
+    "16:9": 2
+   },
+   "stills": [
+    "MAIN.MenuAspectRatioConstraint.0.webp",
+    "MAIN.MenuAspectRatioConstraint.1.webp",
+    "MAIN.MenuAspectRatioConstraint.2.webp"
+   ],
+   "full": [
+    "MAIN.MenuAspectRatioConstraint.0.webp",
+    "MAIN.MenuAspectRatioConstraint.1.webp",
+    "MAIN.MenuAspectRatioConstraint.2.webp"
+   ],
+   "resolution": [
+    3840,
+    1080
+   ],
+   "version": "26.10.2026.1144"
+  },
+  "MAIN.FOVFactor": {
+   "kind": "float",
+   "values": [
+    "0.5",
+    "0.6",
+    "0.7",
+    "0.8",
+    "0.9",
+    "1.0",
+    "1.1",
+    "1.2",
+    "1.3",
+    "1.4",
+    "1.5",
+    "1.6",
+    "1.7",
+    "1.8",
+    "1.9",
+    "2.0"
+   ],
+   "frameOfValue": {
+    "0.5": 0,
+    "0.6": 1,
+    "0.7": 2,
+    "0.8": 3,
+    "0.9": 4,
+    "1.0": 5,
+    "1.1": 6,
+    "1.2": 7,
+    "1.3": 8,
+    "1.4": 9,
+    "1.5": 10,
+    "1.6": 11,
+    "1.7": 12,
+    "1.8": 13,
+    "1.9": 14,
+    "2.0": 15
+   },
+   "stills": [
+    "MAIN.FOVFactor.0.webp",
+    "MAIN.FOVFactor.1.webp",
+    "MAIN.FOVFactor.2.webp",
+    "MAIN.FOVFactor.3.webp",
+    "MAIN.FOVFactor.4.webp",
+    "MAIN.FOVFactor.5.webp",
+    "MAIN.FOVFactor.6.webp",
+    "MAIN.FOVFactor.7.webp",
+    "MAIN.FOVFactor.8.webp",
+    "MAIN.FOVFactor.9.webp",
+    "MAIN.FOVFactor.10.webp",
+    "MAIN.FOVFactor.11.webp",
+    "MAIN.FOVFactor.12.webp",
+    "MAIN.FOVFactor.13.webp",
+    "MAIN.FOVFactor.14.webp",
+    "MAIN.FOVFactor.15.webp"
+   ],
+   "full": [
+    "MAIN.FOVFactor.0.webp",
+    "MAIN.FOVFactor.1.webp",
+    "MAIN.FOVFactor.2.webp",
+    "MAIN.FOVFactor.3.webp",
+    "MAIN.FOVFactor.4.webp",
+    "MAIN.FOVFactor.5.webp",
+    "MAIN.FOVFactor.6.webp",
+    "MAIN.FOVFactor.7.webp",
+    "MAIN.FOVFactor.8.webp",
+    "MAIN.FOVFactor.9.webp",
+    "MAIN.FOVFactor.10.webp",
+    "MAIN.FOVFactor.11.webp",
+    "MAIN.FOVFactor.12.webp",
+    "MAIN.FOVFactor.13.webp",
+    "MAIN.FOVFactor.14.webp",
+    "MAIN.FOVFactor.15.webp"
+   ],
+   "resolution": [
+    1920,
+    1080
+   ],
+   "clip": "MAIN.FOVFactor.mp4",
+   "version": "26.10.2026.1144"
+  },
+  "MAIN.HudWidthScale": {
+   "kind": "float",
+   "values": [
+    "0.5",
+    "0.6",
+    "0.7",
+    "0.8",
+    "0.9",
+    "1.0",
+    "1.1",
+    "1.2",
+    "1.3",
+    "1.4",
+    "1.5"
+   ],
+   "frameOfValue": {
+    "0.5": 0,
+    "0.6": 1,
+    "0.7": 2,
+    "0.8": 3,
+    "0.9": 4,
+    "1.0": 5,
+    "1.1": 6,
+    "1.2": 7,
+    "1.3": 8,
+    "1.4": 9,
+    "1.5": 10
+   },
+   "stills": [
+    "MAIN.HudWidthScale.0.webp",
+    "MAIN.HudWidthScale.1.webp",
+    "MAIN.HudWidthScale.2.webp",
+    "MAIN.HudWidthScale.3.webp",
+    "MAIN.HudWidthScale.4.webp",
+    "MAIN.HudWidthScale.5.webp",
+    "MAIN.HudWidthScale.6.webp",
+    "MAIN.HudWidthScale.7.webp",
+    "MAIN.HudWidthScale.8.webp",
+    "MAIN.HudWidthScale.9.webp",
+    "MAIN.HudWidthScale.10.webp"
+   ],
+   "full": [
+    "MAIN.HudWidthScale.0.webp",
+    "MAIN.HudWidthScale.1.webp",
+    "MAIN.HudWidthScale.2.webp",
+    "MAIN.HudWidthScale.3.webp",
+    "MAIN.HudWidthScale.4.webp",
+    "MAIN.HudWidthScale.5.webp",
+    "MAIN.HudWidthScale.6.webp",
+    "MAIN.HudWidthScale.7.webp",
+    "MAIN.HudWidthScale.8.webp",
+    "MAIN.HudWidthScale.9.webp",
+    "MAIN.HudWidthScale.10.webp"
+   ],
+   "resolution": [
+    1920,
+    1080
+   ],
+   "clip": "MAIN.HudWidthScale.mp4",
+   "version": "26.10.2026.1144"
+  },
+  "MAIN.HudHeightScale": {
+   "kind": "float",
+   "values": [
+    "0.5",
+    "0.6",
+    "0.7",
+    "0.8",
+    "0.9",
+    "1.0",
+    "1.1",
+    "1.2",
+    "1.3",
+    "1.4",
+    "1.5"
+   ],
+   "frameOfValue": {
+    "0.5": 0,
+    "0.6": 1,
+    "0.7": 2,
+    "0.8": 3,
+    "0.9": 4,
+    "1.0": 5,
+    "1.1": 6,
+    "1.2": 7,
+    "1.3": 8,
+    "1.4": 9,
+    "1.5": 10
+   },
+   "stills": [
+    "MAIN.HudHeightScale.0.webp",
+    "MAIN.HudHeightScale.1.webp",
+    "MAIN.HudHeightScale.2.webp",
+    "MAIN.HudHeightScale.3.webp",
+    "MAIN.HudHeightScale.4.webp",
+    "MAIN.HudHeightScale.5.webp",
+    "MAIN.HudHeightScale.6.webp",
+    "MAIN.HudHeightScale.7.webp",
+    "MAIN.HudHeightScale.8.webp",
+    "MAIN.HudHeightScale.9.webp",
+    "MAIN.HudHeightScale.10.webp"
+   ],
+   "full": [
+    "MAIN.HudHeightScale.0.webp",
+    "MAIN.HudHeightScale.1.webp",
+    "MAIN.HudHeightScale.2.webp",
+    "MAIN.HudHeightScale.3.webp",
+    "MAIN.HudHeightScale.4.webp",
+    "MAIN.HudHeightScale.5.webp",
+    "MAIN.HudHeightScale.6.webp",
+    "MAIN.HudHeightScale.7.webp",
+    "MAIN.HudHeightScale.8.webp",
+    "MAIN.HudHeightScale.9.webp",
+    "MAIN.HudHeightScale.10.webp"
+   ],
+   "resolution": [
+    1920,
+    1080
+   ],
+   "clip": "MAIN.HudHeightScale.mp4",
+   "version": "26.10.2026.1144"
+  },
+  "MAIN.RadarWidth": {
+   "kind": "float",
+   "values": [
+    "60",
+    "70",
+    "80",
+    "90",
+    "100",
+    "110",
+    "120",
+    "130",
+    "140"
+   ],
+   "frameOfValue": {
+    "60": 0,
+    "70": 1,
+    "80": 2,
+    "90": 3,
+    "100": 4,
+    "110": 5,
+    "120": 6,
+    "130": 7,
+    "140": 8
+   },
+   "stills": [
+    "MAIN.RadarWidth.0.webp",
+    "MAIN.RadarWidth.1.webp",
+    "MAIN.RadarWidth.2.webp",
+    "MAIN.RadarWidth.3.webp",
+    "MAIN.RadarWidth.4.webp",
+    "MAIN.RadarWidth.5.webp",
+    "MAIN.RadarWidth.6.webp",
+    "MAIN.RadarWidth.7.webp",
+    "MAIN.RadarWidth.8.webp"
+   ],
+   "full": [
+    "MAIN.RadarWidth.0.webp",
+    "MAIN.RadarWidth.1.webp",
+    "MAIN.RadarWidth.2.webp",
+    "MAIN.RadarWidth.3.webp",
+    "MAIN.RadarWidth.4.webp",
+    "MAIN.RadarWidth.5.webp",
+    "MAIN.RadarWidth.6.webp",
+    "MAIN.RadarWidth.7.webp",
+    "MAIN.RadarWidth.8.webp"
+   ],
+   "resolution": [
+    1920,
+    1080
+   ],
+   "clip": "MAIN.RadarWidth.mp4",
+   "version": "26.10.2026.1144"
+  },
+  "MAIN.RadarHeight": {
+   "kind": "float",
+   "values": [
+    "60",
+    "70",
+    "80",
+    "90",
+    "100",
+    "110",
+    "120",
+    "130",
+    "140"
+   ],
+   "frameOfValue": {
+    "60": 0,
+    "70": 1,
+    "80": 2,
+    "90": 3,
+    "100": 4,
+    "110": 5,
+    "120": 6,
+    "130": 7,
+    "140": 8
+   },
+   "stills": [
+    "MAIN.RadarHeight.0.webp",
+    "MAIN.RadarHeight.1.webp",
+    "MAIN.RadarHeight.2.webp",
+    "MAIN.RadarHeight.3.webp",
+    "MAIN.RadarHeight.4.webp",
+    "MAIN.RadarHeight.5.webp",
+    "MAIN.RadarHeight.6.webp",
+    "MAIN.RadarHeight.7.webp",
+    "MAIN.RadarHeight.8.webp"
+   ],
+   "full": [
+    "MAIN.RadarHeight.0.webp",
+    "MAIN.RadarHeight.1.webp",
+    "MAIN.RadarHeight.2.webp",
+    "MAIN.RadarHeight.3.webp",
+    "MAIN.RadarHeight.4.webp",
+    "MAIN.RadarHeight.5.webp",
+    "MAIN.RadarHeight.6.webp",
+    "MAIN.RadarHeight.7.webp",
+    "MAIN.RadarHeight.8.webp"
+   ],
+   "resolution": [
+    1920,
+    1080
+   ],
+   "clip": "MAIN.RadarHeight.mp4",
+   "version": "26.10.2026.1144"
+  },
+  "MAIN.SubtitlesScale": {
+   "kind": "float",
+   "values": [
+    "0.5",
+    "0.75",
+    "1.0",
+    "1.25",
+    "1.5",
+    "1.75",
+    "2.0"
+   ],
+   "frameOfValue": {
+    "0.5": 0,
+    "0.75": 1,
+    "1.0": 2,
+    "1.25": 3,
+    "1.5": 4,
+    "1.75": 5,
+    "2.0": 6
+   },
+   "stills": [
+    "MAIN.SubtitlesScale.0.webp",
+    "MAIN.SubtitlesScale.1.webp",
+    "MAIN.SubtitlesScale.2.webp",
+    "MAIN.SubtitlesScale.3.webp",
+    "MAIN.SubtitlesScale.4.webp",
+    "MAIN.SubtitlesScale.5.webp",
+    "MAIN.SubtitlesScale.6.webp"
+   ],
+   "full": [
+    "MAIN.SubtitlesScale.0.webp",
+    "MAIN.SubtitlesScale.1.webp",
+    "MAIN.SubtitlesScale.2.webp",
+    "MAIN.SubtitlesScale.3.webp",
+    "MAIN.SubtitlesScale.4.webp",
+    "MAIN.SubtitlesScale.5.webp",
+    "MAIN.SubtitlesScale.6.webp"
+   ],
+   "resolution": [
+    1920,
+    1080
+   ],
+   "clip": "MAIN.SubtitlesScale.mp4",
+   "version": "26.10.2026.1144"
+  },
+  "MISC.FullscreenMap": {
+   "kind": "bool",
+   "values": [
+    "0",
+    "1"
+   ],
+   "frameOfValue": {
+    "0": 0,
+    "1": 1
+   },
+   "stills": [
+    "MISC.FullscreenMap.0.webp",
+    "MISC.FullscreenMap.1.webp"
+   ],
+   "full": [
+    "MISC.FullscreenMap.0.full.webp",
+    "MISC.FullscreenMap.1.full.webp"
+   ],
+   "resolution": [
+    1300,
+    784
+   ],
+   "version": "2.11.2026.2114"
+  },
+  "GRAPHICS.AntiAliasing": {
+   "kind": "choice",
+   "values": [
+    "0",
+    "1"
+   ],
+   "frameOfValue": {
+    "0": 0,
+    "1": 1
+   },
+   "stills": [
+    "GRAPHICS.AntiAliasing.0.webp",
+    "GRAPHICS.AntiAliasing.1.webp"
+   ],
+   "full": [
+    "GRAPHICS.AntiAliasing.0.webp",
+    "GRAPHICS.AntiAliasing.1.webp"
+   ],
+   "resolution": [
+    1920,
+    1080
+   ],
+   "version": "26.10.2026.1144"
+  },
+  "GRAPHICS.ConsoleGamma": {
+   "kind": "bool",
+   "values": [
+    "0",
+    "1"
+   ],
+   "frameOfValue": {
+    "0": 0,
+    "1": 1
+   },
+   "stills": [
+    "GRAPHICS.ConsoleGamma.0.webp",
+    "GRAPHICS.ConsoleGamma.1.webp"
+   ],
+   "full": [
+    "GRAPHICS.ConsoleGamma.0.full.webp",
+    "GRAPHICS.ConsoleGamma.1.full.webp"
+   ],
+   "resolution": [
+    1920,
+    1080
+   ],
+   "version": "26.10.2026.1144"
+  },
+  "MAIN.KeyboardIcons": {
+   "kind": "bool",
+   "values": [
+    "0",
+    "1"
+   ],
+   "frameOfValue": {
+    "0": 0,
+    "1": 1
+   },
+   "stills": [
+    "MAIN.KeyboardIcons.0.webp",
+    "MAIN.KeyboardIcons.1.webp"
+   ],
+   "full": [
+    "MAIN.KeyboardIcons.0.webp",
+    "MAIN.KeyboardIcons.1.webp"
+   ],
+   "resolution": [
+    1920,
+    1080
+   ],
+   "version": "26.10.2026.1144"
+  },
+  "MAIN.ModernControls": {
+   "kind": "bool",
+   "values": [
+    "0",
+    "1"
+   ],
+   "frameOfValue": {
+    "0": 0,
+    "1": 1
+   },
+   "stills": [
+    "MAIN.ModernControls.0.webp",
+    "MAIN.ModernControls.1.webp"
+   ],
+   "full": [
+    "MAIN.ModernControls.0.webp",
+    "MAIN.ModernControls.1.webp"
+   ],
+   "resolution": [
+    1920,
+    1080
+   ],
+   "version": "26.10.2026.1144"
+  },
+  "MAIN.GamepadIcons": {
+   "kind": "choice",
+   "values": [
+    "1",
+    "2",
+    "3"
+   ],
+   "frameOfValue": {
+    "1": 0,
+    "2": 1,
+    "3": 2
+   },
+   "stills": [
+    "MAIN.GamepadIcons.0.webp",
+    "MAIN.GamepadIcons.1.webp",
+    "MAIN.GamepadIcons.2.webp"
+   ],
+   "full": [
+    "MAIN.GamepadIcons.0.webp",
+    "MAIN.GamepadIcons.1.webp",
+    "MAIN.GamepadIcons.2.webp"
+   ],
+   "resolution": [
+    1920,
+    1080
+   ],
+   "version": "26.10.2026.1144"
+  },
+  "MISC.HQRadarDisc": {
+   "kind": "bool",
+   "values": [
+    "0",
+    "1"
+   ],
+   "frameOfValue": {
+    "0": 0,
+    "1": 1
+   },
+   "stills": [
+    "MISC.HQRadarDisc.0.webp",
+    "MISC.HQRadarDisc.1.webp"
+   ],
+   "full": [
+    "MISC.HQRadarDisc.0.webp",
+    "MISC.HQRadarDisc.1.webp"
+   ],
+   "resolution": [
+    1920,
+    1080
+   ],
+   "version": "26.10.2026.1144"
+  },
+  "MISC.ReplaceTextShadowWithOutline": {
+   "kind": "choice",
+   "values": [
+    "0",
+    "1",
+    "2"
+   ],
+   "frameOfValue": {
+    "0": 0,
+    "1": 1,
+    "2": 2
+   },
+   "stills": [
+    "MISC.ReplaceTextShadowWithOutline.0.webp",
+    "MISC.ReplaceTextShadowWithOutline.1.webp",
+    "MISC.ReplaceTextShadowWithOutline.2.webp"
+   ],
+   "full": [
+    "MISC.ReplaceTextShadowWithOutline.0.webp",
+    "MISC.ReplaceTextShadowWithOutline.1.webp",
+    "MISC.ReplaceTextShadowWithOutline.2.webp"
+   ],
+   "resolution": [
+    1920,
+    1080
+   ],
+   "version": "26.10.2026.1144"
+  },
+  "GRAPHICS.TransparentMenu": {
+   "kind": "bool",
+   "values": [
+    "0",
+    "1"
+   ],
+   "frameOfValue": {
+    "0": 0,
+    "1": 1
+   },
+   "stills": [
+    "GRAPHICS.TransparentMenu.0.webp",
+    "GRAPHICS.TransparentMenu.1.webp"
+   ],
+   "full": [
+    "GRAPHICS.TransparentMenu.0.webp",
+    "GRAPHICS.TransparentMenu.1.webp"
+   ],
+   "resolution": [
+    1920,
+    1080
+   ],
+   "version": "26.10.2026.1144"
+  }
+ }
+}

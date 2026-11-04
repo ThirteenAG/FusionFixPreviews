@@ -1,0 +1,174 @@
+{
+ "format": 1,
+ "plugin": "Driv3r.FusionFix",
+ "version": "28.10.2026.805",
+ "resolution": [
+  1600,
+  1200
+ ],
+ "fps": 30,
+ "files": {
+  "MAIN.FMVWidescreenMode.0.full.webp": "c557fe37cb0f4bab",
+  "MAIN.FMVWidescreenMode.0.webp": "38be584350e28fbd",
+  "MAIN.FMVWidescreenMode.1.full.webp": "27c3bd8b382d0215",
+  "MAIN.FMVWidescreenMode.1.webp": "185d85f57d2b42db",
+  "MAIN.FOVFactor.0.full.webp": "6c8e22d4b4c4a807",
+  "MAIN.FOVFactor.0.webp": "f28a92e31d7ee78c",
+  "MAIN.FOVFactor.1.full.webp": "a22059a615289d2a",
+  "MAIN.FOVFactor.1.webp": "7f25847ebb082f03",
+  "MAIN.FOVFactor.2.full.webp": "8c6e81343b64e538",
+  "MAIN.FOVFactor.2.webp": "dc867b9292bcdbe6",
+  "MAIN.FOVFactor.3.full.webp": "c319161b8e209f87",
+  "MAIN.FOVFactor.3.webp": "7955d6f650efd49d",
+  "MAIN.FOVFactor.4.full.webp": "538dfceee935ad43",
+  "MAIN.FOVFactor.4.webp": "9bc8b51338f949b9",
+  "MAIN.GamepadIcons.0.full.webp": "0a09ed610306a369",
+  "MAIN.GamepadIcons.0.webp": "792b169472330cbe",
+  "MAIN.GamepadIcons.1.full.webp": "e34841edc29fd31c",
+  "MAIN.GamepadIcons.1.webp": "8ebfe806faf4d956",
+  "MAIN.GamepadIcons.2.full.webp": "372baf73d48f4d31",
+  "MAIN.GamepadIcons.2.webp": "e44c7c156bdfc37c",
+  "MAIN.GamepadIcons.3.full.webp": "b5e7415b56800246",
+  "MAIN.GamepadIcons.3.webp": "191980d5e269b027",
+  "MAIN.HudAspectRatioConstraint.0.full.webp": "f4d8207a80d21007",
+  "MAIN.HudAspectRatioConstraint.0.webp": "2b2fa034d93bb292",
+  "MAIN.HudAspectRatioConstraint.1.full.webp": "84db0ede2ba18fab",
+  "MAIN.HudAspectRatioConstraint.1.webp": "79b07feab9bb5dd7",
+  "MAIN.HudAspectRatioConstraint.2.full.webp": "528afacef543ceb4",
+  "MAIN.HudAspectRatioConstraint.2.webp": "f82dda20430bab40",
+  "MAIN.HudAspectRatioConstraint.3.full.webp": "070e44e4bb60a151",
+  "MAIN.HudAspectRatioConstraint.3.webp": "e76929fb1439df06",
+  "MAIN.HudAspectRatioConstraint.4.full.webp": "a290b8af03638edc",
+  "MAIN.HudAspectRatioConstraint.4.webp": "b3bd4e5b947c93b1"
+ },
+ "settings": {
+  "MAIN.FOVFactor": {
+   "kind": "float",
+   "values": [
+    0.5,
+    0.75,
+    1,
+    1.5,
+    2
+   ],
+   "frameOfValue": {
+    "1": 2,
+    "2": 4,
+    "0.5": 0,
+    "0.75": 1,
+    "1.5": 3
+   },
+   "stills": [
+    "MAIN.FOVFactor.0.webp",
+    "MAIN.FOVFactor.1.webp",
+    "MAIN.FOVFactor.2.webp",
+    "MAIN.FOVFactor.3.webp",
+    "MAIN.FOVFactor.4.webp"
+   ],
+   "full": [
+    "MAIN.FOVFactor.0.full.webp",
+    "MAIN.FOVFactor.1.full.webp",
+    "MAIN.FOVFactor.2.full.webp",
+    "MAIN.FOVFactor.3.full.webp",
+    "MAIN.FOVFactor.4.full.webp"
+   ],
+   "resolution": [
+    1920,
+    1080
+   ],
+   "version": "28.10.2026.805"
+  },
+  "MAIN.HudAspectRatioConstraint": {
+   "kind": "string",
+   "values": [
+    "Auto",
+    "4:3",
+    "16:9",
+    "21:9",
+    "32:9"
+   ],
+   "frameOfValue": {
+    "Auto": 0,
+    "4:3": 1,
+    "16:9": 2,
+    "21:9": 3,
+    "32:9": 4
+   },
+   "stills": [
+    "MAIN.HudAspectRatioConstraint.0.webp",
+    "MAIN.HudAspectRatioConstraint.1.webp",
+    "MAIN.HudAspectRatioConstraint.2.webp",
+    "MAIN.HudAspectRatioConstraint.3.webp",
+    "MAIN.HudAspectRatioConstraint.4.webp"
+   ],
+   "full": [
+    "MAIN.HudAspectRatioConstraint.0.full.webp",
+    "MAIN.HudAspectRatioConstraint.1.full.webp",
+    "MAIN.HudAspectRatioConstraint.2.full.webp",
+    "MAIN.HudAspectRatioConstraint.3.full.webp",
+    "MAIN.HudAspectRatioConstraint.4.full.webp"
+   ],
+   "resolution": [
+    1920,
+    1080
+   ],
+   "version": "28.10.2026.805"
+  },
+  "MAIN.FMVWidescreenMode": {
+   "kind": "choice",
+   "values": [
+    0,
+    1
+   ],
+   "frameOfValue": {
+    "0": 0,
+    "1": 1
+   },
+   "stills": [
+    "MAIN.FMVWidescreenMode.0.webp",
+    "MAIN.FMVWidescreenMode.1.webp"
+   ],
+   "full": [
+    "MAIN.FMVWidescreenMode.0.full.webp",
+    "MAIN.FMVWidescreenMode.1.full.webp"
+   ],
+   "resolution": [
+    1600,
+    1200
+   ],
+   "version": "28.10.2026.805"
+  },
+  "MAIN.GamepadIcons": {
+   "kind": "choice",
+   "values": [
+    0,
+    1,
+    2,
+    3
+   ],
+   "frameOfValue": {
+    "0": 0,
+    "1": 1,
+    "2": 2,
+    "3": 3
+   },
+   "stills": [
+    "MAIN.GamepadIcons.0.webp",
+    "MAIN.GamepadIcons.1.webp",
+    "MAIN.GamepadIcons.2.webp",
+    "MAIN.GamepadIcons.3.webp"
+   ],
+   "full": [
+    "MAIN.GamepadIcons.0.full.webp",
+    "MAIN.GamepadIcons.1.full.webp",
+    "MAIN.GamepadIcons.2.full.webp",
+    "MAIN.GamepadIcons.3.full.webp"
+   ],
+   "resolution": [
+    1920,
+    1080
+   ],
+   "version": "28.10.2026.805"
+  }
+ }
+}

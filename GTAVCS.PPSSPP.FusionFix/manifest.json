@@ -1,0 +1,266 @@
+{
+ "format": 1,
+ "plugin": "GTAVCS.PPSSPP.FusionFix",
+ "version": "2.0",
+ "resolution": [
+  1422,
+  442
+ ],
+ "fps": 30,
+ "files": {
+  "MAIN.FOVFactor.0.full.webp": "7584408db45a2eea",
+  "MAIN.FOVFactor.0.webp": "94ed8217b69a0bad",
+  "MAIN.FOVFactor.1.full.webp": "8131f30d377d6dd4",
+  "MAIN.FOVFactor.1.webp": "244865e94e24e23f",
+  "MAIN.FOVFactor.2.full.webp": "c6c9aaf56325fd2b",
+  "MAIN.FOVFactor.2.webp": "de00467cebf69911",
+  "MAIN.FOVFactor.3.full.webp": "aa52f283d4f76e4e",
+  "MAIN.FOVFactor.3.webp": "d5bd32de831ef402",
+  "MAIN.FOVFactor.4.full.webp": "431960c33e2df63a",
+  "MAIN.FOVFactor.4.webp": "79d906b7ed7d328f",
+  "MAIN.GamepadIcons.0.webp": "d5993dbbf374c36c",
+  "MAIN.GamepadIcons.1.webp": "741d9f38a7a45dc7",
+  "MAIN.GamepadIcons.2.webp": "f1767bc00ecb4c4e",
+  "MAIN.GamepadIcons.3.webp": "3ee8e88a9782b9d3",
+  "MAIN.GamepadIcons.4.webp": "77fdd0ca5ea48a42",
+  "MAIN.GamepadIcons.5.webp": "0c82fe5a82e1d3be",
+  "MAIN.GamepadIcons.6.webp": "35d71109a1e86363",
+  "MAIN.GamepadIcons.7.webp": "fdb2299f53655bc1",
+  "MAIN.HudAspectRatioConstraint.0.full.webp": "335fd57c4f915e63",
+  "MAIN.HudAspectRatioConstraint.0.webp": "339dd8f335c00ebe",
+  "MAIN.HudAspectRatioConstraint.1.full.webp": "4e8a58b2665f41d2",
+  "MAIN.HudAspectRatioConstraint.1.webp": "c5907ac77de46ecc",
+  "MAIN.HudAspectRatioConstraint.2.full.webp": "dbe8f74f666ec30c",
+  "MAIN.HudAspectRatioConstraint.2.webp": "ae4c90428d4ae975",
+  "MAIN.HudAspectRatioConstraint.3.full.webp": "bf607900fa968dd7",
+  "MAIN.HudAspectRatioConstraint.3.webp": "a521308a868d3aa6",
+  "MAIN.HudAspectRatioConstraint.4.full.webp": "fb922d3fa70015c2",
+  "MAIN.HudAspectRatioConstraint.4.webp": "89f57ad950db028e",
+  "MAIN.HudScale.0.full.webp": "5240058535bc5115",
+  "MAIN.HudScale.0.webp": "87ee48a7ab925397",
+  "MAIN.HudScale.1.full.webp": "fab6c12b07b528be",
+  "MAIN.HudScale.1.webp": "5d7a721a0cb29abf",
+  "MAIN.HudScale.2.full.webp": "491f4bd0d71f3163",
+  "MAIN.HudScale.2.webp": "74491840d3bd310d",
+  "MAIN.HudScale.3.full.webp": "72e281939f292808",
+  "MAIN.HudScale.3.webp": "557921c2db4efd5c",
+  "MAIN.HudScale.4.full.webp": "62d23a5a7b1962b5",
+  "MAIN.HudScale.4.webp": "88403a59b72f92a8",
+  "MAIN.HudScale.5.full.webp": "6b9c164676eeba9d",
+  "MAIN.HudScale.5.webp": "42636db6b671c20d",
+  "RADAR.RadarScale.0.full.webp": "69e62b9ea34208d5",
+  "RADAR.RadarScale.0.webp": "78874c208d20b727",
+  "RADAR.RadarScale.1.full.webp": "ccb9e691cf7dd397",
+  "RADAR.RadarScale.1.webp": "fc30f90943057f59",
+  "RADAR.RadarScale.2.full.webp": "c3a1069deee46d84",
+  "RADAR.RadarScale.2.webp": "138a3789cda43880",
+  "RADAR.RadarScale.3.full.webp": "b3054f855c325fe3",
+  "RADAR.RadarScale.3.webp": "972ce2ac0b5499d5",
+  "RADAR.RadarScale.4.full.webp": "42b4324e6e47cb02",
+  "RADAR.RadarScale.4.webp": "39d5a8394ab57110",
+  "RADAR.RadarScale.5.full.webp": "22ea63407fa5313a",
+  "RADAR.RadarScale.5.webp": "718f0661602b7d25"
+ },
+ "settings": {
+  "MAIN.HudScale": {
+   "kind": "float",
+   "values": [
+    "0.1",
+    "0.4",
+    "0.75",
+    "1.0",
+    "1.35",
+    "2.0"
+   ],
+   "frameOfValue": {
+    "0.1": 0,
+    "0.4": 1,
+    "0.75": 2,
+    "1.0": 3,
+    "1.35": 4,
+    "2.0": 5
+   },
+   "stills": [
+    "MAIN.HudScale.0.webp",
+    "MAIN.HudScale.1.webp",
+    "MAIN.HudScale.2.webp",
+    "MAIN.HudScale.3.webp",
+    "MAIN.HudScale.4.webp",
+    "MAIN.HudScale.5.webp"
+   ],
+   "full": [
+    "MAIN.HudScale.0.full.webp",
+    "MAIN.HudScale.1.full.webp",
+    "MAIN.HudScale.2.full.webp",
+    "MAIN.HudScale.3.full.webp",
+    "MAIN.HudScale.4.full.webp",
+    "MAIN.HudScale.5.full.webp"
+   ],
+   "resolution": [
+    1422,
+    442
+   ],
+   "version": "2.0"
+  },
+  "MAIN.HudAspectRatioConstraint": {
+   "kind": "string",
+   "values": [
+    "Auto",
+    "4:3",
+    "16:9",
+    "21:9",
+    "32:9"
+   ],
+   "frameOfValue": {
+    "Auto": 0,
+    "4:3": 1,
+    "16:9": 2,
+    "21:9": 3,
+    "32:9": 4
+   },
+   "stills": [
+    "MAIN.HudAspectRatioConstraint.0.webp",
+    "MAIN.HudAspectRatioConstraint.1.webp",
+    "MAIN.HudAspectRatioConstraint.2.webp",
+    "MAIN.HudAspectRatioConstraint.3.webp",
+    "MAIN.HudAspectRatioConstraint.4.webp"
+   ],
+   "full": [
+    "MAIN.HudAspectRatioConstraint.0.full.webp",
+    "MAIN.HudAspectRatioConstraint.1.full.webp",
+    "MAIN.HudAspectRatioConstraint.2.full.webp",
+    "MAIN.HudAspectRatioConstraint.3.full.webp",
+    "MAIN.HudAspectRatioConstraint.4.full.webp"
+   ],
+   "resolution": [
+    1422,
+    442
+   ],
+   "version": "2.0"
+  },
+  "RADAR.RadarScale": {
+   "kind": "float",
+   "values": [
+    "0.1",
+    "0.45",
+    "0.85",
+    "1.0",
+    "1.4",
+    "2.0"
+   ],
+   "frameOfValue": {
+    "0.1": 0,
+    "0.45": 1,
+    "0.85": 2,
+    "1.0": 3,
+    "1.4": 4,
+    "2.0": 5
+   },
+   "stills": [
+    "RADAR.RadarScale.0.webp",
+    "RADAR.RadarScale.1.webp",
+    "RADAR.RadarScale.2.webp",
+    "RADAR.RadarScale.3.webp",
+    "RADAR.RadarScale.4.webp",
+    "RADAR.RadarScale.5.webp"
+   ],
+   "full": [
+    "RADAR.RadarScale.0.full.webp",
+    "RADAR.RadarScale.1.full.webp",
+    "RADAR.RadarScale.2.full.webp",
+    "RADAR.RadarScale.3.full.webp",
+    "RADAR.RadarScale.4.full.webp",
+    "RADAR.RadarScale.5.full.webp"
+   ],
+   "resolution": [
+    1422,
+    442
+   ],
+   "version": "2.0"
+  },
+  "MAIN.FOVFactor": {
+   "kind": "float",
+   "values": [
+    "0.5",
+    "0.75",
+    "1.0",
+    "1.5",
+    "2.0"
+   ],
+   "frameOfValue": {
+    "0.5": 0,
+    "0.75": 1,
+    "1.0": 2,
+    "1.5": 3,
+    "2.0": 4
+   },
+   "stills": [
+    "MAIN.FOVFactor.0.webp",
+    "MAIN.FOVFactor.1.webp",
+    "MAIN.FOVFactor.2.webp",
+    "MAIN.FOVFactor.3.webp",
+    "MAIN.FOVFactor.4.webp"
+   ],
+   "full": [
+    "MAIN.FOVFactor.0.full.webp",
+    "MAIN.FOVFactor.1.full.webp",
+    "MAIN.FOVFactor.2.full.webp",
+    "MAIN.FOVFactor.3.full.webp",
+    "MAIN.FOVFactor.4.full.webp"
+   ],
+   "resolution": [
+    1280,
+    720
+   ],
+   "version": "2.0"
+  },
+  "MAIN.GamepadIcons": {
+   "kind": "choice",
+   "values": [
+    "PSP",
+    "360",
+    "XBO",
+    "PS3",
+    "PS4",
+    "PS5",
+    "SWI",
+    "DEK"
+   ],
+   "frameOfValue": {
+    "360": 1,
+    "PSP": 0,
+    "XBO": 2,
+    "PS3": 3,
+    "PS4": 4,
+    "PS5": 5,
+    "SWI": 6,
+    "DEK": 7
+   },
+   "stills": [
+    "MAIN.GamepadIcons.0.webp",
+    "MAIN.GamepadIcons.1.webp",
+    "MAIN.GamepadIcons.2.webp",
+    "MAIN.GamepadIcons.3.webp",
+    "MAIN.GamepadIcons.4.webp",
+    "MAIN.GamepadIcons.5.webp",
+    "MAIN.GamepadIcons.6.webp",
+    "MAIN.GamepadIcons.7.webp"
+   ],
+   "full": [
+    "MAIN.GamepadIcons.0.webp",
+    "MAIN.GamepadIcons.1.webp",
+    "MAIN.GamepadIcons.2.webp",
+    "MAIN.GamepadIcons.3.webp",
+    "MAIN.GamepadIcons.4.webp",
+    "MAIN.GamepadIcons.5.webp",
+    "MAIN.GamepadIcons.6.webp",
+    "MAIN.GamepadIcons.7.webp"
+   ],
+   "resolution": [
+    1280,
+    720
+   ],
+   "version": "2.0"
+  }
+ }
+}

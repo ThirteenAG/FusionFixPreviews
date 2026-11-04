@@ -1,0 +1,42 @@
+{
+ "format": 1,
+ "plugin": "TonyHawksProSkater3.FusionFix",
+ "version": "2.11.2026.2114",
+ "resolution": [
+  1600,
+  900
+ ],
+ "fps": 30,
+ "files": {
+  "MAIN.SkipIntro.0.full.webp": "0c456165bde653dd",
+  "MAIN.SkipIntro.0.webp": "a61f11faf3cd2705",
+  "MAIN.SkipIntro.1.full.webp": "3e4f4a4be265e4d6",
+  "MAIN.SkipIntro.1.webp": "2eba705ff8857694"
+ },
+ "settings": {
+  "MAIN.SkipIntro": {
+   "kind": "bool",
+   "values": [
+    "0",
+    "1"
+   ],
+   "frameOfValue": {
+    "0": 0,
+    "1": 1
+   },
+   "stills": [
+    "MAIN.SkipIntro.0.webp",
+    "MAIN.SkipIntro.1.webp"
+   ],
+   "full": [
+    "MAIN.SkipIntro.0.full.webp",
+    "MAIN.SkipIntro.1.full.webp"
+   ],
+   "resolution": [
+    1600,
+    900
+   ],
+   "version": "2.11.2026.2114"
+  }
+ }
+}

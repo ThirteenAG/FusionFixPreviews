@@ -1,0 +1,128 @@
+{
+ "format": 1,
+ "plugin": "NFSTheRun.FusionFix",
+ "version": "27.10.2026.726",
+ "resolution": [
+  1920,
+  810
+ ],
+ "fps": 30,
+ "files": {
+  "GRAPHICS.ConsoleGamma.0.full.webp": "f86847355e5c04a3",
+  "GRAPHICS.ConsoleGamma.0.webp": "a8f0e488bba4165c",
+  "GRAPHICS.ConsoleGamma.1.full.webp": "4fa207b84002ad83",
+  "GRAPHICS.ConsoleGamma.1.webp": "3eacac2a178a3aed",
+  "MAIN.CutsceneBorders.0.full.webp": "60fa26874f587999",
+  "MAIN.CutsceneBorders.0.webp": "6a686b7972c78e3c",
+  "MAIN.CutsceneBorders.1.full.webp": "ebfca30c15ad7991",
+  "MAIN.CutsceneBorders.1.webp": "7095dbad8034cc45",
+  "MAIN.CutsceneBorders.2.full.webp": "de2b7df66b6c2c15",
+  "MAIN.CutsceneBorders.2.webp": "42aef1146e011342",
+  "MAIN.CutsceneBorders.3.full.webp": "cbd1aec5e86ad3cf",
+  "MAIN.CutsceneBorders.3.webp": "dda1e7546e2135f5",
+  "MAIN.FOVFactor.0.full.webp": "751e3a9d5e718338",
+  "MAIN.FOVFactor.0.webp": "cd310e8710eaa250",
+  "MAIN.FOVFactor.1.full.webp": "2c84d5afdb9ee7f3",
+  "MAIN.FOVFactor.1.webp": "134306ff4ececb72",
+  "MAIN.FOVFactor.2.full.webp": "c21b72540a58c3ad",
+  "MAIN.FOVFactor.2.webp": "f30b07ae2fe0278f",
+  "MAIN.FOVFactor.3.full.webp": "26dd63da9926535f",
+  "MAIN.FOVFactor.3.webp": "7870bd2873be73cd",
+  "MAIN.FOVFactor.4.full.webp": "93fa7bcb88540f76",
+  "MAIN.FOVFactor.4.webp": "d76576958545d554"
+ },
+ "settings": {
+  "MAIN.FOVFactor": {
+   "kind": "float",
+   "values": [
+    "0.5",
+    "0.75",
+    "1.0",
+    "1.5",
+    "2.0"
+   ],
+   "frameOfValue": {
+    "0.5": 0,
+    "0.75": 1,
+    "1.0": 2,
+    "1.5": 3,
+    "2.0": 4
+   },
+   "stills": [
+    "MAIN.FOVFactor.0.webp",
+    "MAIN.FOVFactor.1.webp",
+    "MAIN.FOVFactor.2.webp",
+    "MAIN.FOVFactor.3.webp",
+    "MAIN.FOVFactor.4.webp"
+   ],
+   "full": [
+    "MAIN.FOVFactor.0.full.webp",
+    "MAIN.FOVFactor.1.full.webp",
+    "MAIN.FOVFactor.2.full.webp",
+    "MAIN.FOVFactor.3.full.webp",
+    "MAIN.FOVFactor.4.full.webp"
+   ],
+   "resolution": [
+    1920,
+    1080
+   ],
+   "version": "27.10.2026.726"
+  },
+  "GRAPHICS.ConsoleGamma": {
+   "kind": "bool",
+   "values": [
+    "0",
+    "1"
+   ],
+   "frameOfValue": {
+    "0": 0,
+    "1": 1
+   },
+   "stills": [
+    "GRAPHICS.ConsoleGamma.0.webp",
+    "GRAPHICS.ConsoleGamma.1.webp"
+   ],
+   "full": [
+    "GRAPHICS.ConsoleGamma.0.full.webp",
+    "GRAPHICS.ConsoleGamma.1.full.webp"
+   ],
+   "resolution": [
+    1920,
+    1080
+   ],
+   "version": "27.10.2026.726"
+  },
+  "MAIN.CutsceneBorders": {
+   "kind": "choice",
+   "values": [
+    "0",
+    "1",
+    "2",
+    "3"
+   ],
+   "frameOfValue": {
+    "0": 0,
+    "1": 1,
+    "2": 2,
+    "3": 3
+   },
+   "stills": [
+    "MAIN.CutsceneBorders.0.webp",
+    "MAIN.CutsceneBorders.1.webp",
+    "MAIN.CutsceneBorders.2.webp",
+    "MAIN.CutsceneBorders.3.webp"
+   ],
+   "full": [
+    "MAIN.CutsceneBorders.0.full.webp",
+    "MAIN.CutsceneBorders.1.full.webp",
+    "MAIN.CutsceneBorders.2.full.webp",
+    "MAIN.CutsceneBorders.3.full.webp"
+   ],
+   "resolution": [
+    1920,
+    810
+   ],
+   "version": "27.10.2026.726"
+  }
+ }
+}

@@ -1,0 +1,389 @@
+{
+ "format": 1,
+ "plugin": "MaxPayne.FusionFix",
+ "version": "27.10.2026.36",
+ "resolution": [
+  1440,
+  1080
+ ],
+ "fps": 30,
+ "files": {
+  "GRAPHICS.AntiAliasing.0.full.webp": "341dc80b656d4aae",
+  "GRAPHICS.AntiAliasing.0.webp": "9c9af9e31cc92869",
+  "GRAPHICS.AntiAliasing.1.full.webp": "d419df2bec4c9e83",
+  "GRAPHICS.AntiAliasing.1.webp": "01a68009b3a3a8a0",
+  "GRAPHICS.ConsoleGamma.0.full.webp": "ded14987e6f29612",
+  "GRAPHICS.ConsoleGamma.0.webp": "e6f9b51381b2d045",
+  "GRAPHICS.ConsoleGamma.1.full.webp": "48de491b23f21f3e",
+  "GRAPHICS.ConsoleGamma.1.webp": "f5ca54baf71f45cf",
+  "MAIN.CutsceneBorders.0.full.webp": "da423c9a7c4ca3a4",
+  "MAIN.CutsceneBorders.0.webp": "da423c9a7c4ca3a4",
+  "MAIN.CutsceneBorders.1.full.webp": "da423c9a7c4ca3a4",
+  "MAIN.CutsceneBorders.1.webp": "da423c9a7c4ca3a4",
+  "MAIN.CutsceneBorders.2.full.webp": "719dd78dca22c8e4",
+  "MAIN.CutsceneBorders.2.webp": "719dd78dca22c8e4",
+  "MAIN.CutsceneBorders.3.full.webp": "719dd78dca22c8e4",
+  "MAIN.CutsceneBorders.3.webp": "719dd78dca22c8e4",
+  "MAIN.FOVFactor.0.webp": "bb1afffbdced5b79",
+  "MAIN.FOVFactor.1.webp": "becd1438034017bf",
+  "MAIN.FOVFactor.10.webp": "aff3a0ec3269db92",
+  "MAIN.FOVFactor.11.webp": "52280c1aba4633f5",
+  "MAIN.FOVFactor.12.webp": "c8cdecc7020c9f1e",
+  "MAIN.FOVFactor.13.webp": "81db99063fdc16aa",
+  "MAIN.FOVFactor.14.webp": "25158f523b19ecdd",
+  "MAIN.FOVFactor.15.webp": "5ee61736d422ba36",
+  "MAIN.FOVFactor.16.webp": "85ce0ed02f956c6c",
+  "MAIN.FOVFactor.17.webp": "ac436d307f8beeba",
+  "MAIN.FOVFactor.18.webp": "57a8887850285b03",
+  "MAIN.FOVFactor.19.webp": "616b5668c2a0ff3d",
+  "MAIN.FOVFactor.2.webp": "68175de5f2014854",
+  "MAIN.FOVFactor.20.webp": "fe27e2550f030493",
+  "MAIN.FOVFactor.21.webp": "b8946c470398c049",
+  "MAIN.FOVFactor.22.webp": "2544d318f50cbbdc",
+  "MAIN.FOVFactor.23.webp": "9a5e32208c139183",
+  "MAIN.FOVFactor.24.webp": "ba50fbeda72391e2",
+  "MAIN.FOVFactor.25.webp": "0ae88149b6a83e36",
+  "MAIN.FOVFactor.26.webp": "e1ac01b6dbe0adc7",
+  "MAIN.FOVFactor.27.webp": "3b861ff11653756d",
+  "MAIN.FOVFactor.28.webp": "a3d430aedc96abbc",
+  "MAIN.FOVFactor.29.webp": "4f898bce4a48f7c6",
+  "MAIN.FOVFactor.3.webp": "205e2b4d41d20184",
+  "MAIN.FOVFactor.30.webp": "84d4717b04d9038d",
+  "MAIN.FOVFactor.4.webp": "d2ea04b2d62e77d7",
+  "MAIN.FOVFactor.5.webp": "5805a7f9b1e2d81c",
+  "MAIN.FOVFactor.6.webp": "0138170cf594684e",
+  "MAIN.FOVFactor.7.webp": "44d06855d2528432",
+  "MAIN.FOVFactor.8.webp": "06c1d7cf948752d9",
+  "MAIN.FOVFactor.9.webp": "709cbd6a4fd890ed",
+  "MAIN.GamepadIcons.0.full.webp": "95c6ff7855b040f2",
+  "MAIN.GamepadIcons.0.webp": "1b3b5d94eb9da94d",
+  "MAIN.GamepadIcons.1.full.webp": "db7a37dc80384eae",
+  "MAIN.GamepadIcons.1.webp": "2e7fc19d81c3c1e1",
+  "MAIN.GamepadIcons.2.full.webp": "9817751ee2fe10aa",
+  "MAIN.GamepadIcons.2.webp": "53e3402ba29d2f7d",
+  "MAIN.GraphicNovelMode.0.full.webp": "f843dfdc51efc27e",
+  "MAIN.GraphicNovelMode.0.webp": "f843dfdc51efc27e",
+  "MAIN.GraphicNovelMode.1.full.webp": "72c427b3db5407e9",
+  "MAIN.GraphicNovelMode.1.webp": "72c427b3db5407e9",
+  "MAIN.HudAspectRatioConstraint.0.full.webp": "4ad277e6eb829f0c",
+  "MAIN.HudAspectRatioConstraint.0.webp": "4a3f731a00137082",
+  "MAIN.HudAspectRatioConstraint.1.full.webp": "2879768c88326a94",
+  "MAIN.HudAspectRatioConstraint.1.webp": "69d74303c36836bd",
+  "MAIN.HudAspectRatioConstraint.2.full.webp": "bd546a9fc674aba7",
+  "MAIN.HudAspectRatioConstraint.2.webp": "6f93c407eeb835fe",
+  "MAIN.HudAspectRatioConstraint.3.full.webp": "0e8d35aa1f2a6c3f",
+  "MAIN.HudAspectRatioConstraint.3.webp": "24039e9319f975f8",
+  "MAIN.HudAspectRatioConstraint.4.full.webp": "4ad277e6eb829f0c",
+  "MAIN.HudAspectRatioConstraint.4.webp": "4a3f731a00137082"
+ },
+ "settings": {
+  "MAIN.FOVFactor": {
+   "kind": "float",
+   "values": [
+    "0.5",
+    "0.55",
+    "0.6",
+    "0.65",
+    "0.7",
+    "0.75",
+    "0.8",
+    "0.85",
+    "0.9",
+    "0.95",
+    "1.0",
+    "1.05",
+    "1.1",
+    "1.15",
+    "1.2",
+    "1.25",
+    "1.3",
+    "1.35",
+    "1.4",
+    "1.45",
+    "1.5",
+    "1.55",
+    "1.6",
+    "1.65",
+    "1.7",
+    "1.75",
+    "1.8",
+    "1.85",
+    "1.9",
+    "1.95",
+    "2.0"
+   ],
+   "frameOfValue": {
+    "0.5": 0,
+    "0.55": 1,
+    "0.6": 2,
+    "0.65": 3,
+    "0.7": 4,
+    "0.75": 5,
+    "0.8": 6,
+    "0.85": 7,
+    "0.9": 8,
+    "0.95": 9,
+    "1.0": 10,
+    "1.05": 11,
+    "1.1": 12,
+    "1.15": 13,
+    "1.2": 14,
+    "1.25": 15,
+    "1.3": 16,
+    "1.35": 17,
+    "1.4": 18,
+    "1.45": 19,
+    "1.5": 20,
+    "1.55": 21,
+    "1.6": 22,
+    "1.65": 23,
+    "1.7": 24,
+    "1.75": 25,
+    "1.8": 26,
+    "1.85": 27,
+    "1.9": 28,
+    "1.95": 29,
+    "2.0": 30
+   },
+   "stills": [
+    "MAIN.FOVFactor.0.webp",
+    "MAIN.FOVFactor.1.webp",
+    "MAIN.FOVFactor.2.webp",
+    "MAIN.FOVFactor.3.webp",
+    "MAIN.FOVFactor.4.webp",
+    "MAIN.FOVFactor.5.webp",
+    "MAIN.FOVFactor.6.webp",
+    "MAIN.FOVFactor.7.webp",
+    "MAIN.FOVFactor.8.webp",
+    "MAIN.FOVFactor.9.webp",
+    "MAIN.FOVFactor.10.webp",
+    "MAIN.FOVFactor.11.webp",
+    "MAIN.FOVFactor.12.webp",
+    "MAIN.FOVFactor.13.webp",
+    "MAIN.FOVFactor.14.webp",
+    "MAIN.FOVFactor.15.webp",
+    "MAIN.FOVFactor.16.webp",
+    "MAIN.FOVFactor.17.webp",
+    "MAIN.FOVFactor.18.webp",
+    "MAIN.FOVFactor.19.webp",
+    "MAIN.FOVFactor.20.webp",
+    "MAIN.FOVFactor.21.webp",
+    "MAIN.FOVFactor.22.webp",
+    "MAIN.FOVFactor.23.webp",
+    "MAIN.FOVFactor.24.webp",
+    "MAIN.FOVFactor.25.webp",
+    "MAIN.FOVFactor.26.webp",
+    "MAIN.FOVFactor.27.webp",
+    "MAIN.FOVFactor.28.webp",
+    "MAIN.FOVFactor.29.webp",
+    "MAIN.FOVFactor.30.webp"
+   ],
+   "full": [
+    "MAIN.FOVFactor.0.webp",
+    "MAIN.FOVFactor.1.webp",
+    "MAIN.FOVFactor.2.webp",
+    "MAIN.FOVFactor.3.webp",
+    "MAIN.FOVFactor.4.webp",
+    "MAIN.FOVFactor.5.webp",
+    "MAIN.FOVFactor.6.webp",
+    "MAIN.FOVFactor.7.webp",
+    "MAIN.FOVFactor.8.webp",
+    "MAIN.FOVFactor.9.webp",
+    "MAIN.FOVFactor.10.webp",
+    "MAIN.FOVFactor.11.webp",
+    "MAIN.FOVFactor.12.webp",
+    "MAIN.FOVFactor.13.webp",
+    "MAIN.FOVFactor.14.webp",
+    "MAIN.FOVFactor.15.webp",
+    "MAIN.FOVFactor.16.webp",
+    "MAIN.FOVFactor.17.webp",
+    "MAIN.FOVFactor.18.webp",
+    "MAIN.FOVFactor.19.webp",
+    "MAIN.FOVFactor.20.webp",
+    "MAIN.FOVFactor.21.webp",
+    "MAIN.FOVFactor.22.webp",
+    "MAIN.FOVFactor.23.webp",
+    "MAIN.FOVFactor.24.webp",
+    "MAIN.FOVFactor.25.webp",
+    "MAIN.FOVFactor.26.webp",
+    "MAIN.FOVFactor.27.webp",
+    "MAIN.FOVFactor.28.webp",
+    "MAIN.FOVFactor.29.webp",
+    "MAIN.FOVFactor.30.webp"
+   ],
+   "resolution": [
+    1920,
+    540
+   ],
+   "version": "27.10.2026.36"
+  },
+  "MAIN.HudAspectRatioConstraint": {
+   "kind": "string",
+   "values": [
+    "Auto",
+    "4:3",
+    "16:9",
+    "21:9",
+    "32:9"
+   ],
+   "frameOfValue": {
+    "Auto": 0,
+    "4:3": 1,
+    "16:9": 2,
+    "21:9": 3,
+    "32:9": 4
+   },
+   "stills": [
+    "MAIN.HudAspectRatioConstraint.0.webp",
+    "MAIN.HudAspectRatioConstraint.1.webp",
+    "MAIN.HudAspectRatioConstraint.2.webp",
+    "MAIN.HudAspectRatioConstraint.3.webp",
+    "MAIN.HudAspectRatioConstraint.4.webp"
+   ],
+   "full": [
+    "MAIN.HudAspectRatioConstraint.0.full.webp",
+    "MAIN.HudAspectRatioConstraint.1.full.webp",
+    "MAIN.HudAspectRatioConstraint.2.full.webp",
+    "MAIN.HudAspectRatioConstraint.3.full.webp",
+    "MAIN.HudAspectRatioConstraint.4.full.webp"
+   ],
+   "resolution": [
+    1920,
+    540
+   ],
+   "version": "24.10.2026.1429"
+  },
+  "MAIN.CutsceneBorders": {
+   "kind": "choice",
+   "values": [
+    "0",
+    "1",
+    "2",
+    "3"
+   ],
+   "frameOfValue": {
+    "0": 0,
+    "1": 1,
+    "2": 2,
+    "3": 3
+   },
+   "stills": [
+    "MAIN.CutsceneBorders.0.webp",
+    "MAIN.CutsceneBorders.1.webp",
+    "MAIN.CutsceneBorders.2.webp",
+    "MAIN.CutsceneBorders.3.webp"
+   ],
+   "full": [
+    "MAIN.CutsceneBorders.0.full.webp",
+    "MAIN.CutsceneBorders.1.full.webp",
+    "MAIN.CutsceneBorders.2.full.webp",
+    "MAIN.CutsceneBorders.3.full.webp"
+   ],
+   "resolution": [
+    1920,
+    540
+   ],
+   "version": "26.10.2026.101"
+  },
+  "MAIN.GraphicNovelMode": {
+   "kind": "choice",
+   "values": [
+    "0",
+    "1"
+   ],
+   "frameOfValue": {
+    "0": 0,
+    "1": 1
+   },
+   "stills": [
+    "MAIN.GraphicNovelMode.0.webp",
+    "MAIN.GraphicNovelMode.1.webp"
+   ],
+   "full": [
+    "MAIN.GraphicNovelMode.0.full.webp",
+    "MAIN.GraphicNovelMode.1.full.webp"
+   ],
+   "resolution": [
+    1920,
+    540
+   ],
+   "version": "26.10.2026.101"
+  },
+  "GRAPHICS.ConsoleGamma": {
+   "kind": "bool",
+   "values": [
+    "0",
+    "1"
+   ],
+   "frameOfValue": {
+    "0": 0,
+    "1": 1
+   },
+   "stills": [
+    "GRAPHICS.ConsoleGamma.0.webp",
+    "GRAPHICS.ConsoleGamma.1.webp"
+   ],
+   "full": [
+    "GRAPHICS.ConsoleGamma.0.full.webp",
+    "GRAPHICS.ConsoleGamma.1.full.webp"
+   ],
+   "resolution": [
+    1920,
+    1080
+   ],
+   "version": "24.10.2026.1429"
+  },
+  "GRAPHICS.AntiAliasing": {
+   "kind": "choice",
+   "values": [
+    "0",
+    "1"
+   ],
+   "frameOfValue": {
+    "0": 0,
+    "1": 1
+   },
+   "stills": [
+    "GRAPHICS.AntiAliasing.0.webp",
+    "GRAPHICS.AntiAliasing.1.webp"
+   ],
+   "full": [
+    "GRAPHICS.AntiAliasing.0.full.webp",
+    "GRAPHICS.AntiAliasing.1.full.webp"
+   ],
+   "resolution": [
+    1920,
+    540
+   ],
+   "version": "26.10.2026.1238"
+  },
+  "MAIN.GamepadIcons": {
+   "kind": "choice",
+   "values": [
+    "1",
+    "2",
+    "3"
+   ],
+   "frameOfValue": {
+    "1": 0,
+    "2": 1,
+    "3": 2
+   },
+   "stills": [
+    "MAIN.GamepadIcons.0.webp",
+    "MAIN.GamepadIcons.1.webp",
+    "MAIN.GamepadIcons.2.webp"
+   ],
+   "full": [
+    "MAIN.GamepadIcons.0.full.webp",
+    "MAIN.GamepadIcons.1.full.webp",
+    "MAIN.GamepadIcons.2.full.webp"
+   ],
+   "resolution": [
+    1440,
+    1080
+   ],
+   "version": "26.10.2026.1327"
+  }
+ }
+}
