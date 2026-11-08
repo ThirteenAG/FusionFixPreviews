@@ -13,7 +13,15 @@
   "MAIN.PanAndScan.1.full.webp": "34a3ff7f20747a37",
   "MAIN.PanAndScan.1.webp": "2296b5a111b463c1",
   "brand/brand.json": "1cbf127cae46c910",
-  "brand/logo.svg": "cfcbeda47d8b7ed0"
+  "brand/logo.svg": "cfcbeda47d8b7ed0",
+  "MAIN.WobbleFix.0.full.webp": "aa4349855ed800e6",
+  "MAIN.WobbleFix.0.webp": "b10484c190ae0c12",
+  "MAIN.WobbleFix.1.full.webp": "3503be6853221d86",
+  "MAIN.WobbleFix.1.webp": "9e8c6e9e96697cc4",
+  "MAIN.MaxAspectRatio.0.full.webp": "4611c83ae99906fb",
+  "MAIN.MaxAspectRatio.0.webp": "376a1fdbc414190a",
+  "MAIN.MaxAspectRatio.1.full.webp": "7b9c54e41b1b80b2",
+  "MAIN.MaxAspectRatio.1.webp": "909a24d88fde07ac"
  },
  "settings": {
   "MAIN.PanAndScan": {
@@ -38,6 +46,54 @@
     1920,
     1080
    ]
+  },
+  "MAIN.WobbleFix": {
+   "kind": "bool",
+   "values": [
+    "0",
+    "1"
+   ],
+   "frameOfValue": {
+    "0": 0,
+    "1": 1
+   },
+   "stills": [
+    "MAIN.WobbleFix.0.webp",
+    "MAIN.WobbleFix.1.webp"
+   ],
+   "full": [
+    "MAIN.WobbleFix.0.full.webp",
+    "MAIN.WobbleFix.1.full.webp"
+   ],
+   "resolution": [
+    1920,
+    1080
+   ],
+   "version": "21.10.2026.1706"
+  },
+  "MAIN.MaxAspectRatio": {
+   "kind": "string",
+   "values": [
+    "4:3",
+    "16:9"
+   ],
+   "frameOfValue": {
+    "4:3": 0,
+    "16:9": 1
+   },
+   "stills": [
+    "MAIN.MaxAspectRatio.0.webp",
+    "MAIN.MaxAspectRatio.1.webp"
+   ],
+   "full": [
+    "MAIN.MaxAspectRatio.0.full.webp",
+    "MAIN.MaxAspectRatio.1.full.webp"
+   ],
+   "resolution": [
+    1920,
+    1080
+   ],
+   "version": "21.10.2026.1706"
   }
  }
 }

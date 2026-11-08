@@ -39,7 +39,19 @@
   "MAIN.HudAspectRatioConstraint.3.full.webp": "070e44e4bb60a151",
   "MAIN.HudAspectRatioConstraint.3.webp": "e76929fb1439df06",
   "MAIN.HudAspectRatioConstraint.4.full.webp": "a290b8af03638edc",
-  "MAIN.HudAspectRatioConstraint.4.webp": "b3bd4e5b947c93b1"
+  "MAIN.HudAspectRatioConstraint.4.webp": "b3bd4e5b947c93b1",
+  "CAMERA.Enable.0.full.webp": "a2a81735e1da581f",
+  "CAMERA.Enable.0.webp": "ac900bcf93573b9f",
+  "CAMERA.Enable.1.full.webp": "67725b683f268ff2",
+  "CAMERA.Enable.1.webp": "1b6ec091daca6f20",
+  "GRAPHICS.ConsoleGamma.0.full.webp": "a0c747dec22ea073",
+  "GRAPHICS.ConsoleGamma.0.webp": "46eec048b9450a86",
+  "GRAPHICS.ConsoleGamma.1.full.webp": "da63acd13ad3d904",
+  "GRAPHICS.ConsoleGamma.1.webp": "74bcb06eb301b87e",
+  "GRAPHICS.AntiAliasing.0.full.webp": "19b153e2c2ac21b2",
+  "GRAPHICS.AntiAliasing.0.webp": "1baf17d024918c96",
+  "GRAPHICS.AntiAliasing.1.full.webp": "c5d62f5950c484e7",
+  "GRAPHICS.AntiAliasing.1.webp": "5a6827da47500e15"
  },
  "settings": {
   "MAIN.FOVFactor": {
@@ -169,6 +181,78 @@
     1080
    ],
    "version": "28.10.2026.805"
+  },
+  "CAMERA.Enable": {
+   "kind": "bool",
+   "values": [
+    "0",
+    "1"
+   ],
+   "frameOfValue": {
+    "0": 0,
+    "1": 1
+   },
+   "stills": [
+    "CAMERA.Enable.0.webp",
+    "CAMERA.Enable.1.webp"
+   ],
+   "full": [
+    "CAMERA.Enable.0.full.webp",
+    "CAMERA.Enable.1.full.webp"
+   ],
+   "resolution": [
+    1920,
+    1080
+   ],
+   "version": "5.11.2026.1227"
+  },
+  "GRAPHICS.ConsoleGamma": {
+   "kind": "bool",
+   "values": [
+    "0",
+    "1"
+   ],
+   "frameOfValue": {
+    "0": 0,
+    "1": 1
+   },
+   "stills": [
+    "GRAPHICS.ConsoleGamma.0.webp",
+    "GRAPHICS.ConsoleGamma.1.webp"
+   ],
+   "full": [
+    "GRAPHICS.ConsoleGamma.0.full.webp",
+    "GRAPHICS.ConsoleGamma.1.full.webp"
+   ],
+   "resolution": [
+    1920,
+    1080
+   ],
+   "version": "5.11.2026.1227"
+  },
+  "GRAPHICS.AntiAliasing": {
+   "kind": "choice",
+   "values": [
+    "0",
+    "1"
+   ],
+   "frameOfValue": {
+    "0": 0,
+    "1": 1
+   },
+   "stills": [
+    "GRAPHICS.AntiAliasing.0.webp",
+    "GRAPHICS.AntiAliasing.1.webp"
+   ],
+   "full": [
+    "GRAPHICS.AntiAliasing.0.full.webp",
+    "GRAPHICS.AntiAliasing.1.full.webp"
+   ],
+   "resolution": [
+    1920,
+    1080
+   ],
+   "version": "5.11.2026.1227"
   }
  }
 }
