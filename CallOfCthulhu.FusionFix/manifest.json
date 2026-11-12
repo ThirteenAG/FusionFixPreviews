@@ -1,0 +1,60 @@
+{
+ "format": 1,
+ "plugin": "CallOfCthulhu.FusionFix",
+ "version": "9.11.2026.2247",
+ "resolution": [
+  1280,
+  720
+ ],
+ "fps": 30,
+ "files": {
+  "MAIN.FOVFactor.0.full.webp": "c4ca141ecf50e8d5",
+  "MAIN.FOVFactor.0.webp": "b3abb399f128ccd1",
+  "MAIN.FOVFactor.1.full.webp": "5e0c02522d1538c5",
+  "MAIN.FOVFactor.1.webp": "68aa867f1849d4c9",
+  "MAIN.FOVFactor.2.full.webp": "c604c671fb082d95",
+  "MAIN.FOVFactor.2.webp": "02fbc8e70e2fb538",
+  "MAIN.FOVFactor.3.full.webp": "58c124578d9b886f",
+  "MAIN.FOVFactor.3.webp": "3f5f7b1f4eee8c4a",
+  "MAIN.FOVFactor.4.full.webp": "0ae2a6bc5d8d67d2",
+  "MAIN.FOVFactor.4.webp": "0f6f7e90cfa1d2fc"
+ },
+ "settings": {
+  "MAIN.FOVFactor": {
+   "kind": "float",
+   "values": [
+    "0.5",
+    "0.75",
+    "1.0",
+    "1.5",
+    "2.0"
+   ],
+   "frameOfValue": {
+    "0.5": 0,
+    "0.75": 1,
+    "1.0": 2,
+    "1.5": 3,
+    "2.0": 4
+   },
+   "stills": [
+    "MAIN.FOVFactor.0.webp",
+    "MAIN.FOVFactor.1.webp",
+    "MAIN.FOVFactor.2.webp",
+    "MAIN.FOVFactor.3.webp",
+    "MAIN.FOVFactor.4.webp"
+   ],
+   "full": [
+    "MAIN.FOVFactor.0.full.webp",
+    "MAIN.FOVFactor.1.full.webp",
+    "MAIN.FOVFactor.2.full.webp",
+    "MAIN.FOVFactor.3.full.webp",
+    "MAIN.FOVFactor.4.full.webp"
+   ],
+   "resolution": [
+    1280,
+    720
+   ],
+   "version": "9.11.2026.2247"
+  }
+ }
+}

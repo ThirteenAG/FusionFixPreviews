@@ -1,0 +1,200 @@
+{
+ "format": 1,
+ "plugin": "MaxPayne.FusionRainDroplets",
+ "version": "10.11.2026.1257",
+ "resolution": [
+  1920,
+  1080
+ ],
+ "fps": 30,
+ "files": {
+  "MAIN.DropBlur.0.full.webp": "944c99bbebee7d44",
+  "MAIN.DropBlur.0.webp": "91c17a99e3309273",
+  "MAIN.DropBlur.1.full.webp": "22c2c0b3b300662c",
+  "MAIN.DropBlur.1.webp": "a02bc137a185c622",
+  "MAIN.Enabled.0.full.webp": "c10d3d9b928f82c4",
+  "MAIN.Enabled.0.webp": "736a661fc40abbe5",
+  "MAIN.Enabled.1.full.webp": "898e44c5fd005f4c",
+  "MAIN.Enabled.1.webp": "e549c3d676fd9f3c",
+  "MAIN.MaxDrops.0.full.webp": "8fbf04fb0ea9fcd0",
+  "MAIN.MaxDrops.0.webp": "f2586c2cb938312e",
+  "MAIN.MaxDrops.1.full.webp": "5a8f69dc481f0777",
+  "MAIN.MaxDrops.1.webp": "4016858654c48b15",
+  "MAIN.MaxDrops.2.full.webp": "8907780da182b90a",
+  "MAIN.MaxDrops.2.webp": "56bc70c91f455246",
+  "MAIN.MaxSize.0.full.webp": "eed4e2258d36e0a4",
+  "MAIN.MaxSize.0.webp": "39fd7ee384646c46",
+  "MAIN.MaxSize.1.full.webp": "207e1869863404b3",
+  "MAIN.MaxSize.1.webp": "83238c9046067b8a",
+  "MAIN.MaxSize.2.full.webp": "44133aa9628d1f35",
+  "MAIN.MaxSize.2.webp": "1579b05a65901395",
+  "MAIN.MinSize.0.full.webp": "d24fefca5c832346",
+  "MAIN.MinSize.0.webp": "7c5bdcc630a968ae",
+  "MAIN.MinSize.1.full.webp": "7286a2ae5ebbd2bc",
+  "MAIN.MinSize.1.webp": "063c540c642adad3",
+  "MAIN.MinSize.2.full.webp": "ea623afec21df558",
+  "MAIN.MinSize.2.webp": "65ac9b0ad74cabda",
+  "MAIN.Refractions.0.full.webp": "7eabc451ace3bb22",
+  "MAIN.Refractions.0.webp": "79c19f8587f079ec",
+  "MAIN.Refractions.1.full.webp": "91e1421d43a2593f",
+  "MAIN.Refractions.1.webp": "4042dfb730d463b1"
+ },
+ "settings": {
+  "MAIN.Enabled": {
+   "kind": "bool",
+   "values": [
+    "0",
+    "1"
+   ],
+   "frameOfValue": {
+    "0": 0,
+    "1": 1
+   },
+   "stills": [
+    "MAIN.Enabled.0.webp",
+    "MAIN.Enabled.1.webp"
+   ],
+   "full": [
+    "MAIN.Enabled.0.full.webp",
+    "MAIN.Enabled.1.full.webp"
+   ],
+   "resolution": [
+    1920,
+    1080
+   ],
+   "version": "10.11.2026.1257"
+  },
+  "MAIN.MaxSize": {
+   "kind": "int",
+   "values": [
+    "8",
+    "19",
+    "50"
+   ],
+   "frameOfValue": {
+    "8": 0,
+    "19": 1,
+    "50": 2
+   },
+   "stills": [
+    "MAIN.MaxSize.0.webp",
+    "MAIN.MaxSize.1.webp",
+    "MAIN.MaxSize.2.webp"
+   ],
+   "full": [
+    "MAIN.MaxSize.0.full.webp",
+    "MAIN.MaxSize.1.full.webp",
+    "MAIN.MaxSize.2.full.webp"
+   ],
+   "resolution": [
+    1920,
+    1080
+   ],
+   "version": "10.11.2026.1257"
+  },
+  "MAIN.DropBlur": {
+   "kind": "float",
+   "values": [
+    "0.0",
+    "1.0"
+   ],
+   "frameOfValue": {
+    "0.0": 0,
+    "1.0": 1
+   },
+   "stills": [
+    "MAIN.DropBlur.0.webp",
+    "MAIN.DropBlur.1.webp"
+   ],
+   "full": [
+    "MAIN.DropBlur.0.full.webp",
+    "MAIN.DropBlur.1.full.webp"
+   ],
+   "resolution": [
+    1920,
+    1080
+   ],
+   "version": "10.11.2026.1257"
+  },
+  "MAIN.Refractions": {
+   "kind": "bool",
+   "values": [
+    "0",
+    "1"
+   ],
+   "frameOfValue": {
+    "0": 0,
+    "1": 1
+   },
+   "stills": [
+    "MAIN.Refractions.0.webp",
+    "MAIN.Refractions.1.webp"
+   ],
+   "full": [
+    "MAIN.Refractions.0.full.webp",
+    "MAIN.Refractions.1.full.webp"
+   ],
+   "resolution": [
+    1920,
+    1080
+   ],
+   "version": "10.11.2026.1257"
+  },
+  "MAIN.MinSize": {
+   "kind": "int",
+   "values": [
+    "1",
+    "4",
+    "12"
+   ],
+   "frameOfValue": {
+    "1": 0,
+    "4": 1,
+    "12": 2
+   },
+   "stills": [
+    "MAIN.MinSize.0.webp",
+    "MAIN.MinSize.1.webp",
+    "MAIN.MinSize.2.webp"
+   ],
+   "full": [
+    "MAIN.MinSize.0.full.webp",
+    "MAIN.MinSize.1.full.webp",
+    "MAIN.MinSize.2.full.webp"
+   ],
+   "resolution": [
+    1920,
+    1080
+   ],
+   "version": "10.11.2026.1257"
+  },
+  "MAIN.MaxDrops": {
+   "kind": "int",
+   "values": [
+    "300",
+    "3000",
+    "12000"
+   ],
+   "frameOfValue": {
+    "300": 0,
+    "3000": 1,
+    "12000": 2
+   },
+   "stills": [
+    "MAIN.MaxDrops.0.webp",
+    "MAIN.MaxDrops.1.webp",
+    "MAIN.MaxDrops.2.webp"
+   ],
+   "full": [
+    "MAIN.MaxDrops.0.full.webp",
+    "MAIN.MaxDrops.1.full.webp",
+    "MAIN.MaxDrops.2.full.webp"
+   ],
+   "resolution": [
+    1920,
+    1080
+   ],
+   "version": "10.11.2026.1257"
+  }
+ }
+}

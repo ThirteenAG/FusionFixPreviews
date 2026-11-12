@@ -1,0 +1,42 @@
+{
+ "format": 1,
+ "plugin": "ResidentEvil6.FusionFix",
+ "version": "9.11.2026.1444",
+ "resolution": [
+  1920,
+  1080
+ ],
+ "fps": 30,
+ "files": {
+  "MAIN.DisableObjectiveIndicator.0.full.webp": "85625e432a329032",
+  "MAIN.DisableObjectiveIndicator.0.webp": "a33a126fa794ca9a",
+  "MAIN.DisableObjectiveIndicator.1.full.webp": "d3919ae01864c285",
+  "MAIN.DisableObjectiveIndicator.1.webp": "654813e6ab47b17c"
+ },
+ "settings": {
+  "MAIN.DisableObjectiveIndicator": {
+   "kind": "bool",
+   "values": [
+    "0",
+    "1"
+   ],
+   "frameOfValue": {
+    "0": 0,
+    "1": 1
+   },
+   "stills": [
+    "MAIN.DisableObjectiveIndicator.0.webp",
+    "MAIN.DisableObjectiveIndicator.1.webp"
+   ],
+   "full": [
+    "MAIN.DisableObjectiveIndicator.0.full.webp",
+    "MAIN.DisableObjectiveIndicator.1.full.webp"
+   ],
+   "resolution": [
+    1920,
+    1080
+   ],
+   "version": "9.11.2026.1444"
+  }
+ }
+}

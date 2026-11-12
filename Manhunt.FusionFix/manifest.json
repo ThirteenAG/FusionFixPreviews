@@ -1,17 +1,21 @@
 {
  "format": 1,
  "plugin": "Manhunt.FusionFix",
- "version": "28.10.2026.351",
+ "version": "9.11.2026.2247",
  "resolution": [
   1920,
   1080
  ],
  "fps": 30,
  "files": {
-  "MAIN.FMVWidescreenMode.0.full.webp": "022cc31b32e37167",
-  "MAIN.FMVWidescreenMode.0.webp": "36c24267aff2ebde",
-  "MAIN.FMVWidescreenMode.1.full.webp": "3751fea74cf64533",
-  "MAIN.FMVWidescreenMode.1.webp": "36fe3a9e6f755fdb",
+  "MAIN.CutsceneBorders.0.full.webp": "ae001adcdf27e208",
+  "MAIN.CutsceneBorders.0.webp": "4b2327e51fd57231",
+  "MAIN.CutsceneBorders.1.full.webp": "dff6406c092c6fea",
+  "MAIN.CutsceneBorders.1.webp": "a2e3767907bffe8d",
+  "MAIN.CutsceneBorders.2.full.webp": "c54391bbee53c6a0",
+  "MAIN.CutsceneBorders.2.webp": "e0d7f67d85c84d07",
+  "MAIN.CutsceneBorders.3.full.webp": "def90fd77c3e5b6a",
+  "MAIN.CutsceneBorders.3.webp": "87af68356e0cbb23",
   "MAIN.FOVFactor.0.full.webp": "9435c7e4b33507fe",
   "MAIN.FOVFactor.0.webp": "b6f1e86a3b98349f",
   "MAIN.FOVFactor.1.full.webp": "7702701b3f72ec31",
@@ -106,29 +110,37 @@
    ],
    "version": "28.10.2026.351"
   },
-  "MAIN.FMVWidescreenMode": {
+  "MAIN.CutsceneBorders": {
    "kind": "choice",
    "values": [
-    0,
-    1
+    "0",
+    "1",
+    "2",
+    "3"
    ],
    "frameOfValue": {
     "0": 0,
-    "1": 1
+    "1": 1,
+    "2": 2,
+    "3": 3
    },
    "stills": [
-    "MAIN.FMVWidescreenMode.0.webp",
-    "MAIN.FMVWidescreenMode.1.webp"
+    "MAIN.CutsceneBorders.0.webp",
+    "MAIN.CutsceneBorders.1.webp",
+    "MAIN.CutsceneBorders.2.webp",
+    "MAIN.CutsceneBorders.3.webp"
    ],
    "full": [
-    "MAIN.FMVWidescreenMode.0.full.webp",
-    "MAIN.FMVWidescreenMode.1.full.webp"
+    "MAIN.CutsceneBorders.0.full.webp",
+    "MAIN.CutsceneBorders.1.full.webp",
+    "MAIN.CutsceneBorders.2.full.webp",
+    "MAIN.CutsceneBorders.3.full.webp"
    ],
    "resolution": [
     1920,
     1080
    ],
-   "version": "28.10.2026.351"
+   "version": "9.11.2026.2247"
   }
  }
 }

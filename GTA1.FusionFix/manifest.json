@@ -1,45 +1,45 @@
 {
  "format": 1,
  "plugin": "GTA1.FusionFix",
- "version": "2.11.2026.2114",
+ "version": "9.11.2026.2247",
  "resolution": [
-  960,
-  540
+  1920,
+  1080
  ],
  "fps": 30,
  "files": {
-  "CAMERA.RotateOnFoot.0.full.webp": "7efd54bbcf0d94fd",
-  "CAMERA.RotateOnFoot.0.webp": "9b9c0c4dc76b04ba",
-  "CAMERA.RotateOnFoot.1.full.webp": "a98aeeec5b89a7b9",
-  "CAMERA.RotateOnFoot.1.webp": "6768f4a7ff494b90",
-  "MAIN.FOVFactor.0.full.webp": "ad6a16b179928a62",
-  "MAIN.FOVFactor.0.webp": "7238f492aebcaa04",
-  "MAIN.FOVFactor.1.full.webp": "d2da1585ed7a9924",
-  "MAIN.FOVFactor.1.webp": "d3b471bc67d85ae1",
-  "MAIN.FOVFactor.2.full.webp": "d46f2a5b9a33a32b",
-  "MAIN.FOVFactor.2.webp": "7e05078db5195087",
-  "MAIN.FOVFactor.3.full.webp": "870ffaef7fbef3c8",
-  "MAIN.FOVFactor.3.webp": "68a7ff42dbc20e3d",
-  "MAIN.FOVFactor.4.full.webp": "1ab467e96dc12fe1",
-  "MAIN.FOVFactor.4.webp": "a588eb570068173d",
-  "MAIN.HudAspectRatioConstraint.0.full.webp": "2d502bb21dae5ad2",
-  "MAIN.HudAspectRatioConstraint.0.webp": "c56faeaeed174fec",
-  "MAIN.HudAspectRatioConstraint.1.full.webp": "9b7dec8b6bf2aa8d",
-  "MAIN.HudAspectRatioConstraint.1.webp": "e1f51d82bc57894d",
-  "MAIN.HudAspectRatioConstraint.2.full.webp": "7121106288e7308d",
-  "MAIN.HudAspectRatioConstraint.2.webp": "10bf2a6642311d0e",
-  "MAIN.HudAspectRatioConstraint.3.full.webp": "5998b5a02356dc2a",
-  "MAIN.HudAspectRatioConstraint.3.webp": "5c62cb1d39227667",
-  "MAIN.HudSafeArea.0.full.webp": "0a3eaabb80d06028",
-  "MAIN.HudSafeArea.0.webp": "7c9524a5b8272107",
-  "MAIN.HudSafeArea.1.full.webp": "98a0e394abf0983b",
-  "MAIN.HudSafeArea.1.webp": "369cc2a846e03106",
-  "MAIN.HudSafeArea.2.full.webp": "da88058e9a8e9e1b",
-  "MAIN.HudSafeArea.2.webp": "96faf0ba649c7d0e",
-  "MAIN.HudSafeArea.3.full.webp": "2f461c9ff610b47c",
-  "MAIN.HudSafeArea.3.webp": "0604463cccf81ea7",
-  "MAIN.HudSafeArea.4.full.webp": "482089bea9b12e69",
-  "MAIN.HudSafeArea.4.webp": "7d39e12920b00b0b"
+  "CAMERA.RotateOnFoot.0.full.webp": "8427e45feb818a90",
+  "CAMERA.RotateOnFoot.0.webp": "fb4e12962a69a76e",
+  "CAMERA.RotateOnFoot.1.full.webp": "1e38b2727b3edafb",
+  "CAMERA.RotateOnFoot.1.webp": "88b851fec6ce99d1",
+  "MAIN.FOVFactor.0.full.webp": "d5a134e960b03bdc",
+  "MAIN.FOVFactor.0.webp": "f2c63aa7f31a06fd",
+  "MAIN.FOVFactor.1.full.webp": "9b20ad0bbf70cb18",
+  "MAIN.FOVFactor.1.webp": "30cd14bd89694468",
+  "MAIN.FOVFactor.2.full.webp": "8f07b7c8c415a3de",
+  "MAIN.FOVFactor.2.webp": "611b95ae3cbc76b5",
+  "MAIN.FOVFactor.3.full.webp": "020bb9f40677d504",
+  "MAIN.FOVFactor.3.webp": "25b596ff50b65ea2",
+  "MAIN.FOVFactor.4.full.webp": "bbf9b5669989a2ba",
+  "MAIN.FOVFactor.4.webp": "32efd38b7f0f1612",
+  "MAIN.HudAspectRatioConstraint.0.full.webp": "1a1b675fa41cee54",
+  "MAIN.HudAspectRatioConstraint.0.webp": "6e09aa1a4605f59f",
+  "MAIN.HudAspectRatioConstraint.1.full.webp": "c58104eaf05a026a",
+  "MAIN.HudAspectRatioConstraint.1.webp": "b01dbbc392812fc8",
+  "MAIN.HudAspectRatioConstraint.2.full.webp": "1a1b675fa41cee54",
+  "MAIN.HudAspectRatioConstraint.2.webp": "6e09aa1a4605f59f",
+  "MAIN.HudAspectRatioConstraint.3.full.webp": "b141485f4ae543b8",
+  "MAIN.HudAspectRatioConstraint.3.webp": "fb954a0492027ae2",
+  "MAIN.HudSafeArea.0.full.webp": "71b2bc918daec26a",
+  "MAIN.HudSafeArea.0.webp": "4d11459604725536",
+  "MAIN.HudSafeArea.1.full.webp": "686a74b2ccd04c33",
+  "MAIN.HudSafeArea.1.webp": "b813791715df1c35",
+  "MAIN.HudSafeArea.2.full.webp": "a6c0694cf0fd993c",
+  "MAIN.HudSafeArea.2.webp": "c8ae098431f1f169",
+  "MAIN.HudSafeArea.3.full.webp": "83dc358ba217474e",
+  "MAIN.HudSafeArea.3.webp": "b09e1e15a2f597d3",
+  "MAIN.HudSafeArea.4.full.webp": "1cca588b60dff80d",
+  "MAIN.HudSafeArea.4.webp": "aa0853331f299a4e"
  },
  "settings": {
   "MAIN.FOVFactor": {
@@ -74,41 +74,9 @@
    ],
    "resolution": [
     1920,
-    810
+    1080
    ],
-   "version": "26.10.2026.1327"
-  },
-  "MAIN.HudAspectRatioConstraint": {
-   "kind": "string",
-   "values": [
-    "Auto",
-    "4:3",
-    "16:9",
-    "21:9"
-   ],
-   "frameOfValue": {
-    "Auto": 0,
-    "4:3": 1,
-    "16:9": 2,
-    "21:9": 3
-   },
-   "stills": [
-    "MAIN.HudAspectRatioConstraint.0.webp",
-    "MAIN.HudAspectRatioConstraint.1.webp",
-    "MAIN.HudAspectRatioConstraint.2.webp",
-    "MAIN.HudAspectRatioConstraint.3.webp"
-   ],
-   "full": [
-    "MAIN.HudAspectRatioConstraint.0.full.webp",
-    "MAIN.HudAspectRatioConstraint.1.full.webp",
-    "MAIN.HudAspectRatioConstraint.2.full.webp",
-    "MAIN.HudAspectRatioConstraint.3.full.webp"
-   ],
-   "resolution": [
-    1920,
-    810
-   ],
-   "version": "26.10.2026.1327"
+   "version": "9.11.2026.2247"
   },
   "MAIN.HudSafeArea": {
    "kind": "int",
@@ -142,9 +110,41 @@
    ],
    "resolution": [
     1920,
-    810
+    1080
    ],
-   "version": "26.10.2026.1327"
+   "version": "9.11.2026.2247"
+  },
+  "MAIN.HudAspectRatioConstraint": {
+   "kind": "string",
+   "values": [
+    "Auto",
+    "4:3",
+    "16:9",
+    "21:9"
+   ],
+   "frameOfValue": {
+    "Auto": 0,
+    "4:3": 1,
+    "16:9": 2,
+    "21:9": 3
+   },
+   "stills": [
+    "MAIN.HudAspectRatioConstraint.0.webp",
+    "MAIN.HudAspectRatioConstraint.1.webp",
+    "MAIN.HudAspectRatioConstraint.2.webp",
+    "MAIN.HudAspectRatioConstraint.3.webp"
+   ],
+   "full": [
+    "MAIN.HudAspectRatioConstraint.0.full.webp",
+    "MAIN.HudAspectRatioConstraint.1.full.webp",
+    "MAIN.HudAspectRatioConstraint.2.full.webp",
+    "MAIN.HudAspectRatioConstraint.3.full.webp"
+   ],
+   "resolution": [
+    1920,
+    1080
+   ],
+   "version": "9.11.2026.2247"
   },
   "CAMERA.RotateOnFoot": {
    "kind": "bool",
@@ -165,10 +165,10 @@
     "CAMERA.RotateOnFoot.1.full.webp"
    ],
    "resolution": [
-    960,
-    540
+    1920,
+    1080
    ],
-   "version": "2.11.2026.2114"
+   "version": "9.11.2026.2247"
   }
  }
 }

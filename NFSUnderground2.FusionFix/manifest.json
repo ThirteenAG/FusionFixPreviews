@@ -1,10 +1,10 @@
 {
  "format": 1,
  "plugin": "NFSUnderground2.FusionFix",
- "version": "27.10.2026.726",
+ "version": "9.11.2026.1444",
  "resolution": [
   1920,
-  810
+  1080
  ],
  "fps": 30,
  "files": {
@@ -16,6 +16,16 @@
   "GRAPHICS.ConsoleGamma.0.webp": "aa4f5ba794fbcd2b",
   "GRAPHICS.ConsoleGamma.1.full.webp": "3e1cc24e33e1f564",
   "GRAPHICS.ConsoleGamma.1.webp": "90d9c629bdd33edf",
+  "GRAPHICS.RainDropletsScale.0.full.webp": "a1c50cf7a3c5251d",
+  "GRAPHICS.RainDropletsScale.0.webp": "4060481e758a78e3",
+  "GRAPHICS.RainDropletsScale.1.full.webp": "bba91c4c901a3752",
+  "GRAPHICS.RainDropletsScale.1.webp": "3bda34e6a8b82170",
+  "GRAPHICS.RainDropletsScale.2.full.webp": "9e63a5deed8f399f",
+  "GRAPHICS.RainDropletsScale.2.webp": "2e4225c7f3904f8a",
+  "GRAPHICS.RainDropletsScale.3.full.webp": "c5bc76d49d52268b",
+  "GRAPHICS.RainDropletsScale.3.webp": "3746821452e8d224",
+  "GRAPHICS.RainDropletsScale.4.full.webp": "e23020fceab02a45",
+  "GRAPHICS.RainDropletsScale.4.webp": "2f6061437d2b06fd",
   "GRAPHICS.Scaling.0.full.webp": "09a4baeb8106162d",
   "GRAPHICS.Scaling.0.webp": "97471e368dc702f8",
   "GRAPHICS.Scaling.1.full.webp": "c110dadfa2e54b05",
@@ -269,6 +279,42 @@
     810
    ],
    "version": "26.10.2026.2335"
+  },
+  "GRAPHICS.RainDropletsScale": {
+   "kind": "float",
+   "values": [
+    "0.1",
+    "0.3",
+    "0.5",
+    "0.7",
+    "1.0"
+   ],
+   "frameOfValue": {
+    "0.1": 0,
+    "0.3": 1,
+    "0.5": 2,
+    "0.7": 3,
+    "1.0": 4
+   },
+   "stills": [
+    "GRAPHICS.RainDropletsScale.0.webp",
+    "GRAPHICS.RainDropletsScale.1.webp",
+    "GRAPHICS.RainDropletsScale.2.webp",
+    "GRAPHICS.RainDropletsScale.3.webp",
+    "GRAPHICS.RainDropletsScale.4.webp"
+   ],
+   "full": [
+    "GRAPHICS.RainDropletsScale.0.full.webp",
+    "GRAPHICS.RainDropletsScale.1.full.webp",
+    "GRAPHICS.RainDropletsScale.2.full.webp",
+    "GRAPHICS.RainDropletsScale.3.full.webp",
+    "GRAPHICS.RainDropletsScale.4.full.webp"
+   ],
+   "resolution": [
+    1920,
+    1080
+   ],
+   "version": "9.11.2026.1444"
   }
  }
 }

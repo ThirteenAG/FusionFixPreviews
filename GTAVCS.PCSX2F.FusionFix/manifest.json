@@ -3,8 +3,8 @@
  "plugin": "GTAVCS.PCSX2F.FusionFix",
  "version": "2.0",
  "resolution": [
-  1280,
-  360
+  2091,
+  1080
  ],
  "fps": 30,
  "files": {
@@ -26,6 +26,14 @@
   "MAIN.FOVFactor.3.webp": "18b8228dca182323",
   "MAIN.FOVFactor.4.full.webp": "3f6acae5e9163f11",
   "MAIN.FOVFactor.4.webp": "2a2ecea743f6e734",
+  "MAIN.ForceAspectRatio.0.full.webp": "ad4746c25a05464b",
+  "MAIN.ForceAspectRatio.0.webp": "270adc997a03f3d9",
+  "MAIN.ForceAspectRatio.1.full.webp": "da4e4a41c492ec69",
+  "MAIN.ForceAspectRatio.1.webp": "b7f941a15df38948",
+  "MAIN.ForceAspectRatio.2.full.webp": "56db1f298a2bbb9c",
+  "MAIN.ForceAspectRatio.2.webp": "c3a0912afd48c7bb",
+  "MAIN.ForceAspectRatio.3.full.webp": "fb8787e50031d4aa",
+  "MAIN.ForceAspectRatio.3.webp": "06d8c570da65e4cf",
   "MAIN.GamepadIcons.0.full.webp": "0fce9ce158b745ac",
   "MAIN.GamepadIcons.0.webp": "a94fa5679fce96a9",
   "MAIN.GamepadIcons.1.full.webp": "ca759af14cf7d8b4",
@@ -213,6 +221,38 @@
    "resolution": [
     1280,
     800
+   ],
+   "version": "2.0"
+  },
+  "MAIN.ForceAspectRatio": {
+   "kind": "string",
+   "values": [
+    "Auto",
+    "4:3",
+    "16:9",
+    "21:9"
+   ],
+   "frameOfValue": {
+    "Auto": 0,
+    "4:3": 1,
+    "16:9": 2,
+    "21:9": 3
+   },
+   "stills": [
+    "MAIN.ForceAspectRatio.0.webp",
+    "MAIN.ForceAspectRatio.1.webp",
+    "MAIN.ForceAspectRatio.2.webp",
+    "MAIN.ForceAspectRatio.3.webp"
+   ],
+   "full": [
+    "MAIN.ForceAspectRatio.0.full.webp",
+    "MAIN.ForceAspectRatio.1.full.webp",
+    "MAIN.ForceAspectRatio.2.full.webp",
+    "MAIN.ForceAspectRatio.3.full.webp"
+   ],
+   "resolution": [
+    2091,
+    1080
    ],
    "version": "2.0"
   }

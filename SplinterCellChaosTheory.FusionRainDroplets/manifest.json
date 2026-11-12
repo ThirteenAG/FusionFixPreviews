@@ -1,0 +1,298 @@
+{
+ "format": 1,
+ "plugin": "SplinterCellChaosTheory.FusionRainDroplets",
+ "version": "10.11.2026.1257",
+ "resolution": [
+  1920,
+  1080
+ ],
+ "fps": 30,
+ "files": {
+  "MAIN.Enabled.0.full.webp": "d9fb18970dd61004",
+  "MAIN.Enabled.0.webp": "8bee3f4c3d0562d6",
+  "MAIN.Enabled.1.full.webp": "45f56a4aaaf14bcf",
+  "MAIN.Enabled.1.webp": "bb56618bceba22ab",
+  "MAIN.MaxSize.0.full.webp": "2f0b0e7e12e1151d",
+  "MAIN.MaxSize.0.webp": "907049bf882726ea",
+  "MAIN.MaxSize.1.full.webp": "3825c57878e025e6",
+  "MAIN.MaxSize.1.webp": "dd8f4cb489ef5189",
+  "MAIN.MaxSize.2.full.webp": "b5aeabe85ce4470b",
+  "MAIN.MaxSize.2.webp": "4956c38015206f90",
+  "MAIN.MinSize.0.full.webp": "6d95ebb21b5f02dd",
+  "MAIN.MinSize.0.webp": "5ded9d7521864af3",
+  "MAIN.MinSize.1.full.webp": "25aff6a0775bfcf0",
+  "MAIN.MinSize.1.webp": "be645efcbb228e55",
+  "MAIN.MinSize.2.full.webp": "8d161a70a51360b5",
+  "MAIN.MinSize.2.webp": "0c95d4718d764744",
+  "MAIN.DropBlur.0.full.webp": "8d2bf6e4a0a8b731",
+  "MAIN.DropBlur.0.webp": "691da5687f77e372",
+  "MAIN.DropBlur.1.full.webp": "b3ddd60a2b2817a2",
+  "MAIN.DropBlur.1.webp": "636f6b68a74721af",
+  "MAIN.DropBlur.2.full.webp": "f0c39f9907ec06f1",
+  "MAIN.DropBlur.2.webp": "1674967e7375a415",
+  "SNOW.Size.0.full.webp": "12a90d233bea3822",
+  "SNOW.Size.0.webp": "ec3f6d734c01955b",
+  "SNOW.Size.1.full.webp": "62d9ed47a0ad08c3",
+  "SNOW.Size.1.webp": "2f5e64aaea439e5c",
+  "SNOW.Size.2.full.webp": "9b77ba67f06a4bee",
+  "SNOW.Size.2.webp": "fd91db53b4cb4f61",
+  "SNOW.Size.3.full.webp": "9bcddace0836f36b",
+  "SNOW.Size.3.webp": "74f0198b10ad3b86",
+  "SNOW.Size.4.full.webp": "720ab4eead8b658d",
+  "SNOW.Size.4.webp": "a27d68b2c0eaee5f",
+  "SNOW.Amount.0.full.webp": "982d3ec996d46657",
+  "SNOW.Amount.0.webp": "72eb44dd6c9922fd",
+  "SNOW.Amount.1.full.webp": "e5d6a3c01a35f4a6",
+  "SNOW.Amount.1.webp": "773345c5edc0f0ef",
+  "SNOW.Amount.2.full.webp": "af2dadf2f23906b0",
+  "SNOW.Amount.2.webp": "2a64c218f4d80b4c",
+  "SNOW.Amount.3.full.webp": "e4fee0743f99c365",
+  "SNOW.Amount.3.webp": "95910d8b2f7a338e",
+  "SNOW.Amount.4.full.webp": "c9d90408ff24651c",
+  "SNOW.Amount.4.webp": "b6cf265db1704465",
+  "BONUS.EnableSnow.0.full.webp": "03e3b06b9c080370",
+  "BONUS.EnableSnow.0.webp": "6b5c309f9f644eee",
+  "BONUS.EnableSnow.1.full.webp": "24174fb85e5b107a",
+  "BONUS.EnableSnow.1.webp": "fb40df40380e403b",
+  "MAIN.MaxDrops.0.full.webp": "a9665dbb6a767c46",
+  "MAIN.MaxDrops.0.webp": "cff6ac89155a2656",
+  "MAIN.MaxDrops.1.full.webp": "5a159004759c399b",
+  "MAIN.MaxDrops.1.webp": "8e89a8abe4dce19c",
+  "MAIN.MaxDrops.2.full.webp": "bcc8bcdab145e1bd",
+  "MAIN.MaxDrops.2.webp": "ed0871e01be3472f"
+ },
+ "settings": {
+  "MAIN.Enabled": {
+   "kind": "bool",
+   "values": [
+    "0",
+    "1"
+   ],
+   "frameOfValue": {
+    "0": 0,
+    "1": 1
+   },
+   "stills": [
+    "MAIN.Enabled.0.webp",
+    "MAIN.Enabled.1.webp"
+   ],
+   "full": [
+    "MAIN.Enabled.0.full.webp",
+    "MAIN.Enabled.1.full.webp"
+   ],
+   "resolution": [
+    1920,
+    1080
+   ],
+   "version": "10.11.2026.1257"
+  },
+  "MAIN.MinSize": {
+   "kind": "int",
+   "values": [
+    "1",
+    "4",
+    "12"
+   ],
+   "frameOfValue": {
+    "1": 0,
+    "4": 1,
+    "12": 2
+   },
+   "stills": [
+    "MAIN.MinSize.0.webp",
+    "MAIN.MinSize.1.webp",
+    "MAIN.MinSize.2.webp"
+   ],
+   "full": [
+    "MAIN.MinSize.0.full.webp",
+    "MAIN.MinSize.1.full.webp",
+    "MAIN.MinSize.2.full.webp"
+   ],
+   "resolution": [
+    1920,
+    1080
+   ],
+   "version": "10.11.2026.1257"
+  },
+  "MAIN.MaxSize": {
+   "kind": "int",
+   "values": [
+    "8",
+    "19",
+    "50"
+   ],
+   "frameOfValue": {
+    "8": 0,
+    "19": 1,
+    "50": 2
+   },
+   "stills": [
+    "MAIN.MaxSize.0.webp",
+    "MAIN.MaxSize.1.webp",
+    "MAIN.MaxSize.2.webp"
+   ],
+   "full": [
+    "MAIN.MaxSize.0.full.webp",
+    "MAIN.MaxSize.1.full.webp",
+    "MAIN.MaxSize.2.full.webp"
+   ],
+   "resolution": [
+    1920,
+    1080
+   ],
+   "version": "10.11.2026.1257"
+  },
+  "MAIN.DropBlur": {
+   "kind": "float",
+   "values": [
+    "0.0",
+    "0.5",
+    "1.0"
+   ],
+   "frameOfValue": {
+    "0.0": 0,
+    "0.5": 1,
+    "1.0": 2
+   },
+   "stills": [
+    "MAIN.DropBlur.0.webp",
+    "MAIN.DropBlur.1.webp",
+    "MAIN.DropBlur.2.webp"
+   ],
+   "full": [
+    "MAIN.DropBlur.0.full.webp",
+    "MAIN.DropBlur.1.full.webp",
+    "MAIN.DropBlur.2.full.webp"
+   ],
+   "resolution": [
+    1920,
+    1080
+   ],
+   "version": "10.11.2026.1257"
+  },
+  "SNOW.Size": {
+   "kind": "float",
+   "values": [
+    "0.1",
+    "0.55",
+    "1.0",
+    "1.5",
+    "2.0"
+   ],
+   "frameOfValue": {
+    "0.1": 0,
+    "0.55": 1,
+    "1.0": 2,
+    "1.5": 3,
+    "2.0": 4
+   },
+   "stills": [
+    "SNOW.Size.0.webp",
+    "SNOW.Size.1.webp",
+    "SNOW.Size.2.webp",
+    "SNOW.Size.3.webp",
+    "SNOW.Size.4.webp"
+   ],
+   "full": [
+    "SNOW.Size.0.full.webp",
+    "SNOW.Size.1.full.webp",
+    "SNOW.Size.2.full.webp",
+    "SNOW.Size.3.full.webp",
+    "SNOW.Size.4.full.webp"
+   ],
+   "resolution": [
+    1920,
+    1080
+   ],
+   "version": "10.11.2026.1257"
+  },
+  "SNOW.Amount": {
+   "kind": "float",
+   "values": [
+    "0.0",
+    "0.5",
+    "1.0",
+    "2.5",
+    "4.0"
+   ],
+   "frameOfValue": {
+    "0.0": 0,
+    "0.5": 1,
+    "1.0": 2,
+    "2.5": 3,
+    "4.0": 4
+   },
+   "stills": [
+    "SNOW.Amount.0.webp",
+    "SNOW.Amount.1.webp",
+    "SNOW.Amount.2.webp",
+    "SNOW.Amount.3.webp",
+    "SNOW.Amount.4.webp"
+   ],
+   "full": [
+    "SNOW.Amount.0.full.webp",
+    "SNOW.Amount.1.full.webp",
+    "SNOW.Amount.2.full.webp",
+    "SNOW.Amount.3.full.webp",
+    "SNOW.Amount.4.full.webp"
+   ],
+   "resolution": [
+    1920,
+    1080
+   ],
+   "version": "10.11.2026.1257"
+  },
+  "BONUS.EnableSnow": {
+   "kind": "bool",
+   "values": [
+    "0",
+    "1"
+   ],
+   "frameOfValue": {
+    "0": 0,
+    "1": 1
+   },
+   "stills": [
+    "BONUS.EnableSnow.0.webp",
+    "BONUS.EnableSnow.1.webp"
+   ],
+   "full": [
+    "BONUS.EnableSnow.0.full.webp",
+    "BONUS.EnableSnow.1.full.webp"
+   ],
+   "resolution": [
+    1920,
+    1080
+   ],
+   "version": "10.11.2026.1257"
+  },
+  "MAIN.MaxDrops": {
+   "kind": "int",
+   "values": [
+    "100",
+    "3000",
+    "16000"
+   ],
+   "frameOfValue": {
+    "100": 0,
+    "3000": 1,
+    "16000": 2
+   },
+   "stills": [
+    "MAIN.MaxDrops.0.webp",
+    "MAIN.MaxDrops.1.webp",
+    "MAIN.MaxDrops.2.webp"
+   ],
+   "full": [
+    "MAIN.MaxDrops.0.full.webp",
+    "MAIN.MaxDrops.1.full.webp",
+    "MAIN.MaxDrops.2.full.webp"
+   ],
+   "resolution": [
+    1920,
+    1080
+   ],
+   "version": "10.11.2026.1257"
+  }
+ }
+}

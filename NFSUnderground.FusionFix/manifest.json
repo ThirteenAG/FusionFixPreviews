@@ -1,10 +1,10 @@
 {
  "format": 1,
  "plugin": "NFSUnderground.FusionFix",
- "version": "26.10.2026.2042",
+ "version": "9.11.2026.1444",
  "resolution": [
   1920,
-  810
+  1080
  ],
  "fps": 30,
  "files": {
@@ -26,10 +26,10 @@
   "GRAPHICS.Scaling.0.webp": "1a8a0a9100752497",
   "GRAPHICS.Scaling.1.full.webp": "2d10c1809517e8eb",
   "GRAPHICS.Scaling.1.webp": "38fc96832d9d9a09",
-  "MAIN.FMVWidescreenMode.0.full.webp": "fbbcb439190747d2",
-  "MAIN.FMVWidescreenMode.0.webp": "8a510935f49ed97b",
-  "MAIN.FMVWidescreenMode.1.full.webp": "0c68acee1fd01a39",
-  "MAIN.FMVWidescreenMode.1.webp": "e71b5b7dd6c42987",
+  "MAIN.FMVWidescreenMode.0.full.webp": "6ef8e5a1555f6d04",
+  "MAIN.FMVWidescreenMode.0.webp": "7da71a9810b91434",
+  "MAIN.FMVWidescreenMode.1.full.webp": "4e8a9e28ac62abf4",
+  "MAIN.FMVWidescreenMode.1.webp": "690432e6bd572f4b",
   "MAIN.FOVFactor.0.webp": "7188021ee9546a57",
   "MAIN.FOVFactor.1.webp": "dbc8034f368162a6",
   "MAIN.FOVFactor.2.webp": "366e987382a98b13",
@@ -141,30 +141,6 @@
    ],
    "version": "26.10.2026.2042"
   },
-  "MAIN.FMVWidescreenMode": {
-   "kind": "choice",
-   "values": [
-    "0",
-    "1"
-   ],
-   "frameOfValue": {
-    "0": 0,
-    "1": 1
-   },
-   "stills": [
-    "MAIN.FMVWidescreenMode.0.webp",
-    "MAIN.FMVWidescreenMode.1.webp"
-   ],
-   "full": [
-    "MAIN.FMVWidescreenMode.0.full.webp",
-    "MAIN.FMVWidescreenMode.1.full.webp"
-   ],
-   "resolution": [
-    1920,
-    810
-   ],
-   "version": "26.10.2026.2042"
-  },
   "GRAPHICS.ConsoleGamma": {
    "kind": "bool",
    "values": [
@@ -240,6 +216,30 @@
     1080
    ],
    "version": "26.10.2026.2042"
+  },
+  "MAIN.FMVWidescreenMode": {
+   "kind": "choice",
+   "values": [
+    "0",
+    "1"
+   ],
+   "frameOfValue": {
+    "0": 0,
+    "1": 1
+   },
+   "stills": [
+    "MAIN.FMVWidescreenMode.0.webp",
+    "MAIN.FMVWidescreenMode.1.webp"
+   ],
+   "full": [
+    "MAIN.FMVWidescreenMode.0.full.webp",
+    "MAIN.FMVWidescreenMode.1.full.webp"
+   ],
+   "resolution": [
+    1920,
+    1080
+   ],
+   "version": "9.11.2026.1444"
   }
  }
 }

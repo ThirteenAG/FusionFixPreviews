@@ -16,10 +16,6 @@
   "CONTROLS.PCCheats.0.webp": "83ba9047e2ee2e53",
   "CONTROLS.PCCheats.1.full.webp": "89f8b2470f216151",
   "CONTROLS.PCCheats.1.webp": "5ebda1283650b3d1",
-  "FOV.RestoreCutsceneFOV.0.full.webp": "dae14ffcc5f7e49f",
-  "FOV.RestoreCutsceneFOV.0.webp": "3a2abbc95af7bc04",
-  "FOV.RestoreCutsceneFOV.1.full.webp": "8050508785def950",
-  "FOV.RestoreCutsceneFOV.1.webp": "159ee7e36211c135",
   "MAIN.CutsceneBorders.0.full.webp": "3ca82e5aeb74186d",
   "MAIN.CutsceneBorders.0.webp": "c2e0bb87dc9fe70d",
   "MAIN.CutsceneBorders.1.full.webp": "e5ac4e8c296b558d",
@@ -28,10 +24,6 @@
   "MAIN.CutsceneBorders.2.webp": "e40a369fd23205a5",
   "MAIN.CutsceneBorders.3.full.webp": "f83c8101e39f7c73",
   "MAIN.CutsceneBorders.3.webp": "87fd0284bf9be903",
-  "MAIN.FMVWidescreenMode.0.full.webp": "8315b661c06502a2",
-  "MAIN.FMVWidescreenMode.0.webp": "2df6d0b38bbbf951",
-  "MAIN.FMVWidescreenMode.1.full.webp": "df8a38c642c4d4e5",
-  "MAIN.FMVWidescreenMode.1.webp": "dd79623027a2d968",
   "MAIN.FOVFactor.0.full.webp": "4b0ad44df9dd2190",
   "MAIN.FOVFactor.0.webp": "fd26d35c0c7a5df8",
   "MAIN.FOVFactor.1.full.webp": "a4f863ab96b96524",
@@ -116,30 +108,6 @@
   "RADAR.RadarScale.4.webp": "17434113dacf016e"
  },
  "settings": {
-  "MAIN.FMVWidescreenMode": {
-   "kind": "choice",
-   "values": [
-    "0",
-    "1"
-   ],
-   "frameOfValue": {
-    "0": 0,
-    "1": 1
-   },
-   "stills": [
-    "MAIN.FMVWidescreenMode.0.webp",
-    "MAIN.FMVWidescreenMode.1.webp"
-   ],
-   "full": [
-    "MAIN.FMVWidescreenMode.0.full.webp",
-    "MAIN.FMVWidescreenMode.1.full.webp"
-   ],
-   "resolution": [
-    1600,
-    450
-   ],
-   "version": "2.0"
-  },
   "MAIN.FOVFactor": {
    "kind": "float",
    "values": [
@@ -417,30 +385,6 @@
     "MAIN.CutsceneBorders.1.full.webp",
     "MAIN.CutsceneBorders.2.full.webp",
     "MAIN.CutsceneBorders.3.full.webp"
-   ],
-   "resolution": [
-    1600,
-    450
-   ],
-   "version": "2.0"
-  },
-  "FOV.RestoreCutsceneFOV": {
-   "kind": "bool",
-   "values": [
-    "0",
-    "1"
-   ],
-   "frameOfValue": {
-    "0": 0,
-    "1": 1
-   },
-   "stills": [
-    "FOV.RestoreCutsceneFOV.0.webp",
-    "FOV.RestoreCutsceneFOV.1.webp"
-   ],
-   "full": [
-    "FOV.RestoreCutsceneFOV.0.full.webp",
-    "FOV.RestoreCutsceneFOV.1.full.webp"
    ],
    "resolution": [
     1600,

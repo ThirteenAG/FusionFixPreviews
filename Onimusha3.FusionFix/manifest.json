@@ -1,0 +1,162 @@
+{
+ "format": 1,
+ "plugin": "Onimusha3.FusionFix",
+ "version": "9.11.2026.2247",
+ "resolution": [
+  1920,
+  1080
+ ],
+ "fps": 30,
+ "files": {
+  "MAIN.CutsceneBorders.0.full.webp": "5981fa0e1f08ea63",
+  "MAIN.CutsceneBorders.0.webp": "41055b8f02f23c35",
+  "MAIN.CutsceneBorders.1.full.webp": "391bc4aaa469dc93",
+  "MAIN.CutsceneBorders.1.webp": "0e849721f400d4e5",
+  "MAIN.CutsceneBorders.2.full.webp": "2cbd38d3b8f27e00",
+  "MAIN.CutsceneBorders.2.webp": "8430a7dae501bea2",
+  "MAIN.CutsceneBorders.3.full.webp": "286459bf2136f4b7",
+  "MAIN.CutsceneBorders.3.webp": "ded7cd910049f9cd",
+  "MAIN.FMVWidescreenMode.0.full.webp": "b0a3ed3211422738",
+  "MAIN.FMVWidescreenMode.0.webp": "03a4e6aac773cf2e",
+  "MAIN.FMVWidescreenMode.1.full.webp": "39893dcc0513408b",
+  "MAIN.FMVWidescreenMode.1.webp": "3dcf46d764ea77d9",
+  "MAIN.FOVFactor.0.full.webp": "d4427eaf453afc95",
+  "MAIN.FOVFactor.0.webp": "5dfcc88e2fc9dc07",
+  "MAIN.FOVFactor.1.full.webp": "a021972ccd9b62cd",
+  "MAIN.FOVFactor.1.webp": "aa2320e8dbe2d038",
+  "MAIN.FOVFactor.2.full.webp": "23bdb31b8e6d6751",
+  "MAIN.FOVFactor.2.webp": "dc6430a28adc8e79",
+  "MAIN.FOVFactor.3.full.webp": "3b99b6a20a833e50",
+  "MAIN.FOVFactor.3.webp": "c21bc09950a3cb35",
+  "MAIN.FOVFactor.4.full.webp": "4b37da64b4858fe0",
+  "MAIN.FOVFactor.4.webp": "30e8e60631a564e2",
+  "MAIN.HudAspectRatioConstraint.0.full.webp": "026570927d9acc69",
+  "MAIN.HudAspectRatioConstraint.0.webp": "5ef53c2a93c3a804",
+  "MAIN.HudAspectRatioConstraint.1.full.webp": "5722de3e87fc09c5",
+  "MAIN.HudAspectRatioConstraint.1.webp": "0b334aac36abfc5c",
+  "MAIN.HudAspectRatioConstraint.2.full.webp": "f2423f850e36b34d",
+  "MAIN.HudAspectRatioConstraint.2.webp": "3c68b662b60b8919"
+ },
+ "settings": {
+  "MAIN.FOVFactor": {
+   "kind": "float",
+   "values": [
+    "0.5",
+    "0.75",
+    "1.0",
+    "1.5",
+    "2.0"
+   ],
+   "frameOfValue": {
+    "0.5": 0,
+    "0.75": 1,
+    "1.0": 2,
+    "1.5": 3,
+    "2.0": 4
+   },
+   "stills": [
+    "MAIN.FOVFactor.0.webp",
+    "MAIN.FOVFactor.1.webp",
+    "MAIN.FOVFactor.2.webp",
+    "MAIN.FOVFactor.3.webp",
+    "MAIN.FOVFactor.4.webp"
+   ],
+   "full": [
+    "MAIN.FOVFactor.0.full.webp",
+    "MAIN.FOVFactor.1.full.webp",
+    "MAIN.FOVFactor.2.full.webp",
+    "MAIN.FOVFactor.3.full.webp",
+    "MAIN.FOVFactor.4.full.webp"
+   ],
+   "resolution": [
+    1920,
+    1080
+   ],
+   "version": "9.11.2026.2247"
+  },
+  "MAIN.HudAspectRatioConstraint": {
+   "kind": "string",
+   "values": [
+    "4:3",
+    "16:9",
+    "Auto"
+   ],
+   "frameOfValue": {
+    "4:3": 0,
+    "16:9": 1,
+    "Auto": 2
+   },
+   "stills": [
+    "MAIN.HudAspectRatioConstraint.0.webp",
+    "MAIN.HudAspectRatioConstraint.1.webp",
+    "MAIN.HudAspectRatioConstraint.2.webp"
+   ],
+   "full": [
+    "MAIN.HudAspectRatioConstraint.0.full.webp",
+    "MAIN.HudAspectRatioConstraint.1.full.webp",
+    "MAIN.HudAspectRatioConstraint.2.full.webp"
+   ],
+   "resolution": [
+    1920,
+    1080
+   ],
+   "version": "9.11.2026.2247"
+  },
+  "MAIN.CutsceneBorders": {
+   "kind": "choice",
+   "values": [
+    "0",
+    "1",
+    "2",
+    "3"
+   ],
+   "frameOfValue": {
+    "0": 0,
+    "1": 1,
+    "2": 2,
+    "3": 3
+   },
+   "stills": [
+    "MAIN.CutsceneBorders.0.webp",
+    "MAIN.CutsceneBorders.1.webp",
+    "MAIN.CutsceneBorders.2.webp",
+    "MAIN.CutsceneBorders.3.webp"
+   ],
+   "full": [
+    "MAIN.CutsceneBorders.0.full.webp",
+    "MAIN.CutsceneBorders.1.full.webp",
+    "MAIN.CutsceneBorders.2.full.webp",
+    "MAIN.CutsceneBorders.3.full.webp"
+   ],
+   "resolution": [
+    1920,
+    1080
+   ],
+   "version": "9.11.2026.2247"
+  },
+  "MAIN.FMVWidescreenMode": {
+   "kind": "choice",
+   "values": [
+    "0",
+    "1"
+   ],
+   "frameOfValue": {
+    "0": 0,
+    "1": 1
+   },
+   "stills": [
+    "MAIN.FMVWidescreenMode.0.webp",
+    "MAIN.FMVWidescreenMode.1.webp"
+   ],
+   "full": [
+    "MAIN.FMVWidescreenMode.0.full.webp",
+    "MAIN.FMVWidescreenMode.1.full.webp"
+   ],
+   "resolution": [
+    1920,
+    1080
+   ],
+   "version": "9.11.2026.2247"
+  }
+ }
+}

@@ -1,0 +1,134 @@
+{
+ "format": 1,
+ "plugin": "ResidentEvilRevelations.FusionFix",
+ "version": "9.11.2026.2247",
+ "resolution": [
+  1920,
+  1080
+ ],
+ "fps": 30,
+ "files": {
+  "MAIN.FOVFactor.0.full.webp": "26fe3e5f14a5e3b8",
+  "MAIN.FOVFactor.0.webp": "7346e658cdc23229",
+  "MAIN.FOVFactor.1.full.webp": "2bc953f0cc5dd6dd",
+  "MAIN.FOVFactor.1.webp": "b7facbd31fd1bc81",
+  "MAIN.FOVFactor.2.full.webp": "a5eae546136561e1",
+  "MAIN.FOVFactor.2.webp": "ff1dbe46b173c29b",
+  "MAIN.FOVFactor.3.full.webp": "482140664b1b06e9",
+  "MAIN.FOVFactor.3.webp": "934aec00ad158263",
+  "MAIN.FOVFactor.4.full.webp": "05051ddb6d34cb67",
+  "MAIN.FOVFactor.4.webp": "468ebb1c661453ab",
+  "MAIN.GamepadIcons.0.full.webp": "8a06c4f33e384c0b",
+  "MAIN.GamepadIcons.0.webp": "f19274a7cdd06bd5",
+  "MAIN.GamepadIcons.1.full.webp": "ba4522bf4ff78540",
+  "MAIN.GamepadIcons.1.webp": "45e6b189e657d186",
+  "MAIN.GamepadIcons.2.full.webp": "039150137485e618",
+  "MAIN.GamepadIcons.2.webp": "24d5b4039f78daf8",
+  "MAIN.GamepadIcons.3.full.webp": "80ceb290185dd71e",
+  "MAIN.GamepadIcons.3.webp": "7367b4388393fc2b",
+  "MAIN.HudAspectRatioConstraint.0.full.webp": "5d6e182536259602",
+  "MAIN.HudAspectRatioConstraint.0.webp": "067eea39445556c1",
+  "MAIN.HudAspectRatioConstraint.1.full.webp": "f051728ace90a6ad",
+  "MAIN.HudAspectRatioConstraint.1.webp": "d2f24afbc8f923e1",
+  "MAIN.HudAspectRatioConstraint.2.full.webp": "df0e08a1aeff9554",
+  "MAIN.HudAspectRatioConstraint.2.webp": "91035293e04571b4"
+ },
+ "settings": {
+  "MAIN.GamepadIcons": {
+   "kind": "choice",
+   "values": [
+    "0",
+    "1",
+    "2",
+    "3"
+   ],
+   "frameOfValue": {
+    "0": 0,
+    "1": 1,
+    "2": 2,
+    "3": 3
+   },
+   "stills": [
+    "MAIN.GamepadIcons.0.webp",
+    "MAIN.GamepadIcons.1.webp",
+    "MAIN.GamepadIcons.2.webp",
+    "MAIN.GamepadIcons.3.webp"
+   ],
+   "full": [
+    "MAIN.GamepadIcons.0.full.webp",
+    "MAIN.GamepadIcons.1.full.webp",
+    "MAIN.GamepadIcons.2.full.webp",
+    "MAIN.GamepadIcons.3.full.webp"
+   ],
+   "resolution": [
+    1920,
+    1080
+   ],
+   "version": "9.11.2026.2247"
+  },
+  "MAIN.FOVFactor": {
+   "kind": "float",
+   "values": [
+    "0.5",
+    "0.75",
+    "1.0",
+    "1.5",
+    "2.0"
+   ],
+   "frameOfValue": {
+    "0.5": 0,
+    "0.75": 1,
+    "1.0": 2,
+    "1.5": 3,
+    "2.0": 4
+   },
+   "stills": [
+    "MAIN.FOVFactor.0.webp",
+    "MAIN.FOVFactor.1.webp",
+    "MAIN.FOVFactor.2.webp",
+    "MAIN.FOVFactor.3.webp",
+    "MAIN.FOVFactor.4.webp"
+   ],
+   "full": [
+    "MAIN.FOVFactor.0.full.webp",
+    "MAIN.FOVFactor.1.full.webp",
+    "MAIN.FOVFactor.2.full.webp",
+    "MAIN.FOVFactor.3.full.webp",
+    "MAIN.FOVFactor.4.full.webp"
+   ],
+   "resolution": [
+    1920,
+    1080
+   ],
+   "version": "9.11.2026.2247"
+  },
+  "MAIN.HudAspectRatioConstraint": {
+   "kind": "string",
+   "values": [
+    "4:3",
+    "16:9",
+    "Auto"
+   ],
+   "frameOfValue": {
+    "4:3": 0,
+    "16:9": 1,
+    "Auto": 2
+   },
+   "stills": [
+    "MAIN.HudAspectRatioConstraint.0.webp",
+    "MAIN.HudAspectRatioConstraint.1.webp",
+    "MAIN.HudAspectRatioConstraint.2.webp"
+   ],
+   "full": [
+    "MAIN.HudAspectRatioConstraint.0.full.webp",
+    "MAIN.HudAspectRatioConstraint.1.full.webp",
+    "MAIN.HudAspectRatioConstraint.2.full.webp"
+   ],
+   "resolution": [
+    1920,
+    1080
+   ],
+   "version": "9.11.2026.2247"
+  }
+ }
+}

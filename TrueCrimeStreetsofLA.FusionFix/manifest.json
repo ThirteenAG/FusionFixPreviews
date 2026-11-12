@@ -1,13 +1,49 @@
 {
  "format": 1,
  "plugin": "TrueCrimeStreetsofLA.FusionFix",
- "version": "2.11.2026.2040",
+ "version": "11.11.2026.1556",
  "resolution": [
-  1600,
-  900
+  1914,
+  1007
  ],
  "fps": 30,
  "files": {
+  "GRAPHICS.AntiAliasing.0.full.webp": "29152a74c17f2bba",
+  "GRAPHICS.AntiAliasing.0.webp": "182836fdedcb5106",
+  "GRAPHICS.AntiAliasing.1.full.webp": "1689a56e56e9d041",
+  "GRAPHICS.AntiAliasing.1.webp": "e6eadd20ce1bb407",
+  "GRAPHICS.ConsoleGamma.0.full.webp": "18023161ae44807f",
+  "GRAPHICS.ConsoleGamma.0.webp": "9222f4eedcf49565",
+  "GRAPHICS.ConsoleGamma.1.full.webp": "12cbd20198170a5f",
+  "GRAPHICS.ConsoleGamma.1.webp": "28f55cbf0e4beda3",
+  "MAIN.CutsceneBorders.0.full.webp": "d6621faeff16f009",
+  "MAIN.CutsceneBorders.0.webp": "7b8abfa28c6e2edf",
+  "MAIN.CutsceneBorders.1.full.webp": "c02c502ca4ac6bbe",
+  "MAIN.CutsceneBorders.1.webp": "0eab760cbc92c443",
+  "MAIN.CutsceneBorders.2.full.webp": "ed2a49a13695a301",
+  "MAIN.CutsceneBorders.2.webp": "129a244c4a97b525",
+  "MAIN.CutsceneBorders.3.full.webp": "97f977a4e663a178",
+  "MAIN.CutsceneBorders.3.webp": "ae0af4953b6e47fb",
+  "MAIN.FMVWidescreenMode.0.full.webp": "009ccf32c3948ca6",
+  "MAIN.FMVWidescreenMode.0.webp": "eeb07df8e66b57cd",
+  "MAIN.FMVWidescreenMode.1.full.webp": "c6efc69d19ac0a28",
+  "MAIN.FMVWidescreenMode.1.webp": "bfbe60c64e112613",
+  "MAIN.FOVFactor.0.full.webp": "48638e70e9f2228e",
+  "MAIN.FOVFactor.0.webp": "f0d5f03fc9497f52",
+  "MAIN.FOVFactor.1.full.webp": "0f0483220596fada",
+  "MAIN.FOVFactor.1.webp": "d62a4aea9ed43e5b",
+  "MAIN.FOVFactor.2.full.webp": "805c6377659af07d",
+  "MAIN.FOVFactor.2.webp": "61077d2d11fe37e5",
+  "MAIN.FOVFactor.3.full.webp": "43312cf8fd87367b",
+  "MAIN.FOVFactor.3.webp": "1f98d61e6df7d220",
+  "MAIN.FOVFactor.4.full.webp": "3bf24eaf6a28bab9",
+  "MAIN.FOVFactor.4.webp": "c33bd06b2a25294b",
+  "MAIN.HudAspectRatioConstraint.0.full.webp": "6309439e15d1b283",
+  "MAIN.HudAspectRatioConstraint.0.webp": "53f99d33c5244147",
+  "MAIN.HudAspectRatioConstraint.1.full.webp": "da69f06f70f995c1",
+  "MAIN.HudAspectRatioConstraint.1.webp": "2eab28d721dc71b0",
+  "MAIN.HudAspectRatioConstraint.2.full.webp": "8b7bbb46faffcf6f",
+  "MAIN.HudAspectRatioConstraint.2.webp": "6f0211c5535dadd8",
   "MAIN.SkipIntro.0.full.webp": "c1c8bee29e4fa052",
   "MAIN.SkipIntro.0.webp": "cf45bcaac04b032d",
   "MAIN.SkipIntro.1.full.webp": "96fdc72732653be9",
@@ -37,6 +73,174 @@
     900
    ],
    "version": "2.11.2026.2040"
+  },
+  "MAIN.CutsceneBorders": {
+   "kind": "choice",
+   "values": [
+    "0",
+    "1",
+    "2",
+    "3"
+   ],
+   "frameOfValue": {
+    "0": 0,
+    "1": 1,
+    "2": 2,
+    "3": 3
+   },
+   "stills": [
+    "MAIN.CutsceneBorders.0.webp",
+    "MAIN.CutsceneBorders.1.webp",
+    "MAIN.CutsceneBorders.2.webp",
+    "MAIN.CutsceneBorders.3.webp"
+   ],
+   "full": [
+    "MAIN.CutsceneBorders.0.full.webp",
+    "MAIN.CutsceneBorders.1.full.webp",
+    "MAIN.CutsceneBorders.2.full.webp",
+    "MAIN.CutsceneBorders.3.full.webp"
+   ],
+   "resolution": [
+    1920,
+    1080
+   ],
+   "version": "9.11.2026.2247"
+  },
+  "MAIN.HudAspectRatioConstraint": {
+   "kind": "string",
+   "values": [
+    "4:3",
+    "16:9",
+    "Auto"
+   ],
+   "frameOfValue": {
+    "4:3": 0,
+    "16:9": 1,
+    "Auto": 2
+   },
+   "stills": [
+    "MAIN.HudAspectRatioConstraint.0.webp",
+    "MAIN.HudAspectRatioConstraint.1.webp",
+    "MAIN.HudAspectRatioConstraint.2.webp"
+   ],
+   "full": [
+    "MAIN.HudAspectRatioConstraint.0.full.webp",
+    "MAIN.HudAspectRatioConstraint.1.full.webp",
+    "MAIN.HudAspectRatioConstraint.2.full.webp"
+   ],
+   "resolution": [
+    1920,
+    1080
+   ],
+   "version": "9.11.2026.2247"
+  },
+  "MAIN.FOVFactor": {
+   "kind": "float",
+   "values": [
+    "0.5",
+    "0.75",
+    "1.0",
+    "1.5",
+    "2.0"
+   ],
+   "frameOfValue": {
+    "0.5": 0,
+    "0.75": 1,
+    "1.0": 2,
+    "1.5": 3,
+    "2.0": 4
+   },
+   "stills": [
+    "MAIN.FOVFactor.0.webp",
+    "MAIN.FOVFactor.1.webp",
+    "MAIN.FOVFactor.2.webp",
+    "MAIN.FOVFactor.3.webp",
+    "MAIN.FOVFactor.4.webp"
+   ],
+   "full": [
+    "MAIN.FOVFactor.0.full.webp",
+    "MAIN.FOVFactor.1.full.webp",
+    "MAIN.FOVFactor.2.full.webp",
+    "MAIN.FOVFactor.3.full.webp",
+    "MAIN.FOVFactor.4.full.webp"
+   ],
+   "resolution": [
+    1920,
+    1080
+   ],
+   "version": "9.11.2026.2247"
+  },
+  "GRAPHICS.AntiAliasing": {
+   "kind": "choice",
+   "values": [
+    "0",
+    "1"
+   ],
+   "frameOfValue": {
+    "0": 0,
+    "1": 1
+   },
+   "stills": [
+    "GRAPHICS.AntiAliasing.0.webp",
+    "GRAPHICS.AntiAliasing.1.webp"
+   ],
+   "full": [
+    "GRAPHICS.AntiAliasing.0.full.webp",
+    "GRAPHICS.AntiAliasing.1.full.webp"
+   ],
+   "resolution": [
+    1920,
+    1080
+   ],
+   "version": "9.11.2026.2247"
+  },
+  "GRAPHICS.ConsoleGamma": {
+   "kind": "bool",
+   "values": [
+    "0",
+    "1"
+   ],
+   "frameOfValue": {
+    "0": 0,
+    "1": 1
+   },
+   "stills": [
+    "GRAPHICS.ConsoleGamma.0.webp",
+    "GRAPHICS.ConsoleGamma.1.webp"
+   ],
+   "full": [
+    "GRAPHICS.ConsoleGamma.0.full.webp",
+    "GRAPHICS.ConsoleGamma.1.full.webp"
+   ],
+   "resolution": [
+    1920,
+    1080
+   ],
+   "version": "9.11.2026.2247"
+  },
+  "MAIN.FMVWidescreenMode": {
+   "kind": "choice",
+   "values": [
+    "0",
+    "1"
+   ],
+   "frameOfValue": {
+    "0": 0,
+    "1": 1
+   },
+   "stills": [
+    "MAIN.FMVWidescreenMode.0.webp",
+    "MAIN.FMVWidescreenMode.1.webp"
+   ],
+   "full": [
+    "MAIN.FMVWidescreenMode.0.full.webp",
+    "MAIN.FMVWidescreenMode.1.full.webp"
+   ],
+   "resolution": [
+    1914,
+    1007
+   ],
+   "version": "11.11.2026.1556"
   }
  }
 }

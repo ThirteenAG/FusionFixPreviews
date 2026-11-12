@@ -1,10 +1,10 @@
 {
  "format": 1,
  "plugin": "GTAVCDE.FusionFix",
- "version": "26.10.2026.1327",
+ "version": "11.11.2026.1138",
  "resolution": [
-  1600,
-  900
+  1920,
+  1080
  ],
  "fps": 30,
  "files": {
@@ -24,6 +24,10 @@
   "GRAPHICS.VisualStyle.1.webp": "f16daa848004f451",
   "GRAPHICS.VisualStyle.2.full.webp": "ae802c4ac7dec978",
   "GRAPHICS.VisualStyle.2.webp": "8205f6ce1112d57d",
+  "MAIN.DisableFirstPersonAimForRifles.0.full.webp": "98e05ac63e34cf67",
+  "MAIN.DisableFirstPersonAimForRifles.0.webp": "79b1865dac84aac9",
+  "MAIN.DisableFirstPersonAimForRifles.1.full.webp": "5c6554f853259886",
+  "MAIN.DisableFirstPersonAimForRifles.1.webp": "64e6c9234e1d8bdf",
   "MAIN.FOVFactor.0.full.webp": "9b5eb11e4db84571",
   "MAIN.FOVFactor.0.webp": "d07cfc505b9732c4",
   "MAIN.FOVFactor.1.full.webp": "9fee82a9160535de",
@@ -34,6 +38,16 @@
   "MAIN.FOVFactor.3.webp": "11d531f1a76c433c",
   "MAIN.FOVFactor.4.full.webp": "ea2b04738ded0b9a",
   "MAIN.FOVFactor.4.webp": "a7f1789993ee48c9",
+  "MAIN.HudAspectRatioConstraint.0.full.webp": "0c04761d1c23195a",
+  "MAIN.HudAspectRatioConstraint.0.webp": "a51f236dfc3aea81",
+  "MAIN.HudAspectRatioConstraint.1.full.webp": "d63863a9955423bc",
+  "MAIN.HudAspectRatioConstraint.1.webp": "826579948916e691",
+  "MAIN.HudAspectRatioConstraint.2.full.webp": "183ffab5c4b1c51d",
+  "MAIN.HudAspectRatioConstraint.2.webp": "f394f379ccb1266f",
+  "MAIN.HudAspectRatioConstraint.3.full.webp": "2befaa0073c6bc96",
+  "MAIN.HudAspectRatioConstraint.3.webp": "47ec43cf7006835e",
+  "MAIN.HudAspectRatioConstraint.4.full.webp": "123ddf31ea0178ab",
+  "MAIN.HudAspectRatioConstraint.4.webp": "0f2a1df59d87bc9d",
   "MAIN.HudScale.0.full.webp": "eb3375befa996b10",
   "MAIN.HudScale.0.webp": "2c12bd563c0f203c",
   "MAIN.HudScale.1.full.webp": "8b337cd6182f3d2a",
@@ -93,7 +107,8 @@
    "resolution": [
     1600,
     900
-   ]
+   ],
+   "version": "26.10.2026.1327"
   },
   "MAIN.HudScale": {
    "kind": "float",
@@ -132,7 +147,8 @@
    "resolution": [
     1600,
     900
-   ]
+   ],
+   "version": "26.10.2026.1327"
   },
   "MAIN.RadarScale": {
    "kind": "float",
@@ -171,7 +187,8 @@
    "resolution": [
     1600,
     900
-   ]
+   ],
+   "version": "26.10.2026.1327"
   },
   "GRAPHICS.VisualStyle": {
    "kind": "int",
@@ -198,7 +215,8 @@
    "resolution": [
     1600,
     900
-   ]
+   ],
+   "version": "26.10.2026.1327"
   },
   "GRAPHICS.RestoreWeatherColours": {
    "kind": "bool",
@@ -221,7 +239,8 @@
    "resolution": [
     1600,
     900
-   ]
+   ],
+   "version": "26.10.2026.1327"
   },
   "GRAPHICS.ColourFilterStrength": {
    "kind": "float",
@@ -248,7 +267,68 @@
    "resolution": [
     1600,
     900
-   ]
+   ],
+   "version": "26.10.2026.1327"
+  },
+  "MAIN.HudAspectRatioConstraint": {
+   "kind": "string",
+   "values": [
+    "Auto",
+    "4:3",
+    "16:9",
+    "21:9",
+    "32:9"
+   ],
+   "frameOfValue": {
+    "Auto": 0,
+    "4:3": 1,
+    "16:9": 2,
+    "21:9": 3,
+    "32:9": 4
+   },
+   "stills": [
+    "MAIN.HudAspectRatioConstraint.0.webp",
+    "MAIN.HudAspectRatioConstraint.1.webp",
+    "MAIN.HudAspectRatioConstraint.2.webp",
+    "MAIN.HudAspectRatioConstraint.3.webp",
+    "MAIN.HudAspectRatioConstraint.4.webp"
+   ],
+   "full": [
+    "MAIN.HudAspectRatioConstraint.0.full.webp",
+    "MAIN.HudAspectRatioConstraint.1.full.webp",
+    "MAIN.HudAspectRatioConstraint.2.full.webp",
+    "MAIN.HudAspectRatioConstraint.3.full.webp",
+    "MAIN.HudAspectRatioConstraint.4.full.webp"
+   ],
+   "resolution": [
+    2560,
+    1080
+   ],
+   "version": "11.11.2026.1138"
+  },
+  "MAIN.DisableFirstPersonAimForRifles": {
+   "kind": "bool",
+   "values": [
+    "0",
+    "1"
+   ],
+   "frameOfValue": {
+    "0": 0,
+    "1": 1
+   },
+   "stills": [
+    "MAIN.DisableFirstPersonAimForRifles.0.webp",
+    "MAIN.DisableFirstPersonAimForRifles.1.webp"
+   ],
+   "full": [
+    "MAIN.DisableFirstPersonAimForRifles.0.full.webp",
+    "MAIN.DisableFirstPersonAimForRifles.1.full.webp"
+   ],
+   "resolution": [
+    1920,
+    1080
+   ],
+   "version": "11.11.2026.1138"
   }
  }
 }

@@ -1,0 +1,344 @@
+{
+ "format": 1,
+ "plugin": "GTAVC.FusionRainDroplets",
+ "version": "10.11.2026.1257",
+ "resolution": [
+  1920,
+  1080
+ ],
+ "fps": 30,
+ "files": {
+  "BONUS.EnableSnow.0.full.webp": "2e6f8bea6b491bc0",
+  "BONUS.EnableSnow.0.webp": "6a1f13ce771e1dbc",
+  "BONUS.EnableSnow.1.full.webp": "d2ab38b9820c234a",
+  "BONUS.EnableSnow.1.webp": "5ba15e719bec7d0f",
+  "MAIN.DropBlur.0.full.webp": "16126f2f3b23b31e",
+  "MAIN.DropBlur.0.webp": "28ea6fc93e830dfb",
+  "MAIN.DropBlur.1.full.webp": "f91d636fd72d3e82",
+  "MAIN.DropBlur.1.webp": "6cececb4d6bbdce5",
+  "MAIN.DropBlur.2.full.webp": "ae1b339a8a49502d",
+  "MAIN.DropBlur.2.webp": "b6e3678c3a1d5457",
+  "MAIN.Enabled.0.full.webp": "3b985fd700fab89c",
+  "MAIN.Enabled.0.webp": "8b7db7b04777c0b6",
+  "MAIN.Enabled.1.full.webp": "fc94f5a3f347e85d",
+  "MAIN.Enabled.1.webp": "2b1c5d5576838a3b",
+  "MAIN.MaxDrops.0.full.webp": "18890115ab637cd3",
+  "MAIN.MaxDrops.0.webp": "a4d3f8fe30238359",
+  "MAIN.MaxDrops.1.full.webp": "f97c3c7cc748c8fc",
+  "MAIN.MaxDrops.1.webp": "247d100e20cc48e6",
+  "MAIN.MaxDrops.2.full.webp": "511b8d4b6db7a2c3",
+  "MAIN.MaxDrops.2.webp": "ce1ef6ead5088deb",
+  "MAIN.MaxDrops.3.full.webp": "6b3950031e768406",
+  "MAIN.MaxDrops.3.webp": "3b303115274a9a91",
+  "MAIN.MaxDrops.4.full.webp": "eb0b3d5207ed9e43",
+  "MAIN.MaxDrops.4.webp": "8fa986f5b51e8996",
+  "MAIN.MaxSize.0.full.webp": "0297b7cd13af6940",
+  "MAIN.MaxSize.0.webp": "f90926a820c31c9f",
+  "MAIN.MaxSize.1.full.webp": "6f8818849fe44644",
+  "MAIN.MaxSize.1.webp": "32433e8fece6f5c2",
+  "MAIN.MaxSize.2.full.webp": "e63f3542f837f389",
+  "MAIN.MaxSize.2.webp": "4ac64fe001ff1eac",
+  "MAIN.MaxSize.3.full.webp": "340ac8a75febeb89",
+  "MAIN.MaxSize.3.webp": "1ebebec31f58f438",
+  "MAIN.MaxSize.4.full.webp": "739b9bb36669d6d8",
+  "MAIN.MaxSize.4.webp": "cf185f88e32e1389",
+  "MAIN.MinSize.0.full.webp": "a4f59446b3a3b6c3",
+  "MAIN.MinSize.0.webp": "8d49e408075856c9",
+  "MAIN.MinSize.1.full.webp": "57764d1c2ec8eb5b",
+  "MAIN.MinSize.1.webp": "7f541a982fe52bab",
+  "MAIN.MinSize.2.full.webp": "8c3826bd3a16b548",
+  "MAIN.MinSize.2.webp": "038b424829bd154d",
+  "MAIN.MinSize.3.full.webp": "c8e388ba85944e8b",
+  "MAIN.MinSize.3.webp": "5bc22a99a05a02fc",
+  "MAIN.MinSize.4.full.webp": "c6a305e66bc3c12e",
+  "MAIN.MinSize.4.webp": "4a5f4dd38aa8170b",
+  "MAIN.Refractions.0.full.webp": "1c51ac8b382dfcba",
+  "MAIN.Refractions.0.webp": "5fe168bf1191a605",
+  "MAIN.Refractions.1.full.webp": "c018f58d4ef12867",
+  "MAIN.Refractions.1.webp": "48fa793981262930",
+  "SNOW.Amount.0.full.webp": "520b6912ccf57ade",
+  "SNOW.Amount.0.webp": "14cbc79a1a1ee0b2",
+  "SNOW.Amount.1.full.webp": "1348b080e895317e",
+  "SNOW.Amount.1.webp": "3051bdf41b43d27e",
+  "SNOW.Amount.2.full.webp": "9ce44ffabcb66085",
+  "SNOW.Amount.2.webp": "e7d889a3e3587f18",
+  "SNOW.Amount.3.full.webp": "e6e5527f9dac7322",
+  "SNOW.Amount.3.webp": "572450fef5112995",
+  "SNOW.Size.0.full.webp": "e7feda22a065767b",
+  "SNOW.Size.0.webp": "d95b6c1c1bd6fe4f",
+  "SNOW.Size.1.full.webp": "f572a53cac79ef13",
+  "SNOW.Size.1.webp": "9d422ac8d853915e",
+  "SNOW.Size.2.full.webp": "f777ce3c672bb038",
+  "SNOW.Size.2.webp": "0f17364ecfd4df90"
+ },
+ "settings": {
+  "MAIN.Enabled": {
+   "kind": "bool",
+   "values": [
+    "0",
+    "1"
+   ],
+   "frameOfValue": {
+    "0": 0,
+    "1": 1
+   },
+   "stills": [
+    "MAIN.Enabled.0.webp",
+    "MAIN.Enabled.1.webp"
+   ],
+   "full": [
+    "MAIN.Enabled.0.full.webp",
+    "MAIN.Enabled.1.full.webp"
+   ],
+   "resolution": [
+    1920,
+    1080
+   ],
+   "version": "10.11.2026.1257"
+  },
+  "MAIN.MaxSize": {
+   "kind": "int",
+   "values": [
+    "1",
+    "10",
+    "19",
+    "59",
+    "100"
+   ],
+   "frameOfValue": {
+    "1": 0,
+    "10": 1,
+    "19": 2,
+    "59": 3,
+    "100": 4
+   },
+   "stills": [
+    "MAIN.MaxSize.0.webp",
+    "MAIN.MaxSize.1.webp",
+    "MAIN.MaxSize.2.webp",
+    "MAIN.MaxSize.3.webp",
+    "MAIN.MaxSize.4.webp"
+   ],
+   "full": [
+    "MAIN.MaxSize.0.full.webp",
+    "MAIN.MaxSize.1.full.webp",
+    "MAIN.MaxSize.2.full.webp",
+    "MAIN.MaxSize.3.full.webp",
+    "MAIN.MaxSize.4.full.webp"
+   ],
+   "resolution": [
+    1920,
+    1080
+   ],
+   "version": "10.11.2026.1257"
+  },
+  "MAIN.MaxDrops": {
+   "kind": "int",
+   "values": [
+    "100",
+    "1500",
+    "3000",
+    "9500",
+    "16000"
+   ],
+   "frameOfValue": {
+    "100": 0,
+    "1500": 1,
+    "3000": 2,
+    "9500": 3,
+    "16000": 4
+   },
+   "stills": [
+    "MAIN.MaxDrops.0.webp",
+    "MAIN.MaxDrops.1.webp",
+    "MAIN.MaxDrops.2.webp",
+    "MAIN.MaxDrops.3.webp",
+    "MAIN.MaxDrops.4.webp"
+   ],
+   "full": [
+    "MAIN.MaxDrops.0.full.webp",
+    "MAIN.MaxDrops.1.full.webp",
+    "MAIN.MaxDrops.2.full.webp",
+    "MAIN.MaxDrops.3.full.webp",
+    "MAIN.MaxDrops.4.full.webp"
+   ],
+   "resolution": [
+    1920,
+    1080
+   ],
+   "version": "10.11.2026.1257"
+  },
+  "MAIN.DropBlur": {
+   "kind": "float",
+   "values": [
+    "0.0",
+    "0.5",
+    "1.0"
+   ],
+   "frameOfValue": {
+    "0.0": 0,
+    "0.5": 1,
+    "1.0": 2
+   },
+   "stills": [
+    "MAIN.DropBlur.0.webp",
+    "MAIN.DropBlur.1.webp",
+    "MAIN.DropBlur.2.webp"
+   ],
+   "full": [
+    "MAIN.DropBlur.0.full.webp",
+    "MAIN.DropBlur.1.full.webp",
+    "MAIN.DropBlur.2.full.webp"
+   ],
+   "resolution": [
+    1920,
+    1080
+   ],
+   "version": "10.11.2026.1257"
+  },
+  "MAIN.MinSize": {
+   "kind": "int",
+   "values": [
+    "1",
+    "3",
+    "4",
+    "52",
+    "100"
+   ],
+   "frameOfValue": {
+    "1": 0,
+    "3": 1,
+    "4": 2,
+    "52": 3,
+    "100": 4
+   },
+   "stills": [
+    "MAIN.MinSize.0.webp",
+    "MAIN.MinSize.1.webp",
+    "MAIN.MinSize.2.webp",
+    "MAIN.MinSize.3.webp",
+    "MAIN.MinSize.4.webp"
+   ],
+   "full": [
+    "MAIN.MinSize.0.full.webp",
+    "MAIN.MinSize.1.full.webp",
+    "MAIN.MinSize.2.full.webp",
+    "MAIN.MinSize.3.full.webp",
+    "MAIN.MinSize.4.full.webp"
+   ],
+   "resolution": [
+    1920,
+    1080
+   ],
+   "version": "10.11.2026.1257"
+  },
+  "MAIN.Refractions": {
+   "kind": "bool",
+   "values": [
+    "0",
+    "1"
+   ],
+   "frameOfValue": {
+    "0": 0,
+    "1": 1
+   },
+   "stills": [
+    "MAIN.Refractions.0.webp",
+    "MAIN.Refractions.1.webp"
+   ],
+   "full": [
+    "MAIN.Refractions.0.full.webp",
+    "MAIN.Refractions.1.full.webp"
+   ],
+   "resolution": [
+    1920,
+    1080
+   ],
+   "version": "10.11.2026.1257"
+  },
+  "BONUS.EnableSnow": {
+   "kind": "bool",
+   "values": [
+    "0",
+    "1"
+   ],
+   "frameOfValue": {
+    "0": 0,
+    "1": 1
+   },
+   "stills": [
+    "BONUS.EnableSnow.0.webp",
+    "BONUS.EnableSnow.1.webp"
+   ],
+   "full": [
+    "BONUS.EnableSnow.0.full.webp",
+    "BONUS.EnableSnow.1.full.webp"
+   ],
+   "resolution": [
+    1920,
+    1080
+   ],
+   "version": "10.11.2026.1257"
+  },
+  "SNOW.Size": {
+   "kind": "float",
+   "values": [
+    "0.5",
+    "1.0",
+    "2.0"
+   ],
+   "frameOfValue": {
+    "0.5": 0,
+    "1.0": 1,
+    "2.0": 2
+   },
+   "stills": [
+    "SNOW.Size.0.webp",
+    "SNOW.Size.1.webp",
+    "SNOW.Size.2.webp"
+   ],
+   "full": [
+    "SNOW.Size.0.full.webp",
+    "SNOW.Size.1.full.webp",
+    "SNOW.Size.2.full.webp"
+   ],
+   "resolution": [
+    1920,
+    1080
+   ],
+   "version": "10.11.2026.1257"
+  },
+  "SNOW.Amount": {
+   "kind": "float",
+   "values": [
+    "0.5",
+    "1.0",
+    "2.0",
+    "4.0"
+   ],
+   "frameOfValue": {
+    "0.5": 0,
+    "1.0": 1,
+    "2.0": 2,
+    "4.0": 3
+   },
+   "stills": [
+    "SNOW.Amount.0.webp",
+    "SNOW.Amount.1.webp",
+    "SNOW.Amount.2.webp",
+    "SNOW.Amount.3.webp"
+   ],
+   "full": [
+    "SNOW.Amount.0.full.webp",
+    "SNOW.Amount.1.full.webp",
+    "SNOW.Amount.2.full.webp",
+    "SNOW.Amount.3.full.webp"
+   ],
+   "resolution": [
+    1920,
+    1080
+   ],
+   "version": "10.11.2026.1257"
+  }
+ }
+}

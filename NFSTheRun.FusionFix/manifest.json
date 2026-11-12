@@ -29,7 +29,11 @@
   "MAIN.FOVFactor.3.full.webp": "26dd63da9926535f",
   "MAIN.FOVFactor.3.webp": "7870bd2873be73cd",
   "MAIN.FOVFactor.4.full.webp": "93fa7bcb88540f76",
-  "MAIN.FOVFactor.4.webp": "d76576958545d554"
+  "MAIN.FOVFactor.4.webp": "d76576958545d554",
+  "MAIN.HudAspectRatioConstraint.0.full.webp": "8518666a7d44a7fb",
+  "MAIN.HudAspectRatioConstraint.0.webp": "5b6a7e12347bbc07",
+  "MAIN.HudAspectRatioConstraint.1.full.webp": "63337642762c9115",
+  "MAIN.HudAspectRatioConstraint.1.webp": "62ec682365018272"
  },
  "settings": {
   "MAIN.FOVFactor": {
@@ -123,6 +127,30 @@
     810
    ],
    "version": "27.10.2026.726"
+  },
+  "MAIN.HudAspectRatioConstraint": {
+   "kind": "string",
+   "values": [
+    "4:3",
+    "Auto"
+   ],
+   "frameOfValue": {
+    "4:3": 0,
+    "Auto": 1
+   },
+   "stills": [
+    "MAIN.HudAspectRatioConstraint.0.webp",
+    "MAIN.HudAspectRatioConstraint.1.webp"
+   ],
+   "full": [
+    "MAIN.HudAspectRatioConstraint.0.full.webp",
+    "MAIN.HudAspectRatioConstraint.1.full.webp"
+   ],
+   "resolution": [
+    1920,
+    1080
+   ],
+   "version": "5.11.2026.1227"
   }
  }
 }

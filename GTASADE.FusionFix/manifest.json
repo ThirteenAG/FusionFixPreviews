@@ -1,51 +1,61 @@
 {
  "format": 1,
  "plugin": "GTASADE.FusionFix",
- "version": "26.10.2026.1327",
+ "version": "11.11.2026.1138",
  "resolution": [
   1920,
   1080
  ],
  "fps": 30,
  "files": {
-  "GRAPHICS.ColourFilterStrength.0.full.webp": "baf9bff980f765e1",
-  "GRAPHICS.ColourFilterStrength.0.webp": "b5141280d7e121d3",
-  "GRAPHICS.ColourFilterStrength.1.full.webp": "cd4c4b87d5eb977c",
-  "GRAPHICS.ColourFilterStrength.1.webp": "11febbf4ea4d75bb",
-  "GRAPHICS.ColourFilterStrength.2.full.webp": "2f98112cc8a2c590",
-  "GRAPHICS.ColourFilterStrength.2.webp": "3458962b93e5be3c",
+  "GRAPHICS.ColourFilterStrength.0.full.webp": "c38cec3b1bca87f9",
+  "GRAPHICS.ColourFilterStrength.0.webp": "957ffe4466f9aa79",
+  "GRAPHICS.ColourFilterStrength.1.full.webp": "7a6de4a6b0e39a41",
+  "GRAPHICS.ColourFilterStrength.1.webp": "6c1f99fcd2162d62",
+  "GRAPHICS.ColourFilterStrength.2.full.webp": "e0acb867927e8bfd",
+  "GRAPHICS.ColourFilterStrength.2.webp": "380400c2987f6126",
   "GRAPHICS.RestoreWeatherColours.0.full.webp": "6be998dae3fb78e2",
   "GRAPHICS.RestoreWeatherColours.0.webp": "bcb968de56d4432d",
   "GRAPHICS.RestoreWeatherColours.1.full.webp": "47f53ed424ef4431",
   "GRAPHICS.RestoreWeatherColours.1.webp": "64e99cd7051737bf",
-  "GRAPHICS.VisualStyle.0.full.webp": "f3b4dbb895abf9dc",
-  "GRAPHICS.VisualStyle.0.webp": "93ab4cec64bfbaf5",
-  "GRAPHICS.VisualStyle.1.full.webp": "6e1b32fa75530189",
-  "GRAPHICS.VisualStyle.1.webp": "89074cb6b0dea85f",
-  "GRAPHICS.VisualStyle.2.full.webp": "aa32ec8e9e4408a4",
-  "GRAPHICS.VisualStyle.2.webp": "f59280186ed6d60d",
-  "MAIN.FOVFactor.0.full.webp": "8a0a3380486d0682",
-  "MAIN.FOVFactor.0.webp": "bd0d80eb2e9898cb",
-  "MAIN.FOVFactor.1.full.webp": "b39bd030f9fe0355",
-  "MAIN.FOVFactor.1.webp": "643f56d020735e48",
-  "MAIN.FOVFactor.2.full.webp": "dac0462078f034de",
-  "MAIN.FOVFactor.2.webp": "226c44d43875a9e1",
-  "MAIN.FOVFactor.3.full.webp": "d1c5cf3faeb6bfd0",
-  "MAIN.FOVFactor.3.webp": "bec78100bea90e9e",
-  "MAIN.FOVFactor.4.full.webp": "ae8386084f1e2479",
-  "MAIN.FOVFactor.4.webp": "a36ca31d9d5386cc",
-  "MAIN.HudScale.0.full.webp": "a88577ba239aa8b8",
-  "MAIN.HudScale.0.webp": "85a594c68c6b4e85",
-  "MAIN.HudScale.1.full.webp": "a8f37f92d868766d",
-  "MAIN.HudScale.1.webp": "3e3ff01d60a0aa05",
-  "MAIN.HudScale.2.full.webp": "2033fbf0b106dafd",
-  "MAIN.HudScale.2.webp": "fa0692c134729abf",
-  "MAIN.HudScale.3.full.webp": "b42f102033411fe7",
-  "MAIN.HudScale.3.webp": "f3c65ac57349e3ab",
-  "MAIN.HudScale.4.full.webp": "f21deea77cc6b40d",
-  "MAIN.HudScale.4.webp": "17b20e11eff583ba",
-  "MAIN.HudScale.5.full.webp": "af20721cc27f5433",
-  "MAIN.HudScale.5.webp": "828d4e25b467a418",
+  "GRAPHICS.VisualStyle.0.full.webp": "1153138e2e32bdb4",
+  "GRAPHICS.VisualStyle.0.webp": "8cccc140ad621806",
+  "GRAPHICS.VisualStyle.1.full.webp": "95689853979b6af4",
+  "GRAPHICS.VisualStyle.1.webp": "e6c9c5e6f8eaf1d7",
+  "GRAPHICS.VisualStyle.2.full.webp": "5840d9195aa83b8a",
+  "GRAPHICS.VisualStyle.2.webp": "e4c1d6c0db170792",
+  "MAIN.FOVFactor.0.full.webp": "90c3a58648d802a0",
+  "MAIN.FOVFactor.0.webp": "f5624db137ca9a0e",
+  "MAIN.FOVFactor.1.full.webp": "7c8bce4b8612314c",
+  "MAIN.FOVFactor.1.webp": "45a1b406f89144d9",
+  "MAIN.FOVFactor.2.full.webp": "a6ab2943e6dbe668",
+  "MAIN.FOVFactor.2.webp": "97d2b7448ce1f7bc",
+  "MAIN.FOVFactor.3.full.webp": "95af0bc11bc646a6",
+  "MAIN.FOVFactor.3.webp": "7d75526b9d052ad3",
+  "MAIN.FOVFactor.4.full.webp": "e5bd4999c80e1d66",
+  "MAIN.FOVFactor.4.webp": "459c30acd404a1ec",
+  "MAIN.HudAspectRatioConstraint.0.full.webp": "9fa5f8e437439b05",
+  "MAIN.HudAspectRatioConstraint.0.webp": "6b95ad8eae9d05ec",
+  "MAIN.HudAspectRatioConstraint.1.full.webp": "9b454a503b87cc8b",
+  "MAIN.HudAspectRatioConstraint.1.webp": "406a3dcda81c369e",
+  "MAIN.HudAspectRatioConstraint.2.full.webp": "5b3ca015a1fdb33c",
+  "MAIN.HudAspectRatioConstraint.2.webp": "1b36a9b8223db1bc",
+  "MAIN.HudAspectRatioConstraint.3.full.webp": "76512867adc98f9b",
+  "MAIN.HudAspectRatioConstraint.3.webp": "02c2a1889e054bdb",
+  "MAIN.HudAspectRatioConstraint.4.full.webp": "4308183ef974a224",
+  "MAIN.HudAspectRatioConstraint.4.webp": "229d550ff7fd6e94",
+  "MAIN.HudScale.0.full.webp": "b1e4fca1bcca106f",
+  "MAIN.HudScale.0.webp": "e5c96acfbe9ac085",
+  "MAIN.HudScale.1.full.webp": "797a554371b37454",
+  "MAIN.HudScale.1.webp": "9e53ac22e7d4fa3d",
+  "MAIN.HudScale.2.full.webp": "f701ad07a6b52ed4",
+  "MAIN.HudScale.2.webp": "1a273625c75c804f",
+  "MAIN.HudScale.3.full.webp": "0d9dbc88d6e86fcb",
+  "MAIN.HudScale.3.webp": "f4ad12edb1f6cd54",
+  "MAIN.HudScale.4.full.webp": "d8bcbef0e001db9a",
+  "MAIN.HudScale.4.webp": "08e1db44195466cd",
+  "MAIN.HudScale.5.full.webp": "cec8df34b2bd47d3",
+  "MAIN.HudScale.5.webp": "13624932f6670a89",
   "MAIN.RadarScale.0.full.webp": "9d736a4afac1eff7",
   "MAIN.RadarScale.0.webp": "3a6c70e5f0cea774",
   "MAIN.RadarScale.1.full.webp": "18da7d5d52ebe415",
@@ -60,6 +70,70 @@
   "MAIN.RadarScale.5.webp": "e0de3a34338f912f"
  },
  "settings": {
+  "MAIN.RadarScale": {
+   "kind": "float",
+   "values": [
+    "0.5",
+    "0.6",
+    "0.75",
+    "1.0",
+    "1.1",
+    "1.5"
+   ],
+   "frameOfValue": {
+    "0.5": 0,
+    "0.6": 1,
+    "0.75": 2,
+    "1.0": 3,
+    "1.1": 4,
+    "1.5": 5
+   },
+   "stills": [
+    "MAIN.RadarScale.0.webp",
+    "MAIN.RadarScale.1.webp",
+    "MAIN.RadarScale.2.webp",
+    "MAIN.RadarScale.3.webp",
+    "MAIN.RadarScale.4.webp",
+    "MAIN.RadarScale.5.webp"
+   ],
+   "full": [
+    "MAIN.RadarScale.0.full.webp",
+    "MAIN.RadarScale.1.full.webp",
+    "MAIN.RadarScale.2.full.webp",
+    "MAIN.RadarScale.3.full.webp",
+    "MAIN.RadarScale.4.full.webp",
+    "MAIN.RadarScale.5.full.webp"
+   ],
+   "resolution": [
+    1920,
+    1080
+   ],
+   "version": "26.10.2026.1327"
+  },
+  "GRAPHICS.RestoreWeatherColours": {
+   "kind": "bool",
+   "values": [
+    "0",
+    "1"
+   ],
+   "frameOfValue": {
+    "0": 0,
+    "1": 1
+   },
+   "stills": [
+    "GRAPHICS.RestoreWeatherColours.0.webp",
+    "GRAPHICS.RestoreWeatherColours.1.webp"
+   ],
+   "full": [
+    "GRAPHICS.RestoreWeatherColours.0.full.webp",
+    "GRAPHICS.RestoreWeatherColours.1.full.webp"
+   ],
+   "resolution": [
+    1920,
+    1080
+   ],
+   "version": "26.10.2026.1327"
+  },
   "MAIN.FOVFactor": {
    "kind": "float",
    "values": [
@@ -93,7 +167,8 @@
    "resolution": [
     1920,
     1080
-   ]
+   ],
+   "version": "9.11.2026.2247"
   },
   "MAIN.HudScale": {
    "kind": "float",
@@ -132,46 +207,8 @@
    "resolution": [
     1920,
     1080
-   ]
-  },
-  "MAIN.RadarScale": {
-   "kind": "float",
-   "values": [
-    "0.5",
-    "0.6",
-    "0.75",
-    "1.0",
-    "1.1",
-    "1.5"
    ],
-   "frameOfValue": {
-    "0.5": 0,
-    "0.6": 1,
-    "0.75": 2,
-    "1.0": 3,
-    "1.1": 4,
-    "1.5": 5
-   },
-   "stills": [
-    "MAIN.RadarScale.0.webp",
-    "MAIN.RadarScale.1.webp",
-    "MAIN.RadarScale.2.webp",
-    "MAIN.RadarScale.3.webp",
-    "MAIN.RadarScale.4.webp",
-    "MAIN.RadarScale.5.webp"
-   ],
-   "full": [
-    "MAIN.RadarScale.0.full.webp",
-    "MAIN.RadarScale.1.full.webp",
-    "MAIN.RadarScale.2.full.webp",
-    "MAIN.RadarScale.3.full.webp",
-    "MAIN.RadarScale.4.full.webp",
-    "MAIN.RadarScale.5.full.webp"
-   ],
-   "resolution": [
-    1920,
-    1080
-   ]
+   "version": "9.11.2026.2247"
   },
   "GRAPHICS.VisualStyle": {
    "kind": "int",
@@ -198,30 +235,8 @@
    "resolution": [
     1920,
     1080
-   ]
-  },
-  "GRAPHICS.RestoreWeatherColours": {
-   "kind": "bool",
-   "values": [
-    "0",
-    "1"
    ],
-   "frameOfValue": {
-    "0": 0,
-    "1": 1
-   },
-   "stills": [
-    "GRAPHICS.RestoreWeatherColours.0.webp",
-    "GRAPHICS.RestoreWeatherColours.1.webp"
-   ],
-   "full": [
-    "GRAPHICS.RestoreWeatherColours.0.full.webp",
-    "GRAPHICS.RestoreWeatherColours.1.full.webp"
-   ],
-   "resolution": [
-    1920,
-    1080
-   ]
+   "version": "9.11.2026.2247"
   },
   "GRAPHICS.ColourFilterStrength": {
    "kind": "float",
@@ -248,7 +263,44 @@
    "resolution": [
     1920,
     1080
-   ]
+   ],
+   "version": "9.11.2026.2247"
+  },
+  "MAIN.HudAspectRatioConstraint": {
+   "kind": "string",
+   "values": [
+    "Auto",
+    "4:3",
+    "16:9",
+    "21:9",
+    "32:9"
+   ],
+   "frameOfValue": {
+    "Auto": 0,
+    "4:3": 1,
+    "16:9": 2,
+    "21:9": 3,
+    "32:9": 4
+   },
+   "stills": [
+    "MAIN.HudAspectRatioConstraint.0.webp",
+    "MAIN.HudAspectRatioConstraint.1.webp",
+    "MAIN.HudAspectRatioConstraint.2.webp",
+    "MAIN.HudAspectRatioConstraint.3.webp",
+    "MAIN.HudAspectRatioConstraint.4.webp"
+   ],
+   "full": [
+    "MAIN.HudAspectRatioConstraint.0.full.webp",
+    "MAIN.HudAspectRatioConstraint.1.full.webp",
+    "MAIN.HudAspectRatioConstraint.2.full.webp",
+    "MAIN.HudAspectRatioConstraint.3.full.webp",
+    "MAIN.HudAspectRatioConstraint.4.full.webp"
+   ],
+   "resolution": [
+    2560,
+    1080
+   ],
+   "version": "11.11.2026.1138"
   }
  }
 }

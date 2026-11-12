@@ -1,0 +1,60 @@
+{
+ "format": 1,
+ "plugin": "TonyHawksUnderground.FusionFix",
+ "version": "5.11.2026.1227",
+ "resolution": [
+  1920,
+  1080
+ ],
+ "fps": 30,
+ "files": {
+  "MAIN.FOVFactor.0.full.webp": "daf5968d759154cb",
+  "MAIN.FOVFactor.0.webp": "5bde101598e1758d",
+  "MAIN.FOVFactor.1.full.webp": "c386d9e7bd115747",
+  "MAIN.FOVFactor.1.webp": "50800a65bbb0a786",
+  "MAIN.FOVFactor.2.full.webp": "55500ca55d937bf8",
+  "MAIN.FOVFactor.2.webp": "afe9d8caaa21be45",
+  "MAIN.FOVFactor.3.full.webp": "95d8e133e23fca81",
+  "MAIN.FOVFactor.3.webp": "0abacc7c78fd06cb",
+  "MAIN.FOVFactor.4.full.webp": "f2abcbabfd9af983",
+  "MAIN.FOVFactor.4.webp": "5603af5879374326"
+ },
+ "settings": {
+  "MAIN.FOVFactor": {
+   "kind": "float",
+   "values": [
+    "0.5",
+    "0.75",
+    "1.0",
+    "1.5",
+    "2.0"
+   ],
+   "frameOfValue": {
+    "0.5": 0,
+    "0.75": 1,
+    "1.0": 2,
+    "1.5": 3,
+    "2.0": 4
+   },
+   "stills": [
+    "MAIN.FOVFactor.0.webp",
+    "MAIN.FOVFactor.1.webp",
+    "MAIN.FOVFactor.2.webp",
+    "MAIN.FOVFactor.3.webp",
+    "MAIN.FOVFactor.4.webp"
+   ],
+   "full": [
+    "MAIN.FOVFactor.0.full.webp",
+    "MAIN.FOVFactor.1.full.webp",
+    "MAIN.FOVFactor.2.full.webp",
+    "MAIN.FOVFactor.3.full.webp",
+    "MAIN.FOVFactor.4.full.webp"
+   ],
+   "resolution": [
+    1920,
+    1080
+   ],
+   "version": "5.11.2026.1227"
+  }
+ }
+}

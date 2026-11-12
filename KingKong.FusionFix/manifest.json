@@ -1,0 +1,60 @@
+{
+ "format": 1,
+ "plugin": "KingKong.FusionFix",
+ "version": "11.11.2026.1556",
+ "resolution": [
+  1280,
+  720
+ ],
+ "fps": 30,
+ "files": {
+  "MAIN.FOVFactor.0.full.webp": "f78786f9e96fb94d",
+  "MAIN.FOVFactor.4.webp": "eafb41fedb3ec3ee",
+  "MAIN.FOVFactor.0.webp": "af71b5da333edcfc",
+  "MAIN.FOVFactor.3.webp": "0e1dc66fe8028ab0",
+  "MAIN.FOVFactor.2.webp": "e75b2b32dbc8b040",
+  "MAIN.FOVFactor.2.full.webp": "85e23b1e7169507c",
+  "MAIN.FOVFactor.3.full.webp": "5ecafbcc175c4e64",
+  "MAIN.FOVFactor.4.full.webp": "ce8990f44afdc20e",
+  "MAIN.FOVFactor.1.webp": "c1d976d47cca878f",
+  "MAIN.FOVFactor.1.full.webp": "a7534a516840c0f8"
+ },
+ "settings": {
+  "MAIN.FOVFactor": {
+   "kind": "float",
+   "values": [
+    "0.5",
+    "0.75",
+    "1.0",
+    "1.5",
+    "2.0"
+   ],
+   "frameOfValue": {
+    "0.5": 0,
+    "0.75": 1,
+    "1.0": 2,
+    "1.5": 3,
+    "2.0": 4
+   },
+   "stills": [
+    "MAIN.FOVFactor.0.webp",
+    "MAIN.FOVFactor.1.webp",
+    "MAIN.FOVFactor.2.webp",
+    "MAIN.FOVFactor.3.webp",
+    "MAIN.FOVFactor.4.webp"
+   ],
+   "full": [
+    "MAIN.FOVFactor.0.full.webp",
+    "MAIN.FOVFactor.1.full.webp",
+    "MAIN.FOVFactor.2.full.webp",
+    "MAIN.FOVFactor.3.full.webp",
+    "MAIN.FOVFactor.4.full.webp"
+   ],
+   "resolution": [
+    1280,
+    720
+   ],
+   "version": "11.11.2026.1556"
+  }
+ }
+}

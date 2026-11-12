@@ -1,13 +1,41 @@
 {
  "format": 1,
  "plugin": "UltimateSpiderMan.FusionFix",
- "version": "2.11.2026.2040",
+ "version": "9.11.2026.2247",
  "resolution": [
-  1280,
-  720
+  1920,
+  1080
  ],
  "fps": 30,
  "files": {
+  "GRAPHICS.AntiAliasing.0.full.webp": "8a267a4aaaabe12d",
+  "GRAPHICS.AntiAliasing.0.webp": "e5920eb2e33188a9",
+  "GRAPHICS.AntiAliasing.1.full.webp": "dc3aa5eb25a644cd",
+  "GRAPHICS.AntiAliasing.1.webp": "70ddc32f8b5e257a",
+  "GRAPHICS.ConsoleGamma.0.full.webp": "faa036abda681cbf",
+  "GRAPHICS.ConsoleGamma.0.webp": "4ee43b03ee073d57",
+  "GRAPHICS.ConsoleGamma.1.full.webp": "717e37d842298cd6",
+  "GRAPHICS.ConsoleGamma.1.webp": "4e88573fed7f86cc",
+  "GRAPHICS.DrawDistance.0.full.webp": "89abd93566ddfd03",
+  "GRAPHICS.DrawDistance.0.webp": "9e6b5b213c029a4c",
+  "GRAPHICS.DrawDistance.1.full.webp": "95bcf6d1314ea3fa",
+  "GRAPHICS.DrawDistance.1.webp": "26ad456dce806ac0",
+  "MAIN.FOVFactor.0.full.webp": "d606697018ca998f",
+  "MAIN.FOVFactor.0.webp": "d3053eb178ad6fb4",
+  "MAIN.FOVFactor.1.full.webp": "ae823626d9129955",
+  "MAIN.FOVFactor.1.webp": "18a1ebcd84432dc6",
+  "MAIN.FOVFactor.2.full.webp": "99a148cb23ae2643",
+  "MAIN.FOVFactor.2.webp": "fe8c761634d9ffa0",
+  "MAIN.FOVFactor.3.full.webp": "369cd977307fef45",
+  "MAIN.FOVFactor.3.webp": "4204e8f7beec748f",
+  "MAIN.FOVFactor.4.full.webp": "9cf3a0d002b8e79e",
+  "MAIN.FOVFactor.4.webp": "e6c027d8d5ff06d2",
+  "MAIN.HudAspectRatioConstraint.0.full.webp": "bb8eb73cf475be03",
+  "MAIN.HudAspectRatioConstraint.0.webp": "5cf16cc403a7206d",
+  "MAIN.HudAspectRatioConstraint.1.full.webp": "cf2d1c86e27f23ea",
+  "MAIN.HudAspectRatioConstraint.1.webp": "8b0021b44b152001",
+  "MAIN.HudAspectRatioConstraint.2.full.webp": "09293a674ceaf3e8",
+  "MAIN.HudAspectRatioConstraint.2.webp": "92ea7b06042ef142",
   "MAIN.SkipIntro.0.full.webp": "9176ddb58aa76c7a",
   "MAIN.SkipIntro.0.webp": "ad90992984310c76",
   "MAIN.SkipIntro.1.full.webp": "b88650494d9f499c",
@@ -37,6 +65,142 @@
     720
    ],
    "version": "2.11.2026.2040"
+  },
+  "MAIN.HudAspectRatioConstraint": {
+   "kind": "string",
+   "values": [
+    "4:3",
+    "16:9",
+    "Auto"
+   ],
+   "frameOfValue": {
+    "4:3": 0,
+    "16:9": 1,
+    "Auto": 2
+   },
+   "stills": [
+    "MAIN.HudAspectRatioConstraint.0.webp",
+    "MAIN.HudAspectRatioConstraint.1.webp",
+    "MAIN.HudAspectRatioConstraint.2.webp"
+   ],
+   "full": [
+    "MAIN.HudAspectRatioConstraint.0.full.webp",
+    "MAIN.HudAspectRatioConstraint.1.full.webp",
+    "MAIN.HudAspectRatioConstraint.2.full.webp"
+   ],
+   "resolution": [
+    1920,
+    1080
+   ],
+   "version": "9.11.2026.2247"
+  },
+  "MAIN.FOVFactor": {
+   "kind": "float",
+   "values": [
+    "0.5",
+    "0.75",
+    "1.0",
+    "1.5",
+    "2.0"
+   ],
+   "frameOfValue": {
+    "0.5": 0,
+    "0.75": 1,
+    "1.0": 2,
+    "1.5": 3,
+    "2.0": 4
+   },
+   "stills": [
+    "MAIN.FOVFactor.0.webp",
+    "MAIN.FOVFactor.1.webp",
+    "MAIN.FOVFactor.2.webp",
+    "MAIN.FOVFactor.3.webp",
+    "MAIN.FOVFactor.4.webp"
+   ],
+   "full": [
+    "MAIN.FOVFactor.0.full.webp",
+    "MAIN.FOVFactor.1.full.webp",
+    "MAIN.FOVFactor.2.full.webp",
+    "MAIN.FOVFactor.3.full.webp",
+    "MAIN.FOVFactor.4.full.webp"
+   ],
+   "resolution": [
+    1920,
+    1080
+   ],
+   "version": "9.11.2026.2247"
+  },
+  "GRAPHICS.AntiAliasing": {
+   "kind": "int",
+   "values": [
+    "0",
+    "1"
+   ],
+   "frameOfValue": {
+    "0": 0,
+    "1": 1
+   },
+   "stills": [
+    "GRAPHICS.AntiAliasing.0.webp",
+    "GRAPHICS.AntiAliasing.1.webp"
+   ],
+   "full": [
+    "GRAPHICS.AntiAliasing.0.full.webp",
+    "GRAPHICS.AntiAliasing.1.full.webp"
+   ],
+   "resolution": [
+    1920,
+    1080
+   ],
+   "version": "9.11.2026.2247"
+  },
+  "GRAPHICS.ConsoleGamma": {
+   "kind": "bool",
+   "values": [
+    "0",
+    "1"
+   ],
+   "frameOfValue": {
+    "0": 0,
+    "1": 1
+   },
+   "stills": [
+    "GRAPHICS.ConsoleGamma.0.webp",
+    "GRAPHICS.ConsoleGamma.1.webp"
+   ],
+   "full": [
+    "GRAPHICS.ConsoleGamma.0.full.webp",
+    "GRAPHICS.ConsoleGamma.1.full.webp"
+   ],
+   "resolution": [
+    1920,
+    1080
+   ],
+   "version": "9.11.2026.2247"
+  },
+  "GRAPHICS.DrawDistance": {
+   "kind": "float",
+   "values": [
+    "1.0",
+    "2.0"
+   ],
+   "frameOfValue": {
+    "1.0": 0,
+    "2.0": 1
+   },
+   "stills": [
+    "GRAPHICS.DrawDistance.0.webp",
+    "GRAPHICS.DrawDistance.1.webp"
+   ],
+   "full": [
+    "GRAPHICS.DrawDistance.0.full.webp",
+    "GRAPHICS.DrawDistance.1.full.webp"
+   ],
+   "resolution": [
+    1920,
+    1080
+   ],
+   "version": "9.11.2026.2247"
   }
  }
 }

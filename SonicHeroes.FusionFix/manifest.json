@@ -1,17 +1,25 @@
 {
  "format": 1,
  "plugin": "SonicHeroes.FusionFix",
- "version": "2.11.2026.2114",
+ "version": "5.11.2026.1227",
  "resolution": [
-  1280,
-  720
+  3840,
+  2127
  ],
  "fps": 30,
  "files": {
+  "GRAPHICS.ShadowResolution.0.full.webp": "c8767f9d61e1e445",
+  "GRAPHICS.ShadowResolution.0.webp": "b36ce824a0a6a0d1",
+  "GRAPHICS.ShadowResolution.1.full.webp": "06795b4bb279b1d0",
+  "GRAPHICS.ShadowResolution.1.webp": "76d7aef632a555d9",
   "MAIN.FOVFactor.0.full.webp": "a6e0cb60f13a0ab6",
   "MAIN.FOVFactor.0.webp": "170d7c704cd2350a",
   "MAIN.FOVFactor.1.full.webp": "6db358e269ce59c9",
   "MAIN.FOVFactor.1.webp": "d71dd1e7d46c0c7a",
+  "MAIN.HudAspectRatioConstraint.0.full.webp": "70bcbd0263f70cdb",
+  "MAIN.HudAspectRatioConstraint.0.webp": "2e14ea5248feb8f4",
+  "MAIN.HudAspectRatioConstraint.1.full.webp": "a2d01d0555258fa3",
+  "MAIN.HudAspectRatioConstraint.1.webp": "d643e63a1ffbc435",
   "MAIN.SkipIntro.0.full.webp": "a3507b249a7ddd0a",
   "MAIN.SkipIntro.0.webp": "a5d63d969cc583b7",
   "MAIN.SkipIntro.1.full.webp": "85b8b602e309f109",
@@ -23,7 +31,15 @@
   "MISC.RestoreDemos.0.full.webp": "f5b403b7132c174d",
   "MISC.RestoreDemos.0.webp": "1ae719110d5aed6f",
   "MISC.RestoreDemos.1.full.webp": "8cbb9d07943cec7c",
-  "MISC.RestoreDemos.1.webp": "bdcd90c7c17c93a1"
+  "MISC.RestoreDemos.1.webp": "bdcd90c7c17c93a1",
+  "MISC.ShadowScale.0.full.webp": "a5578eed45dc88fb",
+  "MISC.ShadowScale.0.webp": "f20e7024e8597527",
+  "MISC.ShadowScale.1.full.webp": "e0b8255b6b6e122b",
+  "MISC.ShadowScale.1.webp": "68145201236a6d03",
+  "MISC.DisableSubtitles.0.webp": "3f1c06118efa60e9",
+  "MISC.DisableSubtitles.1.webp": "ec08c7e5f11a9111",
+  "MISC.DisableSubtitles.0.full.webp": "43f96cbe079a49ae",
+  "MISC.DisableSubtitles.1.full.webp": "fae02a58744bc691"
  },
  "settings": {
   "MAIN.FOVFactor": {
@@ -121,6 +137,102 @@
     720
    ],
    "version": "2.11.2026.2040"
+  },
+  "MAIN.HudAspectRatioConstraint": {
+   "kind": "string",
+   "values": [
+    "4:3",
+    "21:9"
+   ],
+   "frameOfValue": {
+    "4:3": 0,
+    "21:9": 1
+   },
+   "stills": [
+    "MAIN.HudAspectRatioConstraint.0.webp",
+    "MAIN.HudAspectRatioConstraint.1.webp"
+   ],
+   "full": [
+    "MAIN.HudAspectRatioConstraint.0.full.webp",
+    "MAIN.HudAspectRatioConstraint.1.full.webp"
+   ],
+   "resolution": [
+    3840,
+    2127
+   ],
+   "version": "5.11.2026.1227"
+  },
+  "MISC.ShadowScale": {
+   "kind": "float",
+   "values": [
+    "0.1",
+    "10.0"
+   ],
+   "frameOfValue": {
+    "0.1": 0,
+    "10.0": 1
+   },
+   "stills": [
+    "MISC.ShadowScale.0.webp",
+    "MISC.ShadowScale.1.webp"
+   ],
+   "full": [
+    "MISC.ShadowScale.0.full.webp",
+    "MISC.ShadowScale.1.full.webp"
+   ],
+   "resolution": [
+    3840,
+    2127
+   ],
+   "version": "5.11.2026.1227"
+  },
+  "GRAPHICS.ShadowResolution": {
+   "kind": "int",
+   "values": [
+    "256",
+    "1024"
+   ],
+   "frameOfValue": {
+    "256": 0,
+    "1024": 1
+   },
+   "stills": [
+    "GRAPHICS.ShadowResolution.0.webp",
+    "GRAPHICS.ShadowResolution.1.webp"
+   ],
+   "full": [
+    "GRAPHICS.ShadowResolution.0.full.webp",
+    "GRAPHICS.ShadowResolution.1.full.webp"
+   ],
+   "resolution": [
+    3840,
+    2127
+   ],
+   "version": "5.11.2026.1227"
+  },
+  "MISC.DisableSubtitles": {
+   "kind": "bool",
+   "values": [
+    "0",
+    "1"
+   ],
+   "frameOfValue": {
+    "0": 0,
+    "1": 1
+   },
+   "stills": [
+    "MISC.DisableSubtitles.0.webp",
+    "MISC.DisableSubtitles.1.webp"
+   ],
+   "full": [
+    "MISC.DisableSubtitles.0.full.webp",
+    "MISC.DisableSubtitles.1.full.webp"
+   ],
+   "resolution": [
+    3840,
+    2127
+   ],
+   "version": "5.11.2026.1227"
   }
  }
 }

@@ -1,13 +1,27 @@
 {
  "format": 1,
  "plugin": "TonyHawksProSkater3.FusionFix",
- "version": "2.11.2026.2114",
+ "version": "5.11.2026.1227",
  "resolution": [
-  1600,
-  900
+  3840,
+  2160
  ],
  "fps": 30,
  "files": {
+  "MAIN.FOVFactor.0.full.webp": "22e6bc117ffef69e",
+  "MAIN.FOVFactor.0.webp": "72f18cb0bea3600c",
+  "MAIN.FOVFactor.1.full.webp": "173f20049900bf50",
+  "MAIN.FOVFactor.1.webp": "cbd888adbea85aa7",
+  "MAIN.FOVFactor.2.full.webp": "40227bfc18d01043",
+  "MAIN.FOVFactor.2.webp": "4e218fa13d507006",
+  "MAIN.FOVFactor.3.full.webp": "6a03ee77abc08c51",
+  "MAIN.FOVFactor.3.webp": "a5cc0ca091ab8395",
+  "MAIN.FOVFactor.4.full.webp": "c779055906c8403e",
+  "MAIN.FOVFactor.4.webp": "bf6ff4784d55bb65",
+  "MAIN.HudAspectRatioConstraint.0.full.webp": "2fa14da4028caba5",
+  "MAIN.HudAspectRatioConstraint.0.webp": "c1b5b1d347476ba3",
+  "MAIN.HudAspectRatioConstraint.1.full.webp": "85762761b6c511be",
+  "MAIN.HudAspectRatioConstraint.1.webp": "72dc382eb02cf331",
   "MAIN.SkipIntro.0.full.webp": "0c456165bde653dd",
   "MAIN.SkipIntro.0.webp": "a61f11faf3cd2705",
   "MAIN.SkipIntro.1.full.webp": "3e4f4a4be265e4d6",
@@ -37,6 +51,66 @@
     900
    ],
    "version": "2.11.2026.2114"
+  },
+  "MAIN.FOVFactor": {
+   "kind": "float",
+   "values": [
+    "0.5",
+    "0.75",
+    "1.0",
+    "1.5",
+    "2.0"
+   ],
+   "frameOfValue": {
+    "0.5": 0,
+    "0.75": 1,
+    "1.0": 2,
+    "1.5": 3,
+    "2.0": 4
+   },
+   "stills": [
+    "MAIN.FOVFactor.0.webp",
+    "MAIN.FOVFactor.1.webp",
+    "MAIN.FOVFactor.2.webp",
+    "MAIN.FOVFactor.3.webp",
+    "MAIN.FOVFactor.4.webp"
+   ],
+   "full": [
+    "MAIN.FOVFactor.0.full.webp",
+    "MAIN.FOVFactor.1.full.webp",
+    "MAIN.FOVFactor.2.full.webp",
+    "MAIN.FOVFactor.3.full.webp",
+    "MAIN.FOVFactor.4.full.webp"
+   ],
+   "resolution": [
+    3840,
+    2160
+   ],
+   "version": "5.11.2026.1227"
+  },
+  "MAIN.HudAspectRatioConstraint": {
+   "kind": "string",
+   "values": [
+    "4:3",
+    "16:9"
+   ],
+   "frameOfValue": {
+    "4:3": 0,
+    "16:9": 1
+   },
+   "stills": [
+    "MAIN.HudAspectRatioConstraint.0.webp",
+    "MAIN.HudAspectRatioConstraint.1.webp"
+   ],
+   "full": [
+    "MAIN.HudAspectRatioConstraint.0.full.webp",
+    "MAIN.HudAspectRatioConstraint.1.full.webp"
+   ],
+   "resolution": [
+    3840,
+    2160
+   ],
+   "version": "5.11.2026.1227"
   }
  }
 }

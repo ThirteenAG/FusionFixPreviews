@@ -13,7 +13,13 @@
   "MAIN.PanAndScan.1.full.webp": "d10360c1204f5d1f",
   "MAIN.PanAndScan.1.webp": "9b621a5c5f794655",
   "brand/brand.json": "2a9d4815f1b051a2",
-  "brand/logo.svg": "cfcbeda47d8b7ed0"
+  "brand/logo.svg": "cfcbeda47d8b7ed0",
+  "MAIN.MaxAspectRatio.0.full.webp": "251debf2036ed542",
+  "MAIN.MaxAspectRatio.0.webp": "9300e903a4059c65",
+  "MAIN.MaxAspectRatio.1.full.webp": "39bf5850f2699c78",
+  "MAIN.MaxAspectRatio.1.webp": "05edea5c6240c83c",
+  "MAIN.MaxAspectRatio.2.full.webp": "cf586488a76e008b",
+  "MAIN.MaxAspectRatio.2.webp": "31737b76d678dcb1"
  },
  "settings": {
   "MAIN.PanAndScan": {
@@ -38,6 +44,34 @@
     1920,
     1080
    ]
+  },
+  "MAIN.MaxAspectRatio": {
+   "kind": "string",
+   "values": [
+    "4:3",
+    "16:10",
+    "16:9"
+   ],
+   "frameOfValue": {
+    "4:3": 0,
+    "16:10": 1,
+    "16:9": 2
+   },
+   "stills": [
+    "MAIN.MaxAspectRatio.0.webp",
+    "MAIN.MaxAspectRatio.1.webp",
+    "MAIN.MaxAspectRatio.2.webp"
+   ],
+   "full": [
+    "MAIN.MaxAspectRatio.0.full.webp",
+    "MAIN.MaxAspectRatio.1.full.webp",
+    "MAIN.MaxAspectRatio.2.full.webp"
+   ],
+   "resolution": [
+    3846,
+    2200
+   ],
+   "version": "7.11.2026.1029"
   }
  }
 }

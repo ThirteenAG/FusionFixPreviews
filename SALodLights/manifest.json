@@ -1,0 +1,362 @@
+{
+ "format": 1,
+ "plugin": "SALodLights",
+ "version": "25.10.2026.1731",
+ "resolution": [
+  1920,
+  1080
+ ],
+ "fps": 30,
+ "files": {
+  "DISTANCE.DetailDistance.0.full.webp": "66b9fd9219582287",
+  "DISTANCE.DetailDistance.0.webp": "17255948f283e0be",
+  "DISTANCE.DetailDistance.1.full.webp": "ad5258360292cbba",
+  "DISTANCE.DetailDistance.1.webp": "02cf2db6e8621823",
+  "DISTANCE.DetailDistance.2.full.webp": "60c2575dfff54867",
+  "DISTANCE.DetailDistance.2.webp": "f8a948d8a56981e8",
+  "DISTANCE.DetailDistance.3.full.webp": "93079e8dd8fa7894",
+  "DISTANCE.DetailDistance.3.webp": "02c080e124ec9f9f",
+  "DISTANCE.DetailDistance.4.full.webp": "fbef68f8fe2c0989",
+  "DISTANCE.DetailDistance.4.webp": "37bb34a62ffa46a4",
+  "DISTANCE.DrawDistance.0.full.webp": "bcc1ea95b9bce924",
+  "DISTANCE.DrawDistance.0.webp": "af37e17472fdd3b2",
+  "DISTANCE.DrawDistance.1.full.webp": "383456893fd2988e",
+  "DISTANCE.DrawDistance.1.webp": "242649614da664fd",
+  "DISTANCE.DrawDistance.2.full.webp": "0b40cec6aa1ea51e",
+  "DISTANCE.DrawDistance.2.webp": "3e32274f4ac5b1db",
+  "DISTANCE.DrawDistance.3.full.webp": "33a0225cce845498",
+  "DISTANCE.DrawDistance.3.webp": "0065c6361dafd9a8",
+  "DISTANCE.DrawDistance.4.full.webp": "d7ef7a9135128ea9",
+  "DISTANCE.DrawDistance.4.webp": "d5e1a53d5dbabff1",
+  "DISTANCE.ShadowDistance.0.full.webp": "3507ec54b7448e5d",
+  "DISTANCE.ShadowDistance.0.webp": "e63738d5f8b1aa0e",
+  "DISTANCE.ShadowDistance.1.full.webp": "45459d3c7868f5b6",
+  "DISTANCE.ShadowDistance.1.webp": "20f6904de5f5b11d",
+  "DISTANCE.ShadowDistance.2.full.webp": "04dfabd88643d452",
+  "DISTANCE.ShadowDistance.2.webp": "ec50375d434b8d7e",
+  "DISTANCE.ShadowDistance.3.full.webp": "186cc34f47cc7f53",
+  "DISTANCE.ShadowDistance.3.webp": "f84a8e03c1a3b6fc",
+  "DISTANCE.ShadowDistance.4.full.webp": "719708a9fb7d8ba1",
+  "DISTANCE.ShadowDistance.4.webp": "edb966eff788c23f",
+  "DISTANCE.ViewDistance.0.full.webp": "71d3ad36c3ad24c7",
+  "DISTANCE.ViewDistance.0.webp": "cd3e2c8aaa74424b",
+  "DISTANCE.ViewDistance.1.full.webp": "7cbe069a441a6588",
+  "DISTANCE.ViewDistance.1.webp": "4c28b6e509a4b566",
+  "DISTANCE.ViewDistance.2.full.webp": "b8fce177a44b47a1",
+  "DISTANCE.ViewDistance.2.webp": "8edd96b0c679fff2",
+  "DISTANCE.ViewDistance.3.full.webp": "92fe03860a6a4cea",
+  "DISTANCE.ViewDistance.3.webp": "6f159bc356b04a37",
+  "DISTANCE.ViewDistance.4.full.webp": "32dfd46e5a219a0b",
+  "DISTANCE.ViewDistance.4.webp": "25dfb36ed33a270e",
+  "LIGHTS.DistantLightShadows.0.full.webp": "bd4ef48a666540af",
+  "LIGHTS.DistantLightShadows.0.webp": "bc675ee717de9e83",
+  "LIGHTS.DistantLightShadows.1.full.webp": "bd821681a7d732a4",
+  "LIGHTS.DistantLightShadows.1.webp": "d3a097696d94f230",
+  "LIGHTS.DistantLightSize.0.full.webp": "b1a52dd726ef8246",
+  "LIGHTS.DistantLightSize.0.webp": "442ee79cb7c57e51",
+  "LIGHTS.DistantLightSize.1.full.webp": "66cf11ff29ed9116",
+  "LIGHTS.DistantLightSize.1.webp": "363bd0474898001d",
+  "LIGHTS.DistantLightSize.2.full.webp": "4bb065ae7478e0c4",
+  "LIGHTS.DistantLightSize.2.webp": "5615a8adc4da55f7",
+  "LIGHTS.DistantLightSize.3.full.webp": "dff58af1a38c4284",
+  "LIGHTS.DistantLightSize.3.webp": "3e259c1ef1480f59",
+  "LIGHTS.DistantLightSize.4.full.webp": "49132397f5e61097",
+  "LIGHTS.DistantLightSize.4.webp": "5f4303eec92fde77",
+  "LIGHTS.DistantLights.0.full.webp": "81a8adef78cfa1e2",
+  "LIGHTS.DistantLights.0.webp": "a74773e75e67945e",
+  "LIGHTS.DistantLights.1.full.webp": "46826156355a8f28",
+  "LIGHTS.DistantLights.1.webp": "8388b2b9a5d1c781",
+  "LIGHTS.DistantTraffic.0.full.webp": "149a9203537b15ec",
+  "LIGHTS.DistantTraffic.0.webp": "47135b1784817454",
+  "LIGHTS.DistantTraffic.1.full.webp": "44e0fdd6541aaf98",
+  "LIGHTS.DistantTraffic.1.webp": "53c491ce5389cdd8",
+  "LIGHTS.DistantTraffic.2.full.webp": "545ac8c35ea70518",
+  "LIGHTS.DistantTraffic.2.webp": "9e43f48e607e73cb",
+  "LIGHTS.Searchlights.0.full.webp": "747ea0149dcddab6",
+  "LIGHTS.Searchlights.0.webp": "26901201d87778cf",
+  "LIGHTS.Searchlights.1.full.webp": "286f01570011e096",
+  "LIGHTS.Searchlights.1.webp": "4371c1a21798579b"
+ },
+ "settings": {
+  "DISTANCE.ViewDistance": {
+   "kind": "int",
+   "values": [
+    "0",
+    "500",
+    "1000",
+    "2000",
+    "3000"
+   ],
+   "frameOfValue": {
+    "0": 0,
+    "500": 1,
+    "1000": 2,
+    "2000": 3,
+    "3000": 4
+   },
+   "stills": [
+    "DISTANCE.ViewDistance.0.webp",
+    "DISTANCE.ViewDistance.1.webp",
+    "DISTANCE.ViewDistance.2.webp",
+    "DISTANCE.ViewDistance.3.webp",
+    "DISTANCE.ViewDistance.4.webp"
+   ],
+   "full": [
+    "DISTANCE.ViewDistance.0.full.webp",
+    "DISTANCE.ViewDistance.1.full.webp",
+    "DISTANCE.ViewDistance.2.full.webp",
+    "DISTANCE.ViewDistance.3.full.webp",
+    "DISTANCE.ViewDistance.4.full.webp"
+   ],
+   "resolution": [
+    1920,
+    1080
+   ],
+   "version": "25.10.2026.1731"
+  },
+  "DISTANCE.DrawDistance": {
+   "kind": "float",
+   "values": [
+    "1.0",
+    "1.75",
+    "2.5",
+    "3.75",
+    "5.0"
+   ],
+   "frameOfValue": {
+    "1.0": 0,
+    "1.75": 1,
+    "2.5": 2,
+    "3.75": 3,
+    "5.0": 4
+   },
+   "stills": [
+    "DISTANCE.DrawDistance.0.webp",
+    "DISTANCE.DrawDistance.1.webp",
+    "DISTANCE.DrawDistance.2.webp",
+    "DISTANCE.DrawDistance.3.webp",
+    "DISTANCE.DrawDistance.4.webp"
+   ],
+   "full": [
+    "DISTANCE.DrawDistance.0.full.webp",
+    "DISTANCE.DrawDistance.1.full.webp",
+    "DISTANCE.DrawDistance.2.full.webp",
+    "DISTANCE.DrawDistance.3.full.webp",
+    "DISTANCE.DrawDistance.4.full.webp"
+   ],
+   "resolution": [
+    1920,
+    1080
+   ],
+   "version": "25.10.2026.1731"
+  },
+  "LIGHTS.DistantLights": {
+   "kind": "bool",
+   "values": [
+    "0",
+    "1"
+   ],
+   "frameOfValue": {
+    "0": 0,
+    "1": 1
+   },
+   "stills": [
+    "LIGHTS.DistantLights.0.webp",
+    "LIGHTS.DistantLights.1.webp"
+   ],
+   "full": [
+    "LIGHTS.DistantLights.0.full.webp",
+    "LIGHTS.DistantLights.1.full.webp"
+   ],
+   "resolution": [
+    1920,
+    1080
+   ],
+   "version": "25.10.2026.1731"
+  },
+  "LIGHTS.DistantLightShadows": {
+   "kind": "bool",
+   "values": [
+    "0",
+    "1"
+   ],
+   "frameOfValue": {
+    "0": 0,
+    "1": 1
+   },
+   "stills": [
+    "LIGHTS.DistantLightShadows.0.webp",
+    "LIGHTS.DistantLightShadows.1.webp"
+   ],
+   "full": [
+    "LIGHTS.DistantLightShadows.0.full.webp",
+    "LIGHTS.DistantLightShadows.1.full.webp"
+   ],
+   "resolution": [
+    1920,
+    1080
+   ],
+   "version": "25.10.2026.1731"
+  },
+  "LIGHTS.DistantTraffic": {
+   "kind": "choice",
+   "values": [
+    "0",
+    "1",
+    "2"
+   ],
+   "frameOfValue": {
+    "0": 0,
+    "1": 1,
+    "2": 2
+   },
+   "stills": [
+    "LIGHTS.DistantTraffic.0.webp",
+    "LIGHTS.DistantTraffic.1.webp",
+    "LIGHTS.DistantTraffic.2.webp"
+   ],
+   "full": [
+    "LIGHTS.DistantTraffic.0.full.webp",
+    "LIGHTS.DistantTraffic.1.full.webp",
+    "LIGHTS.DistantTraffic.2.full.webp"
+   ],
+   "resolution": [
+    1920,
+    1080
+   ],
+   "version": "25.10.2026.1731"
+  },
+  "LIGHTS.DistantLightSize": {
+   "kind": "float",
+   "values": [
+    "0.25",
+    "0.5",
+    "1.0",
+    "2.0",
+    "4.0"
+   ],
+   "frameOfValue": {
+    "0.25": 0,
+    "0.5": 1,
+    "1.0": 2,
+    "2.0": 3,
+    "4.0": 4
+   },
+   "stills": [
+    "LIGHTS.DistantLightSize.0.webp",
+    "LIGHTS.DistantLightSize.1.webp",
+    "LIGHTS.DistantLightSize.2.webp",
+    "LIGHTS.DistantLightSize.3.webp",
+    "LIGHTS.DistantLightSize.4.webp"
+   ],
+   "full": [
+    "LIGHTS.DistantLightSize.0.full.webp",
+    "LIGHTS.DistantLightSize.1.full.webp",
+    "LIGHTS.DistantLightSize.2.full.webp",
+    "LIGHTS.DistantLightSize.3.full.webp",
+    "LIGHTS.DistantLightSize.4.full.webp"
+   ],
+   "resolution": [
+    1920,
+    1080
+   ],
+   "version": "25.10.2026.1731"
+  },
+  "LIGHTS.Searchlights": {
+   "kind": "bool",
+   "values": [
+    "0",
+    "1"
+   ],
+   "frameOfValue": {
+    "0": 0,
+    "1": 1
+   },
+   "stills": [
+    "LIGHTS.Searchlights.0.webp",
+    "LIGHTS.Searchlights.1.webp"
+   ],
+   "full": [
+    "LIGHTS.Searchlights.0.full.webp",
+    "LIGHTS.Searchlights.1.full.webp"
+   ],
+   "resolution": [
+    1920,
+    1080
+   ],
+   "version": "25.10.2026.1731"
+  },
+  "DISTANCE.ShadowDistance": {
+   "kind": "float",
+   "values": [
+    "1.0",
+    "2.5",
+    "4.0",
+    "6.0",
+    "8.0"
+   ],
+   "frameOfValue": {
+    "1.0": 0,
+    "2.5": 1,
+    "4.0": 2,
+    "6.0": 3,
+    "8.0": 4
+   },
+   "stills": [
+    "DISTANCE.ShadowDistance.0.webp",
+    "DISTANCE.ShadowDistance.1.webp",
+    "DISTANCE.ShadowDistance.2.webp",
+    "DISTANCE.ShadowDistance.3.webp",
+    "DISTANCE.ShadowDistance.4.webp"
+   ],
+   "full": [
+    "DISTANCE.ShadowDistance.0.full.webp",
+    "DISTANCE.ShadowDistance.1.full.webp",
+    "DISTANCE.ShadowDistance.2.full.webp",
+    "DISTANCE.ShadowDistance.3.full.webp",
+    "DISTANCE.ShadowDistance.4.full.webp"
+   ],
+   "resolution": [
+    1920,
+    1080
+   ],
+   "version": "25.10.2026.1731"
+  },
+  "DISTANCE.DetailDistance": {
+   "kind": "float",
+   "values": [
+    "1.0",
+    "1.5",
+    "2.0",
+    "3.0",
+    "4.0"
+   ],
+   "frameOfValue": {
+    "1.0": 0,
+    "1.5": 1,
+    "2.0": 2,
+    "3.0": 3,
+    "4.0": 4
+   },
+   "stills": [
+    "DISTANCE.DetailDistance.0.webp",
+    "DISTANCE.DetailDistance.1.webp",
+    "DISTANCE.DetailDistance.2.webp",
+    "DISTANCE.DetailDistance.3.webp",
+    "DISTANCE.DetailDistance.4.webp"
+   ],
+   "full": [
+    "DISTANCE.DetailDistance.0.full.webp",
+    "DISTANCE.DetailDistance.1.full.webp",
+    "DISTANCE.DetailDistance.2.full.webp",
+    "DISTANCE.DetailDistance.3.full.webp",
+    "DISTANCE.DetailDistance.4.full.webp"
+   ],
+   "resolution": [
+    1920,
+    1080
+   ],
+   "version": "25.10.2026.1731"
+  }
+ }
+}

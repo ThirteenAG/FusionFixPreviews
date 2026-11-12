@@ -3,8 +3,8 @@
  "plugin": "GTAVCS.PPSSPP.FusionFix",
  "version": "2.0",
  "resolution": [
-  1422,
-  442
+  1920,
+  1080
  ],
  "fps": 30,
  "files": {
@@ -18,6 +18,16 @@
   "MAIN.FOVFactor.3.webp": "d5bd32de831ef402",
   "MAIN.FOVFactor.4.full.webp": "431960c33e2df63a",
   "MAIN.FOVFactor.4.webp": "79d906b7ed7d328f",
+  "MAIN.ForceAspectRatio.0.full.webp": "df6f4293c20a326c",
+  "MAIN.ForceAspectRatio.0.webp": "67311d49beefd087",
+  "MAIN.ForceAspectRatio.1.full.webp": "6b4960424990d9d8",
+  "MAIN.ForceAspectRatio.1.webp": "8e32f00f792a0fd9",
+  "MAIN.ForceAspectRatio.2.full.webp": "84f9f4d25bae634d",
+  "MAIN.ForceAspectRatio.2.webp": "afe161d4c4fbd3fb",
+  "MAIN.ForceAspectRatio.3.full.webp": "3b739bb493cfd719",
+  "MAIN.ForceAspectRatio.3.webp": "af12c73772ac05b0",
+  "MAIN.ForceAspectRatio.4.full.webp": "ef547d06bee1b4e4",
+  "MAIN.ForceAspectRatio.4.webp": "0b046d327c4a376c",
   "MAIN.GamepadIcons.0.webp": "d5993dbbf374c36c",
   "MAIN.GamepadIcons.1.webp": "741d9f38a7a45dc7",
   "MAIN.GamepadIcons.2.webp": "f1767bc00ecb4c4e",
@@ -48,6 +58,18 @@
   "MAIN.HudScale.4.webp": "88403a59b72f92a8",
   "MAIN.HudScale.5.full.webp": "6b9c164676eeba9d",
   "MAIN.HudScale.5.webp": "42636db6b671c20d",
+  "RADAR.RadarPosX.0.full.webp": "0d560359e0037de6",
+  "RADAR.RadarPosX.0.webp": "317e2428b930072b",
+  "RADAR.RadarPosX.1.full.webp": "a66317219a89427b",
+  "RADAR.RadarPosX.1.webp": "ffac2954c2fdf09f",
+  "RADAR.RadarPosX.2.full.webp": "7a616396ff8c7cc5",
+  "RADAR.RadarPosX.2.webp": "208f05f2c5359f97",
+  "RADAR.RadarPosY.0.full.webp": "fb0bd4e16ec5afd4",
+  "RADAR.RadarPosY.0.webp": "355dd8cef4897b09",
+  "RADAR.RadarPosY.1.full.webp": "d01af34cc0a7e196",
+  "RADAR.RadarPosY.1.webp": "35e5942721ca7485",
+  "RADAR.RadarPosY.2.full.webp": "dd1a14ebbc16c646",
+  "RADAR.RadarPosY.2.webp": "206049f417b65d01",
   "RADAR.RadarScale.0.full.webp": "69e62b9ea34208d5",
   "RADAR.RadarScale.0.webp": "78874c208d20b727",
   "RADAR.RadarScale.1.full.webp": "ccb9e691cf7dd397",
@@ -259,6 +281,98 @@
    "resolution": [
     1280,
     720
+   ],
+   "version": "2.0"
+  },
+  "MAIN.ForceAspectRatio": {
+   "kind": "string",
+   "values": [
+    "auto",
+    "4:3",
+    "16:9",
+    "21:9",
+    "32:9"
+   ],
+   "frameOfValue": {
+    "auto": 0,
+    "4:3": 1,
+    "16:9": 2,
+    "21:9": 3,
+    "32:9": 4
+   },
+   "stills": [
+    "MAIN.ForceAspectRatio.0.webp",
+    "MAIN.ForceAspectRatio.1.webp",
+    "MAIN.ForceAspectRatio.2.webp",
+    "MAIN.ForceAspectRatio.3.webp",
+    "MAIN.ForceAspectRatio.4.webp"
+   ],
+   "full": [
+    "MAIN.ForceAspectRatio.0.full.webp",
+    "MAIN.ForceAspectRatio.1.full.webp",
+    "MAIN.ForceAspectRatio.2.full.webp",
+    "MAIN.ForceAspectRatio.3.full.webp",
+    "MAIN.ForceAspectRatio.4.full.webp"
+   ],
+   "resolution": [
+    1920,
+    1080
+   ],
+   "version": "2.0"
+  },
+  "RADAR.RadarPosX": {
+   "kind": "float",
+   "values": [
+    "12.0",
+    "60.0",
+    "100.0"
+   ],
+   "frameOfValue": {
+    "12.0": 0,
+    "60.0": 1,
+    "100.0": 2
+   },
+   "stills": [
+    "RADAR.RadarPosX.0.webp",
+    "RADAR.RadarPosX.1.webp",
+    "RADAR.RadarPosX.2.webp"
+   ],
+   "full": [
+    "RADAR.RadarPosX.0.full.webp",
+    "RADAR.RadarPosX.1.full.webp",
+    "RADAR.RadarPosX.2.full.webp"
+   ],
+   "resolution": [
+    1920,
+    1080
+   ],
+   "version": "2.0"
+  },
+  "RADAR.RadarPosY": {
+   "kind": "float",
+   "values": [
+    "100.0",
+    "150.0",
+    "196.0"
+   ],
+   "frameOfValue": {
+    "100.0": 0,
+    "150.0": 1,
+    "196.0": 2
+   },
+   "stills": [
+    "RADAR.RadarPosY.0.webp",
+    "RADAR.RadarPosY.1.webp",
+    "RADAR.RadarPosY.2.webp"
+   ],
+   "full": [
+    "RADAR.RadarPosY.0.full.webp",
+    "RADAR.RadarPosY.1.full.webp",
+    "RADAR.RadarPosY.2.full.webp"
+   ],
+   "resolution": [
+    1920,
+    1080
    ],
    "version": "2.0"
   }

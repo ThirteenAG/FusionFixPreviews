@@ -1,0 +1,98 @@
+{
+ "format": 1,
+ "plugin": "TheWarriors.PPSSPP.FusionFix",
+ "version": "1.0",
+ "resolution": [
+  960,
+  540
+ ],
+ "fps": 30,
+ "files": {
+  "MAIN.FOVFactor.0.full.webp": "33138035fcb870cd",
+  "MAIN.FOVFactor.0.webp": "ce2d1fa1fb37c180",
+  "MAIN.FOVFactor.1.full.webp": "856ce675997a30f0",
+  "MAIN.FOVFactor.1.webp": "ed4209481ae16d45",
+  "MAIN.ForceAspectRatio.0.full.webp": "856ce675997a30f0",
+  "MAIN.ForceAspectRatio.0.webp": "ed4209481ae16d45",
+  "MAIN.ForceAspectRatio.1.full.webp": "a7ca31efa6e18a3e",
+  "MAIN.ForceAspectRatio.1.webp": "9c5f603b8ca540a3",
+  "MAIN.HudAspectRatioConstraint.0.full.webp": "a7ca31efa6e18a3e",
+  "MAIN.HudAspectRatioConstraint.0.webp": "9c5f603b8ca540a3",
+  "MAIN.HudAspectRatioConstraint.1.full.webp": "450f2b3e449bd270",
+  "MAIN.HudAspectRatioConstraint.1.webp": "1c8365725491efd1"
+ },
+ "settings": {
+  "MAIN.FOVFactor": {
+   "kind": "float",
+   "values": [
+    "0.5",
+    "1.0"
+   ],
+   "frameOfValue": {
+    "0.5": 0,
+    "1.0": 1
+   },
+   "stills": [
+    "MAIN.FOVFactor.0.webp",
+    "MAIN.FOVFactor.1.webp"
+   ],
+   "full": [
+    "MAIN.FOVFactor.0.full.webp",
+    "MAIN.FOVFactor.1.full.webp"
+   ],
+   "resolution": [
+    960,
+    540
+   ],
+   "version": "1.0"
+  },
+  "MAIN.ForceAspectRatio": {
+   "kind": "string",
+   "values": [
+    "Auto",
+    "21:9"
+   ],
+   "frameOfValue": {
+    "Auto": 0,
+    "21:9": 1
+   },
+   "stills": [
+    "MAIN.ForceAspectRatio.0.webp",
+    "MAIN.ForceAspectRatio.1.webp"
+   ],
+   "full": [
+    "MAIN.ForceAspectRatio.0.full.webp",
+    "MAIN.ForceAspectRatio.1.full.webp"
+   ],
+   "resolution": [
+    960,
+    540
+   ],
+   "version": "1.0"
+  },
+  "MAIN.HudAspectRatioConstraint": {
+   "kind": "string",
+   "values": [
+    "4:3",
+    "21:9"
+   ],
+   "frameOfValue": {
+    "4:3": 0,
+    "21:9": 1
+   },
+   "stills": [
+    "MAIN.HudAspectRatioConstraint.0.webp",
+    "MAIN.HudAspectRatioConstraint.1.webp"
+   ],
+   "full": [
+    "MAIN.HudAspectRatioConstraint.0.full.webp",
+    "MAIN.HudAspectRatioConstraint.1.full.webp"
+   ],
+   "resolution": [
+    960,
+    540
+   ],
+   "version": "1.0"
+  }
+ }
+}

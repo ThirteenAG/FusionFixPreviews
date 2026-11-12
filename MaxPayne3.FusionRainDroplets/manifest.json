@@ -1,0 +1,188 @@
+{
+ "format": 1,
+ "plugin": "MaxPayne3.FusionRainDroplets",
+ "version": "10.11.2026.1257",
+ "resolution": [
+  1920,
+  1080
+ ],
+ "fps": 30,
+ "files": {
+  "MAIN.DropBlur.0.full.webp": "9fb1e5f368450d9d",
+  "MAIN.DropBlur.0.webp": "de000ec8634a49c5",
+  "MAIN.DropBlur.1.full.webp": "7286d3248b19ad1a",
+  "MAIN.DropBlur.1.webp": "5fa09181bf833c40",
+  "MAIN.Enabled.0.full.webp": "07e9631817717ec9",
+  "MAIN.Enabled.0.webp": "1473e68e385e872e",
+  "MAIN.Enabled.1.full.webp": "48694150e0bd2ea2",
+  "MAIN.Enabled.1.webp": "dec7582949c808cf",
+  "MAIN.MaxSize.0.full.webp": "6645ac95be3ddc63",
+  "MAIN.MaxSize.0.webp": "cc955cd1ebccbed3",
+  "MAIN.MaxSize.1.full.webp": "ec709303e3a068e2",
+  "MAIN.MaxSize.1.webp": "9bfda40841dc66c1",
+  "MAIN.MaxSize.2.full.webp": "9a4400fd199ad8cc",
+  "MAIN.MaxSize.2.webp": "4e1ed87b4c7a222c",
+  "MAIN.MinSize.0.full.webp": "80a98bb3b00ec270",
+  "MAIN.MinSize.0.webp": "d2578f40fc4db7a0",
+  "MAIN.MinSize.1.full.webp": "3922f93299318117",
+  "MAIN.MinSize.1.webp": "568c74c9a94cc71e",
+  "SNOW.Amount.0.full.webp": "f86fe21b2938e8a6",
+  "SNOW.Amount.0.webp": "edc4639f319a2b8d",
+  "SNOW.Amount.1.full.webp": "d02fe0ffec4f5895",
+  "SNOW.Amount.1.webp": "218cd469a63e7bbe",
+  "SNOW.Size.0.full.webp": "b185fd2ef0177dde",
+  "SNOW.Size.0.webp": "b551b6e29ee6ed46",
+  "SNOW.Size.1.full.webp": "80705f9206de4f3f",
+  "SNOW.Size.1.webp": "95ebb63c71dda612"
+ },
+ "settings": {
+  "MAIN.MaxSize": {
+   "kind": "int",
+   "values": [
+    "1",
+    "19",
+    "59"
+   ],
+   "frameOfValue": {
+    "1": 0,
+    "19": 1,
+    "59": 2
+   },
+   "stills": [
+    "MAIN.MaxSize.0.webp",
+    "MAIN.MaxSize.1.webp",
+    "MAIN.MaxSize.2.webp"
+   ],
+   "full": [
+    "MAIN.MaxSize.0.full.webp",
+    "MAIN.MaxSize.1.full.webp",
+    "MAIN.MaxSize.2.full.webp"
+   ],
+   "resolution": [
+    1920,
+    1080
+   ],
+   "version": "10.11.2026.1257"
+  },
+  "MAIN.Enabled": {
+   "kind": "bool",
+   "values": [
+    "0",
+    "1"
+   ],
+   "frameOfValue": {
+    "0": 0,
+    "1": 1
+   },
+   "stills": [
+    "MAIN.Enabled.0.webp",
+    "MAIN.Enabled.1.webp"
+   ],
+   "full": [
+    "MAIN.Enabled.0.full.webp",
+    "MAIN.Enabled.1.full.webp"
+   ],
+   "resolution": [
+    1920,
+    1080
+   ],
+   "version": "10.11.2026.1257"
+  },
+  "MAIN.MinSize": {
+   "kind": "int",
+   "values": [
+    "1",
+    "40"
+   ],
+   "frameOfValue": {
+    "1": 0,
+    "40": 1
+   },
+   "stills": [
+    "MAIN.MinSize.0.webp",
+    "MAIN.MinSize.1.webp"
+   ],
+   "full": [
+    "MAIN.MinSize.0.full.webp",
+    "MAIN.MinSize.1.full.webp"
+   ],
+   "resolution": [
+    1920,
+    1080
+   ],
+   "version": "10.11.2026.1257"
+  },
+  "MAIN.DropBlur": {
+   "kind": "float",
+   "values": [
+    "0.0",
+    "1.0"
+   ],
+   "frameOfValue": {
+    "0.0": 0,
+    "1.0": 1
+   },
+   "stills": [
+    "MAIN.DropBlur.0.webp",
+    "MAIN.DropBlur.1.webp"
+   ],
+   "full": [
+    "MAIN.DropBlur.0.full.webp",
+    "MAIN.DropBlur.1.full.webp"
+   ],
+   "resolution": [
+    1920,
+    1080
+   ],
+   "version": "10.11.2026.1257"
+  },
+  "SNOW.Size": {
+   "kind": "float",
+   "values": [
+    "0.1",
+    "2.0"
+   ],
+   "frameOfValue": {
+    "0.1": 0,
+    "2.0": 1
+   },
+   "stills": [
+    "SNOW.Size.0.webp",
+    "SNOW.Size.1.webp"
+   ],
+   "full": [
+    "SNOW.Size.0.full.webp",
+    "SNOW.Size.1.full.webp"
+   ],
+   "resolution": [
+    1920,
+    1080
+   ],
+   "version": "10.11.2026.1257"
+  },
+  "SNOW.Amount": {
+   "kind": "float",
+   "values": [
+    "0.2",
+    "2.0"
+   ],
+   "frameOfValue": {
+    "0.2": 0,
+    "2.0": 1
+   },
+   "stills": [
+    "SNOW.Amount.0.webp",
+    "SNOW.Amount.1.webp"
+   ],
+   "full": [
+    "SNOW.Amount.0.full.webp",
+    "SNOW.Amount.1.full.webp"
+   ],
+   "resolution": [
+    1920,
+    1080
+   ],
+   "version": "10.11.2026.1257"
+  }
+ }
+}

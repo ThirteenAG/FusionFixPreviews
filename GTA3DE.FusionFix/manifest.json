@@ -1,7 +1,7 @@
 {
  "format": 1,
  "plugin": "GTA3DE.FusionFix",
- "version": "26.10.2026.1144",
+ "version": "11.11.2026.1138",
  "resolution": [
   1920,
   1080
@@ -20,6 +20,10 @@
   "GRAPHICS.VisualStyle.1.webp": "b4b80459b150ff18",
   "GRAPHICS.VisualStyle.2.webp": "d7138050b2754018",
   "GRAPHICS.VisualStyle.mp4": "de7d173a0b595276",
+  "MAIN.DisableFirstPersonAimForRifles.0.full.webp": "cacce82031932121",
+  "MAIN.DisableFirstPersonAimForRifles.0.webp": "7ccc27078692d3db",
+  "MAIN.DisableFirstPersonAimForRifles.1.full.webp": "b6ed4af5b5fe74f6",
+  "MAIN.DisableFirstPersonAimForRifles.1.webp": "efb4c4e64c099c0d",
   "MAIN.FOVFactor.0.webp": "da1e04ad90b098de",
   "MAIN.FOVFactor.1.webp": "135825aa43d1cecd",
   "MAIN.FOVFactor.10.webp": "72bf06677279667c",
@@ -37,6 +41,16 @@
   "MAIN.FOVFactor.8.webp": "d014e1d68f5eb608",
   "MAIN.FOVFactor.9.webp": "bf5662a294846835",
   "MAIN.FOVFactor.mp4": "9cd06962c21fad21",
+  "MAIN.HudAspectRatioConstraint.0.full.webp": "798e7f836e1e7cd1",
+  "MAIN.HudAspectRatioConstraint.0.webp": "7c37f8aad8f88ae6",
+  "MAIN.HudAspectRatioConstraint.1.full.webp": "91c8458d1f784eb2",
+  "MAIN.HudAspectRatioConstraint.1.webp": "7e6afd54c8cadc71",
+  "MAIN.HudAspectRatioConstraint.2.full.webp": "6751310715968764",
+  "MAIN.HudAspectRatioConstraint.2.webp": "ffcd4c3c243fb373",
+  "MAIN.HudAspectRatioConstraint.3.full.webp": "acb0c070a851f35f",
+  "MAIN.HudAspectRatioConstraint.3.webp": "4049a67cc2a37b10",
+  "MAIN.HudAspectRatioConstraint.4.full.webp": "67dcbee38a9194e9",
+  "MAIN.HudAspectRatioConstraint.4.webp": "31137e7df8e779fd",
   "MAIN.HudScale.0.webp": "5617ce095cfebb09",
   "MAIN.HudScale.1.webp": "1e8c20f231f0e7c2",
   "MAIN.HudScale.10.webp": "d4a38c33f16fc900",
@@ -60,69 +74,13 @@
   "MAIN.RadarScale.7.webp": "3ba5e9f3b1b58c39",
   "MAIN.RadarScale.8.webp": "f97413fcd236dd6a",
   "MAIN.RadarScale.9.webp": "efcb82b82becfda2",
-  "MAIN.RadarScale.mp4": "da84d95399dd8c18"
+  "MAIN.RadarScale.mp4": "da84d95399dd8c18",
+  "MAIN.RestoreOriginalCamera.0.full.webp": "659b33d82769e9ac",
+  "MAIN.RestoreOriginalCamera.0.webp": "9210ad3d687c7946",
+  "MAIN.RestoreOriginalCamera.1.full.webp": "89b4639bd344374d",
+  "MAIN.RestoreOriginalCamera.1.webp": "6286c89c1f86da6a"
  },
  "settings": {
-  "MAIN.HudScale": {
-   "kind": "float",
-   "values": [
-    "0.5",
-    "0.6",
-    "0.7",
-    "0.8",
-    "0.9",
-    "1.0",
-    "1.1",
-    "1.2",
-    "1.3",
-    "1.4",
-    "1.5"
-   ],
-   "frameOfValue": {
-    "0.5": 0,
-    "0.6": 1,
-    "0.7": 2,
-    "0.8": 3,
-    "0.9": 4,
-    "1.0": 5,
-    "1.1": 6,
-    "1.2": 7,
-    "1.3": 8,
-    "1.4": 9,
-    "1.5": 10
-   },
-   "stills": [
-    "MAIN.HudScale.0.webp",
-    "MAIN.HudScale.1.webp",
-    "MAIN.HudScale.2.webp",
-    "MAIN.HudScale.3.webp",
-    "MAIN.HudScale.4.webp",
-    "MAIN.HudScale.5.webp",
-    "MAIN.HudScale.6.webp",
-    "MAIN.HudScale.7.webp",
-    "MAIN.HudScale.8.webp",
-    "MAIN.HudScale.9.webp",
-    "MAIN.HudScale.10.webp"
-   ],
-   "full": [
-    "MAIN.HudScale.0.webp",
-    "MAIN.HudScale.1.webp",
-    "MAIN.HudScale.2.webp",
-    "MAIN.HudScale.3.webp",
-    "MAIN.HudScale.4.webp",
-    "MAIN.HudScale.5.webp",
-    "MAIN.HudScale.6.webp",
-    "MAIN.HudScale.7.webp",
-    "MAIN.HudScale.8.webp",
-    "MAIN.HudScale.9.webp",
-    "MAIN.HudScale.10.webp"
-   ],
-   "resolution": [
-    1920,
-    1080
-   ],
-   "clip": "MAIN.HudScale.mp4"
-  },
   "MAIN.RadarScale": {
    "kind": "float",
    "values": [
@@ -181,35 +139,8 @@
     1920,
     1080
    ],
-   "clip": "MAIN.RadarScale.mp4"
-  },
-  "GRAPHICS.VisualStyle": {
-   "kind": "int",
-   "values": [
-    "0",
-    "1",
-    "2"
-   ],
-   "frameOfValue": {
-    "0": 0,
-    "1": 1,
-    "2": 2
-   },
-   "stills": [
-    "GRAPHICS.VisualStyle.0.webp",
-    "GRAPHICS.VisualStyle.1.webp",
-    "GRAPHICS.VisualStyle.2.webp"
-   ],
-   "full": [
-    "GRAPHICS.VisualStyle.0.webp",
-    "GRAPHICS.VisualStyle.1.webp",
-    "GRAPHICS.VisualStyle.2.webp"
-   ],
-   "resolution": [
-    1920,
-    1080
-   ],
-   "clip": "GRAPHICS.VisualStyle.mp4"
+   "clip": "MAIN.RadarScale.mp4",
+   "version": "26.10.2026.1144"
   },
   "GRAPHICS.RestoreWeatherColours": {
    "kind": "bool",
@@ -232,7 +163,8 @@
    "resolution": [
     1920,
     1080
-   ]
+   ],
+   "version": "26.10.2026.1144"
   },
   "GRAPHICS.ColourFilterStrength": {
    "kind": "float",
@@ -268,7 +200,8 @@
     1920,
     1080
    ],
-   "clip": "GRAPHICS.ColourFilterStrength.mp4"
+   "clip": "GRAPHICS.ColourFilterStrength.mp4",
+   "version": "26.10.2026.1144"
   },
   "MAIN.FOVFactor": {
    "kind": "float",
@@ -348,7 +281,182 @@
     1920,
     1080
    ],
-   "clip": "MAIN.FOVFactor.mp4"
+   "clip": "MAIN.FOVFactor.mp4",
+   "version": "9.11.2026.2247"
+  },
+  "MAIN.HudScale": {
+   "kind": "float",
+   "values": [
+    "0.5",
+    "0.6",
+    "0.7",
+    "0.8",
+    "0.9",
+    "1.0",
+    "1.1",
+    "1.2",
+    "1.3",
+    "1.4",
+    "1.5"
+   ],
+   "frameOfValue": {
+    "0.5": 0,
+    "0.6": 1,
+    "0.7": 2,
+    "0.8": 3,
+    "0.9": 4,
+    "1.0": 5,
+    "1.1": 6,
+    "1.2": 7,
+    "1.3": 8,
+    "1.4": 9,
+    "1.5": 10
+   },
+   "stills": [
+    "MAIN.HudScale.0.webp",
+    "MAIN.HudScale.1.webp",
+    "MAIN.HudScale.2.webp",
+    "MAIN.HudScale.3.webp",
+    "MAIN.HudScale.4.webp",
+    "MAIN.HudScale.5.webp",
+    "MAIN.HudScale.6.webp",
+    "MAIN.HudScale.7.webp",
+    "MAIN.HudScale.8.webp",
+    "MAIN.HudScale.9.webp",
+    "MAIN.HudScale.10.webp"
+   ],
+   "full": [
+    "MAIN.HudScale.0.webp",
+    "MAIN.HudScale.1.webp",
+    "MAIN.HudScale.2.webp",
+    "MAIN.HudScale.3.webp",
+    "MAIN.HudScale.4.webp",
+    "MAIN.HudScale.5.webp",
+    "MAIN.HudScale.6.webp",
+    "MAIN.HudScale.7.webp",
+    "MAIN.HudScale.8.webp",
+    "MAIN.HudScale.9.webp",
+    "MAIN.HudScale.10.webp"
+   ],
+   "resolution": [
+    1920,
+    1080
+   ],
+   "clip": "MAIN.HudScale.mp4",
+   "version": "9.11.2026.2247"
+  },
+  "GRAPHICS.VisualStyle": {
+   "kind": "int",
+   "values": [
+    "0",
+    "1",
+    "2"
+   ],
+   "frameOfValue": {
+    "0": 0,
+    "1": 1,
+    "2": 2
+   },
+   "stills": [
+    "GRAPHICS.VisualStyle.0.webp",
+    "GRAPHICS.VisualStyle.1.webp",
+    "GRAPHICS.VisualStyle.2.webp"
+   ],
+   "full": [
+    "GRAPHICS.VisualStyle.0.webp",
+    "GRAPHICS.VisualStyle.1.webp",
+    "GRAPHICS.VisualStyle.2.webp"
+   ],
+   "resolution": [
+    1920,
+    1080
+   ],
+   "clip": "GRAPHICS.VisualStyle.mp4",
+   "version": "9.11.2026.2247"
+  },
+  "MAIN.HudAspectRatioConstraint": {
+   "kind": "string",
+   "values": [
+    "Auto",
+    "4:3",
+    "16:9",
+    "21:9",
+    "32:9"
+   ],
+   "frameOfValue": {
+    "Auto": 0,
+    "4:3": 1,
+    "16:9": 2,
+    "21:9": 3,
+    "32:9": 4
+   },
+   "stills": [
+    "MAIN.HudAspectRatioConstraint.0.webp",
+    "MAIN.HudAspectRatioConstraint.1.webp",
+    "MAIN.HudAspectRatioConstraint.2.webp",
+    "MAIN.HudAspectRatioConstraint.3.webp",
+    "MAIN.HudAspectRatioConstraint.4.webp"
+   ],
+   "full": [
+    "MAIN.HudAspectRatioConstraint.0.full.webp",
+    "MAIN.HudAspectRatioConstraint.1.full.webp",
+    "MAIN.HudAspectRatioConstraint.2.full.webp",
+    "MAIN.HudAspectRatioConstraint.3.full.webp",
+    "MAIN.HudAspectRatioConstraint.4.full.webp"
+   ],
+   "resolution": [
+    2560,
+    1080
+   ],
+   "version": "9.11.2026.2247"
+  },
+  "MAIN.RestoreOriginalCamera": {
+   "kind": "bool",
+   "values": [
+    "0",
+    "1"
+   ],
+   "frameOfValue": {
+    "0": 0,
+    "1": 1
+   },
+   "stills": [
+    "MAIN.RestoreOriginalCamera.0.webp",
+    "MAIN.RestoreOriginalCamera.1.webp"
+   ],
+   "full": [
+    "MAIN.RestoreOriginalCamera.0.full.webp",
+    "MAIN.RestoreOriginalCamera.1.full.webp"
+   ],
+   "resolution": [
+    3840,
+    2160
+   ],
+   "version": "11.11.2026.1138"
+  },
+  "MAIN.DisableFirstPersonAimForRifles": {
+   "kind": "bool",
+   "values": [
+    "0",
+    "1"
+   ],
+   "frameOfValue": {
+    "0": 0,
+    "1": 1
+   },
+   "stills": [
+    "MAIN.DisableFirstPersonAimForRifles.0.webp",
+    "MAIN.DisableFirstPersonAimForRifles.1.webp"
+   ],
+   "full": [
+    "MAIN.DisableFirstPersonAimForRifles.0.full.webp",
+    "MAIN.DisableFirstPersonAimForRifles.1.full.webp"
+   ],
+   "resolution": [
+    1920,
+    1080
+   ],
+   "version": "11.11.2026.1138"
   }
  }
 }

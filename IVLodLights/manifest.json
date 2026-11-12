@@ -1,0 +1,42 @@
+{
+ "format": 1,
+ "plugin": "IVLodLights",
+ "version": "24.10.2026.2253",
+ "resolution": [
+  1920,
+  1080
+ ],
+ "fps": 30,
+ "files": {
+  "LODLIGHTS.RenderLodLights.0.full.webp": "a5ac2011b174fc3f",
+  "LODLIGHTS.RenderLodLights.0.webp": "803b2a01094da134",
+  "LODLIGHTS.RenderLodLights.1.full.webp": "70a791e392fc05c6",
+  "LODLIGHTS.RenderLodLights.1.webp": "a2e06a69420e5ab2"
+ },
+ "settings": {
+  "LODLIGHTS.RenderLodLights": {
+   "kind": "bool",
+   "values": [
+    "0",
+    "1"
+   ],
+   "frameOfValue": {
+    "0": 0,
+    "1": 1
+   },
+   "stills": [
+    "LODLIGHTS.RenderLodLights.0.webp",
+    "LODLIGHTS.RenderLodLights.1.webp"
+   ],
+   "full": [
+    "LODLIGHTS.RenderLodLights.0.full.webp",
+    "LODLIGHTS.RenderLodLights.1.full.webp"
+   ],
+   "resolution": [
+    1920,
+    1080
+   ],
+   "version": "24.10.2026.2253"
+  }
+ }
+}

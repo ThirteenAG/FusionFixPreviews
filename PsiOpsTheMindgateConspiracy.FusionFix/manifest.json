@@ -16,10 +16,6 @@
   "MAIN.CutsceneBorders.2.webp": "db848e73f3f15148",
   "MAIN.CutsceneBorders.3.full.webp": "071ba2f322c2aac5",
   "MAIN.CutsceneBorders.3.webp": "0ba00b4c5465ca0b",
-  "MAIN.FMVWidescreenMode.0.full.webp": "7e5b1f01d8626f1a",
-  "MAIN.FMVWidescreenMode.0.webp": "f51a7ea080320b26",
-  "MAIN.FMVWidescreenMode.1.full.webp": "ab3a31b669618668",
-  "MAIN.FMVWidescreenMode.1.webp": "762d835c6706523f",
   "MAIN.FOVFactor.0.full.webp": "16b07db3589654e6",
   "MAIN.FOVFactor.0.webp": "4107786be343079f",
   "MAIN.FOVFactor.1.full.webp": "2fc743c488014a27",
@@ -46,30 +42,6 @@
   "MAIN.SkipIntro.1.webp": "bde527985fd13de6"
  },
  "settings": {
-  "MAIN.FMVWidescreenMode": {
-   "kind": "int",
-   "values": [
-    0,
-    1
-   ],
-   "frameOfValue": {
-    "0": 0,
-    "1": 1
-   },
-   "stills": [
-    "MAIN.FMVWidescreenMode.0.webp",
-    "MAIN.FMVWidescreenMode.1.webp"
-   ],
-   "full": [
-    "MAIN.FMVWidescreenMode.0.full.webp",
-    "MAIN.FMVWidescreenMode.1.full.webp"
-   ],
-   "resolution": [
-    1280,
-    720
-   ],
-   "version": "28.10.2026.1513"
-  },
   "MAIN.FOVFactor": {
    "kind": "float",
    "values": [

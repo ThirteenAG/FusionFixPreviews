@@ -30,10 +30,10 @@
   "GRAPHICS.Scaling.1.webp": "33c5b211d5759102",
   "GRAPHICS.Scaling.2.full.webp": "6024d3a4556fc628",
   "GRAPHICS.Scaling.2.webp": "47a7e2670a5bcaf5",
-  "MAIN.FMVWidescreenMode.0.full.webp": "4a677dafd5c64ee8",
-  "MAIN.FMVWidescreenMode.0.webp": "45dad1939f1f1047",
-  "MAIN.FMVWidescreenMode.1.full.webp": "7ad7fdee61e576b7",
-  "MAIN.FMVWidescreenMode.1.webp": "cf065c51cdf5c709",
+  "MAIN.FMVWidescreenMode.0.full.webp": "8d18d7f6016bd08a",
+  "MAIN.FMVWidescreenMode.0.webp": "fb51396e64d6f7b9",
+  "MAIN.FMVWidescreenMode.1.full.webp": "1a5ddfbb8c7ec30d",
+  "MAIN.FMVWidescreenMode.1.webp": "969e5341ca463983",
   "MAIN.FOVFactor.0.full.webp": "f6bd28e5b8aeddbf",
   "MAIN.FOVFactor.0.webp": "129c4f7ec440b38d",
   "MAIN.FOVFactor.1.full.webp": "be3a8fa4d6eb44d2",
@@ -176,9 +176,9 @@
    ],
    "resolution": [
     1920,
-    540
+    1080
    ],
-   "version": "27.10.2026.210"
+   "version": "9.11.2026.1444"
   },
   "GRAPHICS.RainDropletsScale": {
    "kind": "float",

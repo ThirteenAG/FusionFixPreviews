@@ -1,10 +1,10 @@
 {
  "format": 1,
  "plugin": "SplinterCell.FusionFix",
- "version": "27.10.2026.726",
+ "version": "9.11.2026.1444",
  "resolution": [
-  1600,
-  900
+  1920,
+  1080
  ],
  "fps": 30,
  "files": {
@@ -30,6 +30,10 @@
   "MAIN.FOVFactor.3.webp": "62b3a97cb03a3061",
   "MAIN.FOVFactor.4.full.webp": "f0fccd7e5104d58c",
   "MAIN.FOVFactor.4.webp": "6348f44d19b546d2",
+  "MAIN.ForceShadowBufferMode.0.full.webp": "ba929eb44b7d1d28",
+  "MAIN.ForceShadowBufferMode.0.webp": "25605a737da2cca3",
+  "MAIN.ForceShadowBufferMode.1.full.webp": "f739633df3ca0640",
+  "MAIN.ForceShadowBufferMode.1.webp": "9556e6795fddc4e2",
   "MAIN.GamepadIcons.0.full.webp": "3332dc45263578a7",
   "MAIN.GamepadIcons.0.webp": "e5fe0c70ec0ada9c",
   "MAIN.GamepadIcons.1.full.webp": "c72667795ab9fe5d",
@@ -54,6 +58,12 @@
   "MAIN.HudAspectRatioConstraint.3.webp": "59587bb25e84eb2d",
   "MAIN.HudAspectRatioConstraint.4.full.webp": "39fc720d3a6cfe6c",
   "MAIN.HudAspectRatioConstraint.4.webp": "618f0811804ff504",
+  "MAIN.ShadowBufferResolution.0.full.webp": "060c1b602595f3be",
+  "MAIN.ShadowBufferResolution.0.webp": "de0bee3da2265daa",
+  "MAIN.ShadowBufferResolution.1.full.webp": "7ebe1a8e956091be",
+  "MAIN.ShadowBufferResolution.1.webp": "9668b5ca21fa5d3f",
+  "MAIN.ShadowBufferResolution.2.full.webp": "01d8c5c1f21ceaea",
+  "MAIN.ShadowBufferResolution.2.webp": "4a93ccfb345ab035",
   "MAIN.SkipIntro.0.full.webp": "96bce8a6882ebec7",
   "MAIN.SkipIntro.0.webp": "4f42eb3d5cbe4abe",
   "MAIN.SkipIntro.1.full.webp": "408d71a88be70d17",
@@ -271,6 +281,58 @@
     720
    ],
    "version": "2.11.2026.2040"
+  },
+  "MAIN.ForceShadowBufferMode": {
+   "kind": "bool",
+   "values": [
+    "0",
+    "1"
+   ],
+   "frameOfValue": {
+    "0": 0,
+    "1": 1
+   },
+   "stills": [
+    "MAIN.ForceShadowBufferMode.0.webp",
+    "MAIN.ForceShadowBufferMode.1.webp"
+   ],
+   "full": [
+    "MAIN.ForceShadowBufferMode.0.full.webp",
+    "MAIN.ForceShadowBufferMode.1.full.webp"
+   ],
+   "resolution": [
+    1920,
+    1080
+   ],
+   "version": "9.11.2026.1444"
+  },
+  "MAIN.ShadowBufferResolution": {
+   "kind": "int",
+   "values": [
+    "0",
+    "2048",
+    "4096"
+   ],
+   "frameOfValue": {
+    "0": 0,
+    "2048": 1,
+    "4096": 2
+   },
+   "stills": [
+    "MAIN.ShadowBufferResolution.0.webp",
+    "MAIN.ShadowBufferResolution.1.webp",
+    "MAIN.ShadowBufferResolution.2.webp"
+   ],
+   "full": [
+    "MAIN.ShadowBufferResolution.0.full.webp",
+    "MAIN.ShadowBufferResolution.1.full.webp",
+    "MAIN.ShadowBufferResolution.2.full.webp"
+   ],
+   "resolution": [
+    1920,
+    1080
+   ],
+   "version": "9.11.2026.1444"
   }
  }
 }

@@ -67,7 +67,11 @@
   "MAIN.ScopeWidescreenMode.0.full.webp": "a354beacd5262ea5",
   "MAIN.ScopeWidescreenMode.0.webp": "c85248701162b446",
   "MAIN.ScopeWidescreenMode.1.full.webp": "0acf63e1c87dbd70",
-  "MAIN.ScopeWidescreenMode.1.webp": "d62fdc62d2fd99a1"
+  "MAIN.ScopeWidescreenMode.1.webp": "d62fdc62d2fd99a1",
+  "MAIN.PostProcessFixedScale.0.webp": "a42d97efd7f26dde",
+  "MAIN.PostProcessFixedScale.1.webp": "6579e7e4f711332f",
+  "MAIN.PostProcessFixedScale.0.full.webp": "74484e39d0e27410",
+  "MAIN.PostProcessFixedScale.1.full.webp": "596620d36cb6212b"
  },
  "settings": {
   "MAIN.HudAspectRatioConstraint": {
@@ -333,6 +337,30 @@
     720
    ],
    "version": "27.10.2026.1551"
+  },
+  "MAIN.PostProcessFixedScale": {
+   "kind": "int",
+   "values": [
+    "0",
+    "4096"
+   ],
+   "frameOfValue": {
+    "0": 0,
+    "4096": 1
+   },
+   "stills": [
+    "MAIN.PostProcessFixedScale.0.webp",
+    "MAIN.PostProcessFixedScale.1.webp"
+   ],
+   "full": [
+    "MAIN.PostProcessFixedScale.0.full.webp",
+    "MAIN.PostProcessFixedScale.1.full.webp"
+   ],
+   "resolution": [
+    1920,
+    1080
+   ],
+   "version": "9.11.2026.2247"
   }
  }
 }

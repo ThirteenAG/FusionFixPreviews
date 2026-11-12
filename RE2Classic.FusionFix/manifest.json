@@ -1,13 +1,19 @@
 {
  "format": 1,
  "plugin": "RE2Classic.FusionFix",
- "version": "21.10.2026.1706",
+ "version": "7.11.2026.1029",
  "resolution": [
   1920,
   1080
  ],
  "fps": 30,
  "files": {
+  "MAIN.MaxAspectRatio.0.full.webp": "2f01ea8d9ab4d422",
+  "MAIN.MaxAspectRatio.0.webp": "5f384f2659d4a374",
+  "MAIN.MaxAspectRatio.1.full.webp": "c7756dc52b0e4bd6",
+  "MAIN.MaxAspectRatio.1.webp": "383313d77e8c9ab6",
+  "MAIN.MaxAspectRatio.2.full.webp": "d8d25a9c036a9545",
+  "MAIN.MaxAspectRatio.2.webp": "b73dee8375560249",
   "MAIN.PanAndScan.0.full.webp": "07b1b8a50474576b",
   "MAIN.PanAndScan.0.webp": "92bcd5f211e6c671",
   "MAIN.PanAndScan.1.full.webp": "171e251b91c4aabb",
@@ -37,7 +43,36 @@
    "resolution": [
     1920,
     1080
-   ]
+   ],
+   "version": "21.10.2026.1706"
+  },
+  "MAIN.MaxAspectRatio": {
+   "kind": "choice",
+   "values": [
+    "4:3",
+    "16:10",
+    "16:9"
+   ],
+   "frameOfValue": {
+    "4:3": 0,
+    "16:10": 1,
+    "16:9": 2
+   },
+   "stills": [
+    "MAIN.MaxAspectRatio.0.webp",
+    "MAIN.MaxAspectRatio.1.webp",
+    "MAIN.MaxAspectRatio.2.webp"
+   ],
+   "full": [
+    "MAIN.MaxAspectRatio.0.full.webp",
+    "MAIN.MaxAspectRatio.1.full.webp",
+    "MAIN.MaxAspectRatio.2.full.webp"
+   ],
+   "resolution": [
+    1920,
+    1080
+   ],
+   "version": "7.11.2026.1029"
   }
  }
 }

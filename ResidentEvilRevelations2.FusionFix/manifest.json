@@ -1,0 +1,94 @@
+{
+ "format": 1,
+ "plugin": "ResidentEvilRevelations2.FusionFix",
+ "version": "9.11.2026.1444",
+ "resolution": [
+  1920,
+  1080
+ ],
+ "fps": 30,
+ "files": {
+  "MAIN.FOVFactor.0.full.webp": "6b72050d30888023",
+  "MAIN.FOVFactor.0.webp": "2cc434edeb6f4b97",
+  "MAIN.FOVFactor.1.full.webp": "8c49df6317387e60",
+  "MAIN.FOVFactor.1.webp": "feffd79daf6b1eb9",
+  "MAIN.FOVFactor.2.full.webp": "9ad5bacd2f9f77af",
+  "MAIN.FOVFactor.2.webp": "2f678fecfee7eb56",
+  "MAIN.FOVFactor.3.full.webp": "0a2adfc17c492926",
+  "MAIN.FOVFactor.3.webp": "dfe72240521c029f",
+  "MAIN.FOVFactor.4.full.webp": "b1384c999df3d12e",
+  "MAIN.FOVFactor.4.webp": "e5d85bf6cdcf32d6",
+  "MAIN.HudAspectRatioConstraint.0.full.webp": "43f6cb8a2e9904f5",
+  "MAIN.HudAspectRatioConstraint.0.webp": "dc2b832fb4ab17dd",
+  "MAIN.HudAspectRatioConstraint.1.full.webp": "eea96def7b01f18e",
+  "MAIN.HudAspectRatioConstraint.1.webp": "9c3670344c1db7a6",
+  "MAIN.HudAspectRatioConstraint.2.full.webp": "d2f19e5cde7bb647",
+  "MAIN.HudAspectRatioConstraint.2.webp": "64c22b89fbaed1bb"
+ },
+ "settings": {
+  "MAIN.FOVFactor": {
+   "kind": "float",
+   "values": [
+    "0.5",
+    "0.75",
+    "1.0",
+    "1.5",
+    "2.0"
+   ],
+   "frameOfValue": {
+    "0.5": 0,
+    "0.75": 1,
+    "1.0": 2,
+    "1.5": 3,
+    "2.0": 4
+   },
+   "stills": [
+    "MAIN.FOVFactor.0.webp",
+    "MAIN.FOVFactor.1.webp",
+    "MAIN.FOVFactor.2.webp",
+    "MAIN.FOVFactor.3.webp",
+    "MAIN.FOVFactor.4.webp"
+   ],
+   "full": [
+    "MAIN.FOVFactor.0.full.webp",
+    "MAIN.FOVFactor.1.full.webp",
+    "MAIN.FOVFactor.2.full.webp",
+    "MAIN.FOVFactor.3.full.webp",
+    "MAIN.FOVFactor.4.full.webp"
+   ],
+   "resolution": [
+    1920,
+    1080
+   ],
+   "version": "9.11.2026.2247"
+  },
+  "MAIN.HudAspectRatioConstraint": {
+   "kind": "string",
+   "values": [
+    "4:3",
+    "16:9",
+    "Auto"
+   ],
+   "frameOfValue": {
+    "4:3": 0,
+    "16:9": 1,
+    "Auto": 2
+   },
+   "stills": [
+    "MAIN.HudAspectRatioConstraint.0.webp",
+    "MAIN.HudAspectRatioConstraint.1.webp",
+    "MAIN.HudAspectRatioConstraint.2.webp"
+   ],
+   "full": [
+    "MAIN.HudAspectRatioConstraint.0.full.webp",
+    "MAIN.HudAspectRatioConstraint.1.full.webp",
+    "MAIN.HudAspectRatioConstraint.2.full.webp"
+   ],
+   "resolution": [
+    1920,
+    1080
+   ],
+   "version": "9.11.2026.1444"
+  }
+ }
+}

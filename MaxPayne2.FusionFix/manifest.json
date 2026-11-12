@@ -45,7 +45,11 @@
   "MAIN.HudAspectRatioConstraint.2.full.webp": "854e06d2f95e90a0",
   "MAIN.HudAspectRatioConstraint.2.webp": "cbd3a84056583cd6",
   "MAIN.HudAspectRatioConstraint.3.full.webp": "abf5808623a5b9b1",
-  "MAIN.HudAspectRatioConstraint.3.webp": "d7f9d276d1416379"
+  "MAIN.HudAspectRatioConstraint.3.webp": "d7f9d276d1416379",
+  "MAIN.FMVWidescreenMode.1.webp": "f511165f413d2915",
+  "MAIN.FMVWidescreenMode.0.full.webp": "5c0a7c46ad04b057",
+  "MAIN.FMVWidescreenMode.0.webp": "b228a2e14aa563e8",
+  "MAIN.FMVWidescreenMode.1.full.webp": "4b358f31092c25d1"
  },
  "settings": {
   "MAIN.HudAspectRatioConstraint": {
@@ -219,6 +223,30 @@
     1080
    ],
    "version": "27.10.2026.557"
+  },
+  "MAIN.FMVWidescreenMode": {
+   "kind": "choice",
+   "values": [
+    "0",
+    "1"
+   ],
+   "frameOfValue": {
+    "0": 0,
+    "1": 1
+   },
+   "stills": [
+    "MAIN.FMVWidescreenMode.0.webp",
+    "MAIN.FMVWidescreenMode.1.webp"
+   ],
+   "full": [
+    "MAIN.FMVWidescreenMode.0.full.webp",
+    "MAIN.FMVWidescreenMode.1.full.webp"
+   ],
+   "resolution": [
+    1920,
+    1080
+   ],
+   "version": "9.11.2026.1444"
   }
  }
 }

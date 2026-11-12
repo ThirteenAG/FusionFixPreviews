@@ -1,0 +1,98 @@
+{
+ "format": 1,
+ "plugin": "ResidentEvil.FusionFix",
+ "version": "9.11.2026.2247",
+ "resolution": [
+  1920,
+  1080
+ ],
+ "fps": 30,
+ "files": {
+  "MAIN.DisableColorCorrection.0.full.webp": "811f08fa4dbf3082",
+  "MAIN.DisableColorCorrection.0.webp": "7bf6d20dfa4446a5",
+  "MAIN.DisableColorCorrection.1.full.webp": "6ac609eabb5e14f1",
+  "MAIN.DisableColorCorrection.1.webp": "8838f6fc54c0cf67",
+  "MAIN.DisableFog.0.full.webp": "2a6d23c0fabce413",
+  "MAIN.DisableFog.0.webp": "f2e2a9737f883c4b",
+  "MAIN.DisableFog.1.full.webp": "97afdc33c282422d",
+  "MAIN.DisableFog.1.webp": "9952835482c7b8c6",
+  "MAIN.DisableNoise.0.full.webp": "734f2ef36b651ac2",
+  "MAIN.DisableNoise.0.webp": "d2e0a58208722001",
+  "MAIN.DisableNoise.1.full.webp": "5c62e0a846fbc299",
+  "MAIN.DisableNoise.1.webp": "3e7c7bb2801df87e"
+ },
+ "settings": {
+  "MAIN.DisableNoise": {
+   "kind": "bool",
+   "values": [
+    "0",
+    "1"
+   ],
+   "frameOfValue": {
+    "0": 0,
+    "1": 1
+   },
+   "stills": [
+    "MAIN.DisableNoise.0.webp",
+    "MAIN.DisableNoise.1.webp"
+   ],
+   "full": [
+    "MAIN.DisableNoise.0.full.webp",
+    "MAIN.DisableNoise.1.full.webp"
+   ],
+   "resolution": [
+    1920,
+    1080
+   ],
+   "version": "9.11.2026.2247"
+  },
+  "MAIN.DisableColorCorrection": {
+   "kind": "bool",
+   "values": [
+    "0",
+    "1"
+   ],
+   "frameOfValue": {
+    "0": 0,
+    "1": 1
+   },
+   "stills": [
+    "MAIN.DisableColorCorrection.0.webp",
+    "MAIN.DisableColorCorrection.1.webp"
+   ],
+   "full": [
+    "MAIN.DisableColorCorrection.0.full.webp",
+    "MAIN.DisableColorCorrection.1.full.webp"
+   ],
+   "resolution": [
+    1920,
+    1080
+   ],
+   "version": "9.11.2026.2247"
+  },
+  "MAIN.DisableFog": {
+   "kind": "bool",
+   "values": [
+    "0",
+    "1"
+   ],
+   "frameOfValue": {
+    "0": 0,
+    "1": 1
+   },
+   "stills": [
+    "MAIN.DisableFog.0.webp",
+    "MAIN.DisableFog.1.webp"
+   ],
+   "full": [
+    "MAIN.DisableFog.0.full.webp",
+    "MAIN.DisableFog.1.full.webp"
+   ],
+   "resolution": [
+    1920,
+    1080
+   ],
+   "version": "9.11.2026.2247"
+  }
+ }
+}
