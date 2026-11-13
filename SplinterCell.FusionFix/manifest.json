@@ -8,28 +8,20 @@
  ],
  "fps": 30,
  "files": {
-  "MAIN.CutsceneBorders.0.full.webp": "fb6ff127bf0d1779",
-  "MAIN.CutsceneBorders.0.webp": "d2dde084acadff81",
-  "MAIN.CutsceneBorders.1.full.webp": "4c6ba63d0c09cc78",
-  "MAIN.CutsceneBorders.1.webp": "d0f459841988e562",
-  "MAIN.CutsceneBorders.2.full.webp": "54a6a4f48ed5c0a5",
-  "MAIN.CutsceneBorders.2.webp": "08684b967ca91082",
-  "MAIN.CutsceneBorders.3.full.webp": "4b22f29f7be4b344",
-  "MAIN.CutsceneBorders.3.webp": "12f13e463eeb1ddd",
   "MAIN.FMVWidescreenMode.0.full.webp": "1ea0d5836c898c14",
   "MAIN.FMVWidescreenMode.0.webp": "6c31f97e76f9ff1b",
   "MAIN.FMVWidescreenMode.1.full.webp": "bf4640e56c786112",
   "MAIN.FMVWidescreenMode.1.webp": "8a9c643e5ed89c41",
-  "MAIN.FOVFactor.0.full.webp": "295224602a9ca945",
-  "MAIN.FOVFactor.0.webp": "5b0b86d4fe89eb9e",
-  "MAIN.FOVFactor.1.full.webp": "a81b8012ecfa67d7",
-  "MAIN.FOVFactor.1.webp": "09ec58d847f929c9",
-  "MAIN.FOVFactor.2.full.webp": "e586df26e840f82a",
-  "MAIN.FOVFactor.2.webp": "79e9d3b9a217fb07",
-  "MAIN.FOVFactor.3.full.webp": "91f3df8b5bc20d0b",
-  "MAIN.FOVFactor.3.webp": "62b3a97cb03a3061",
-  "MAIN.FOVFactor.4.full.webp": "f0fccd7e5104d58c",
-  "MAIN.FOVFactor.4.webp": "6348f44d19b546d2",
+  "MAIN.FOVFactor.0.full.webp": "043e8c963690ffb6",
+  "MAIN.FOVFactor.0.webp": "dcb95093d5f7c8f0",
+  "MAIN.FOVFactor.1.full.webp": "1f4309b04e943eb6",
+  "MAIN.FOVFactor.1.webp": "bce5853e29006aba",
+  "MAIN.FOVFactor.2.full.webp": "002f0df7a246e02a",
+  "MAIN.FOVFactor.2.webp": "a247a0630365457f",
+  "MAIN.FOVFactor.3.full.webp": "ae5eb9c5e8c05cb8",
+  "MAIN.FOVFactor.3.webp": "268f9330aaf1f5d1",
+  "MAIN.FOVFactor.4.full.webp": "1684ee6865a1354f",
+  "MAIN.FOVFactor.4.webp": "f549bf390555439f",
   "MAIN.ForceShadowBufferMode.0.full.webp": "ba929eb44b7d1d28",
   "MAIN.ForceShadowBufferMode.0.webp": "25605a737da2cca3",
   "MAIN.ForceShadowBufferMode.1.full.webp": "f739633df3ca0640",
@@ -42,12 +34,12 @@
   "MAIN.GamepadIcons.2.webp": "9b47b8c0b025d06c",
   "MAIN.GamepadIcons.3.full.webp": "b7d60f2066b38559",
   "MAIN.GamepadIcons.3.webp": "3b9e59fc5c6d177c",
-  "MAIN.GrainScale.0.full.webp": "526804e8727276fc",
-  "MAIN.GrainScale.0.webp": "ba33487ee90ff578",
-  "MAIN.GrainScale.1.full.webp": "8c57166bf4cd9335",
-  "MAIN.GrainScale.1.webp": "05b3d085f27c4080",
-  "MAIN.GrainScale.2.full.webp": "32405c25635415f8",
-  "MAIN.GrainScale.2.webp": "d60525a5b8281b1e",
+  "MAIN.GrainScale.0.full.webp": "a14ddb6020a89841",
+  "MAIN.GrainScale.0.webp": "587466e9bc7c21f0",
+  "MAIN.GrainScale.1.full.webp": "5c8ab66d700b4776",
+  "MAIN.GrainScale.1.webp": "d559752b89314874",
+  "MAIN.GrainScale.2.full.webp": "fc5e8633ce49e6ca",
+  "MAIN.GrainScale.2.webp": "d1ecb8c784fbbe52",
   "MAIN.HudAspectRatioConstraint.0.full.webp": "d0687a669788937d",
   "MAIN.HudAspectRatioConstraint.0.webp": "988428a92336e686",
   "MAIN.HudAspectRatioConstraint.1.full.webp": "9f25db6b1bab2aa1",
@@ -106,74 +98,6 @@
    ],
    "version": "27.10.2026.726"
   },
-  "MAIN.CutsceneBorders": {
-   "kind": "choice",
-   "values": [
-    "0",
-    "1",
-    "2",
-    "3"
-   ],
-   "frameOfValue": {
-    "0": 0,
-    "1": 1,
-    "2": 2,
-    "3": 3
-   },
-   "stills": [
-    "MAIN.CutsceneBorders.0.webp",
-    "MAIN.CutsceneBorders.1.webp",
-    "MAIN.CutsceneBorders.2.webp",
-    "MAIN.CutsceneBorders.3.webp"
-   ],
-   "full": [
-    "MAIN.CutsceneBorders.0.full.webp",
-    "MAIN.CutsceneBorders.1.full.webp",
-    "MAIN.CutsceneBorders.2.full.webp",
-    "MAIN.CutsceneBorders.3.full.webp"
-   ],
-   "resolution": [
-    1200,
-    900
-   ],
-   "version": "27.10.2026.726"
-  },
-  "MAIN.FOVFactor": {
-   "kind": "float",
-   "values": [
-    "0.5",
-    "0.75",
-    "1.0",
-    "1.5",
-    "2.0"
-   ],
-   "frameOfValue": {
-    "0.5": 0,
-    "0.75": 1,
-    "1.0": 2,
-    "1.5": 3,
-    "2.0": 4
-   },
-   "stills": [
-    "MAIN.FOVFactor.0.webp",
-    "MAIN.FOVFactor.1.webp",
-    "MAIN.FOVFactor.2.webp",
-    "MAIN.FOVFactor.3.webp",
-    "MAIN.FOVFactor.4.webp"
-   ],
-   "full": [
-    "MAIN.FOVFactor.0.full.webp",
-    "MAIN.FOVFactor.1.full.webp",
-    "MAIN.FOVFactor.2.full.webp",
-    "MAIN.FOVFactor.3.full.webp",
-    "MAIN.FOVFactor.4.full.webp"
-   ],
-   "resolution": [
-    1200,
-    900
-   ],
-   "version": "27.10.2026.726"
-  },
   "MAIN.FMVWidescreenMode": {
    "kind": "choice",
    "values": [
@@ -227,34 +151,6 @@
    "resolution": [
     1600,
     600
-   ],
-   "version": "27.10.2026.726"
-  },
-  "MAIN.GrainScale": {
-   "kind": "float",
-   "values": [
-    "0.0",
-    "0.5",
-    "1.0"
-   ],
-   "frameOfValue": {
-    "0.0": 0,
-    "0.5": 1,
-    "1.0": 2
-   },
-   "stills": [
-    "MAIN.GrainScale.0.webp",
-    "MAIN.GrainScale.1.webp",
-    "MAIN.GrainScale.2.webp"
-   ],
-   "full": [
-    "MAIN.GrainScale.0.full.webp",
-    "MAIN.GrainScale.1.full.webp",
-    "MAIN.GrainScale.2.full.webp"
-   ],
-   "resolution": [
-    1200,
-    900
    ],
    "version": "27.10.2026.726"
   },
@@ -327,6 +223,70 @@
     "MAIN.ShadowBufferResolution.0.full.webp",
     "MAIN.ShadowBufferResolution.1.full.webp",
     "MAIN.ShadowBufferResolution.2.full.webp"
+   ],
+   "resolution": [
+    1920,
+    1080
+   ],
+   "version": "9.11.2026.1444"
+  },
+  "MAIN.FOVFactor": {
+   "kind": "float",
+   "values": [
+    "0.5",
+    "0.75",
+    "1.0",
+    "1.5",
+    "2.0"
+   ],
+   "frameOfValue": {
+    "0.5": 0,
+    "0.75": 1,
+    "1.0": 2,
+    "1.5": 3,
+    "2.0": 4
+   },
+   "stills": [
+    "MAIN.FOVFactor.0.webp",
+    "MAIN.FOVFactor.1.webp",
+    "MAIN.FOVFactor.2.webp",
+    "MAIN.FOVFactor.3.webp",
+    "MAIN.FOVFactor.4.webp"
+   ],
+   "full": [
+    "MAIN.FOVFactor.0.full.webp",
+    "MAIN.FOVFactor.1.full.webp",
+    "MAIN.FOVFactor.2.full.webp",
+    "MAIN.FOVFactor.3.full.webp",
+    "MAIN.FOVFactor.4.full.webp"
+   ],
+   "resolution": [
+    1920,
+    1080
+   ],
+   "version": "9.11.2026.1444"
+  },
+  "MAIN.GrainScale": {
+   "kind": "float",
+   "values": [
+    "0.0",
+    "0.5",
+    "1.0"
+   ],
+   "frameOfValue": {
+    "0.0": 0,
+    "0.5": 1,
+    "1.0": 2
+   },
+   "stills": [
+    "MAIN.GrainScale.0.webp",
+    "MAIN.GrainScale.1.webp",
+    "MAIN.GrainScale.2.webp"
+   ],
+   "full": [
+    "MAIN.GrainScale.0.full.webp",
+    "MAIN.GrainScale.1.full.webp",
+    "MAIN.GrainScale.2.full.webp"
    ],
    "resolution": [
     1920,

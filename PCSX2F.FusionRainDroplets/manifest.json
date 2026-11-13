@@ -3,35 +3,35 @@
  "plugin": "PCSX2F.FusionRainDroplets",
  "version": "2.0",
  "resolution": [
-  1256,
-  942
+  1920,
+  1080
  ],
  "fps": 30,
  "files": {
-  "MAIN.DropBlur.0.full.webp": "e549089352cbb32d",
-  "MAIN.DropBlur.0.webp": "91678385e1f151c1",
-  "MAIN.DropBlur.1.full.webp": "a62b22b15796cb79",
-  "MAIN.DropBlur.1.webp": "4f0ba6c822eebf58",
-  "MAIN.Enabled.0.full.webp": "be508761d4362709",
-  "MAIN.Enabled.0.webp": "76cb181e9ead9369",
-  "MAIN.Enabled.1.full.webp": "771c6b91269e4e93",
-  "MAIN.Enabled.1.webp": "0f05751005fbd066",
-  "MAIN.MaxDrops.0.full.webp": "b45029a130ba222d",
-  "MAIN.MaxDrops.0.webp": "b59a79338a85fdbb",
-  "MAIN.MaxDrops.1.full.webp": "66d357bf5e828f45",
-  "MAIN.MaxDrops.1.webp": "90163ecf7cd822d8",
-  "MAIN.MaxSize.0.full.webp": "b3d709372d2e8e59",
-  "MAIN.MaxSize.0.webp": "18b9a1e0a2a19d71",
-  "MAIN.MaxSize.1.full.webp": "b0e24d57f85208ef",
-  "MAIN.MaxSize.1.webp": "17ea77a778385ae0",
-  "MAIN.MinSize.0.full.webp": "8f9d4a97839d2274",
-  "MAIN.MinSize.0.webp": "2ca6058eb7707f1a",
-  "MAIN.MinSize.1.full.webp": "e1b86ac6c6965e11",
-  "MAIN.MinSize.1.webp": "227369db8223b7b0",
-  "MAIN.Refractions.0.full.webp": "0403af18e7da56eb",
-  "MAIN.Refractions.0.webp": "ba26c8be5dd0b065",
-  "MAIN.Refractions.1.full.webp": "9312580ec2dcef67",
-  "MAIN.Refractions.1.webp": "076fabfc2c8b4f95"
+  "MAIN.DropBlur.0.full.webp": "57ce2961a8e59834",
+  "MAIN.DropBlur.0.webp": "089b4327289d6a6c",
+  "MAIN.DropBlur.1.full.webp": "afa5ee20d4cea106",
+  "MAIN.DropBlur.1.webp": "dc3eabf4a513bcf9",
+  "MAIN.Enabled.0.full.webp": "da6f316fe4151b84",
+  "MAIN.Enabled.0.webp": "551745ae2efe47b6",
+  "MAIN.Enabled.1.full.webp": "b7dfb4bc419789b3",
+  "MAIN.Enabled.1.webp": "b90059d6dfca0edf",
+  "MAIN.MaxDrops.0.full.webp": "3558f11bea875355",
+  "MAIN.MaxDrops.0.webp": "468131bf4e91e46b",
+  "MAIN.MaxDrops.1.full.webp": "ebb1ec7f44026e5a",
+  "MAIN.MaxDrops.1.webp": "316c8d9f2d8e340c",
+  "MAIN.MaxSize.0.full.webp": "a9b7572eb5a56d13",
+  "MAIN.MaxSize.0.webp": "63a26b9d45af2573",
+  "MAIN.MaxSize.1.full.webp": "1eebdc1a204621cd",
+  "MAIN.MaxSize.1.webp": "be5852bfd2f95618",
+  "MAIN.MinSize.0.full.webp": "532b4c9cd98f350c",
+  "MAIN.MinSize.0.webp": "4582ba114ad55f51",
+  "MAIN.MinSize.1.full.webp": "01b5f4eba0f5f91e",
+  "MAIN.MinSize.1.webp": "63557a329e97927a",
+  "MAIN.Refractions.0.full.webp": "03d642e3c4c62f7a",
+  "MAIN.Refractions.0.webp": "e201f0abda030b2c",
+  "MAIN.Refractions.1.full.webp": "9949b6763046c2bf",
+  "MAIN.Refractions.1.webp": "81cb136c9f149ca1"
  },
  "settings": {
   "MAIN.Enabled": {
@@ -53,8 +53,8 @@
     "MAIN.Enabled.1.full.webp"
    ],
    "resolution": [
-    1256,
-    942
+    1920,
+    1080
    ],
    "version": "2.0"
   },
@@ -77,8 +77,8 @@
     "MAIN.MinSize.1.full.webp"
    ],
    "resolution": [
-    1256,
-    942
+    1920,
+    1080
    ],
    "version": "2.0"
   },
@@ -101,8 +101,8 @@
     "MAIN.MaxSize.1.full.webp"
    ],
    "resolution": [
-    1256,
-    942
+    1920,
+    1080
    ],
    "version": "2.0"
   },
@@ -125,8 +125,8 @@
     "MAIN.MaxDrops.1.full.webp"
    ],
    "resolution": [
-    1256,
-    942
+    1920,
+    1080
    ],
    "version": "2.0"
   },
@@ -149,8 +149,8 @@
     "MAIN.Refractions.1.full.webp"
    ],
    "resolution": [
-    1256,
-    942
+    1920,
+    1080
    ],
    "version": "2.0"
   },
@@ -173,8 +173,8 @@
     "MAIN.DropBlur.1.full.webp"
    ],
    "resolution": [
-    1256,
-    942
+    1920,
+    1080
    ],
    "version": "2.0"
   }

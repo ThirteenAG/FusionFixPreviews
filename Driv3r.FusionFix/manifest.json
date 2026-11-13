@@ -1,17 +1,29 @@
 {
  "format": 1,
  "plugin": "Driv3r.FusionFix",
- "version": "28.10.2026.805",
+ "version": "11.11.2026.1556",
  "resolution": [
-  1600,
-  1200
+  1920,
+  1080
  ],
  "fps": 30,
  "files": {
-  "MAIN.FMVWidescreenMode.0.full.webp": "c557fe37cb0f4bab",
-  "MAIN.FMVWidescreenMode.0.webp": "38be584350e28fbd",
-  "MAIN.FMVWidescreenMode.1.full.webp": "27c3bd8b382d0215",
-  "MAIN.FMVWidescreenMode.1.webp": "185d85f57d2b42db",
+  "CAMERA.Enable.0.full.webp": "a2a81735e1da581f",
+  "CAMERA.Enable.0.webp": "ac900bcf93573b9f",
+  "CAMERA.Enable.1.full.webp": "67725b683f268ff2",
+  "CAMERA.Enable.1.webp": "1b6ec091daca6f20",
+  "GRAPHICS.AntiAliasing.0.full.webp": "19b153e2c2ac21b2",
+  "GRAPHICS.AntiAliasing.0.webp": "1baf17d024918c96",
+  "GRAPHICS.AntiAliasing.1.full.webp": "c5d62f5950c484e7",
+  "GRAPHICS.AntiAliasing.1.webp": "5a6827da47500e15",
+  "GRAPHICS.ConsoleGamma.0.full.webp": "a0c747dec22ea073",
+  "GRAPHICS.ConsoleGamma.0.webp": "46eec048b9450a86",
+  "GRAPHICS.ConsoleGamma.1.full.webp": "da63acd13ad3d904",
+  "GRAPHICS.ConsoleGamma.1.webp": "74bcb06eb301b87e",
+  "MAIN.FMVWidescreenMode.0.full.webp": "0e15ad88e1df4889",
+  "MAIN.FMVWidescreenMode.0.webp": "c06b2b55809219c3",
+  "MAIN.FMVWidescreenMode.1.full.webp": "c3ea6cdf0edff56b",
+  "MAIN.FMVWidescreenMode.1.webp": "de22d500efd6444d",
   "MAIN.FOVFactor.0.full.webp": "6c8e22d4b4c4a807",
   "MAIN.FOVFactor.0.webp": "f28a92e31d7ee78c",
   "MAIN.FOVFactor.1.full.webp": "a22059a615289d2a",
@@ -39,19 +51,7 @@
   "MAIN.HudAspectRatioConstraint.3.full.webp": "070e44e4bb60a151",
   "MAIN.HudAspectRatioConstraint.3.webp": "e76929fb1439df06",
   "MAIN.HudAspectRatioConstraint.4.full.webp": "a290b8af03638edc",
-  "MAIN.HudAspectRatioConstraint.4.webp": "b3bd4e5b947c93b1",
-  "CAMERA.Enable.0.full.webp": "a2a81735e1da581f",
-  "CAMERA.Enable.0.webp": "ac900bcf93573b9f",
-  "CAMERA.Enable.1.full.webp": "67725b683f268ff2",
-  "CAMERA.Enable.1.webp": "1b6ec091daca6f20",
-  "GRAPHICS.ConsoleGamma.0.full.webp": "a0c747dec22ea073",
-  "GRAPHICS.ConsoleGamma.0.webp": "46eec048b9450a86",
-  "GRAPHICS.ConsoleGamma.1.full.webp": "da63acd13ad3d904",
-  "GRAPHICS.ConsoleGamma.1.webp": "74bcb06eb301b87e",
-  "GRAPHICS.AntiAliasing.0.full.webp": "19b153e2c2ac21b2",
-  "GRAPHICS.AntiAliasing.0.webp": "1baf17d024918c96",
-  "GRAPHICS.AntiAliasing.1.full.webp": "c5d62f5950c484e7",
-  "GRAPHICS.AntiAliasing.1.webp": "5a6827da47500e15"
+  "MAIN.HudAspectRatioConstraint.4.webp": "b3bd4e5b947c93b1"
  },
  "settings": {
   "MAIN.FOVFactor": {
@@ -123,30 +123,6 @@
    "resolution": [
     1920,
     1080
-   ],
-   "version": "28.10.2026.805"
-  },
-  "MAIN.FMVWidescreenMode": {
-   "kind": "choice",
-   "values": [
-    0,
-    1
-   ],
-   "frameOfValue": {
-    "0": 0,
-    "1": 1
-   },
-   "stills": [
-    "MAIN.FMVWidescreenMode.0.webp",
-    "MAIN.FMVWidescreenMode.1.webp"
-   ],
-   "full": [
-    "MAIN.FMVWidescreenMode.0.full.webp",
-    "MAIN.FMVWidescreenMode.1.full.webp"
-   ],
-   "resolution": [
-    1600,
-    1200
    ],
    "version": "28.10.2026.805"
   },
@@ -253,6 +229,30 @@
     1080
    ],
    "version": "5.11.2026.1227"
+  },
+  "MAIN.FMVWidescreenMode": {
+   "kind": "choice",
+   "values": [
+    0,
+    1
+   ],
+   "frameOfValue": {
+    "0": 0,
+    "1": 1
+   },
+   "stills": [
+    "MAIN.FMVWidescreenMode.0.webp",
+    "MAIN.FMVWidescreenMode.1.webp"
+   ],
+   "full": [
+    "MAIN.FMVWidescreenMode.0.full.webp",
+    "MAIN.FMVWidescreenMode.1.full.webp"
+   ],
+   "resolution": [
+    1920,
+    1080
+   ],
+   "version": "11.11.2026.1556"
   }
  }
 }

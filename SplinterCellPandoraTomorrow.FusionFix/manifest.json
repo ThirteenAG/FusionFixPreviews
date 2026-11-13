@@ -1,39 +1,38 @@
 {
  "format": 1,
  "plugin": "SplinterCellPandoraTomorrow.FusionFix",
- "version": "27.10.2026.1551",
+ "version": "9.11.2026.2247",
  "resolution": [
-  1280,
-  720
+  1920,
+  1080
  ],
  "fps": 30,
  "files": {
-  "BONUS.GogglesLightColor.0.full.webp": "cde5ef9ae0381cd6",
-  "BONUS.GogglesLightColor.0.webp": "937b96a933149f52",
-  "BONUS.GogglesLightColor.1.full.webp": "3f06c65eeb308e87",
-  "BONUS.GogglesLightColor.1.webp": "194dfd652f49d588",
-  "MAIN.CutsceneBorders.0.full.webp": "049e156f9997cb69",
-  "MAIN.CutsceneBorders.0.webp": "78e53f6216f1abf9",
-  "MAIN.CutsceneBorders.1.full.webp": "f4400678b80f065c",
-  "MAIN.CutsceneBorders.1.webp": "5471f54677aa8043",
-  "MAIN.CutsceneBorders.2.full.webp": "d8d6602dbc76c383",
-  "MAIN.CutsceneBorders.2.webp": "5980bf88977a13aa",
-  "MAIN.CutsceneBorders.3.full.webp": "5f949d23f03462c6",
-  "MAIN.CutsceneBorders.3.webp": "d71c4e9fd02d5425",
+  "BONUS.GogglesLightColor.0.webp": "7e727af8c8db1a06",
+  "BONUS.GogglesLightColor.1.webp": "4a19725c43560c4d",
+  "BONUS.GogglesLightColor.10.webp": "a0d0a9053e00d281",
+  "BONUS.GogglesLightColor.2.webp": "cbeaec52424e8432",
+  "BONUS.GogglesLightColor.3.webp": "2c1dd25300c9f6e2",
+  "BONUS.GogglesLightColor.4.webp": "6822492ddd72748b",
+  "BONUS.GogglesLightColor.5.webp": "77c137e8a75c1a6f",
+  "BONUS.GogglesLightColor.6.webp": "94b6efcb135be2bc",
+  "BONUS.GogglesLightColor.7.webp": "516b09cb9cef9a8a",
+  "BONUS.GogglesLightColor.8.webp": "638e5b61d422c501",
+  "BONUS.GogglesLightColor.9.webp": "3ea44e6ef2b1330b",
   "MAIN.FMVWidescreenMode.0.full.webp": "5012a94c716ef7ae",
   "MAIN.FMVWidescreenMode.0.webp": "5e9119e23f20a80f",
   "MAIN.FMVWidescreenMode.1.full.webp": "ff46011571d9a532",
   "MAIN.FMVWidescreenMode.1.webp": "66751979f651f0ce",
-  "MAIN.FOVFactor.0.full.webp": "6f40254f85fdbd13",
-  "MAIN.FOVFactor.0.webp": "9fdec394d6071ceb",
-  "MAIN.FOVFactor.1.full.webp": "ddbb7234dfd1bcf3",
-  "MAIN.FOVFactor.1.webp": "fa421b44cf3a7bf4",
-  "MAIN.FOVFactor.2.full.webp": "08afb9e8c06f7f64",
-  "MAIN.FOVFactor.2.webp": "80b0e066ae6d123c",
-  "MAIN.FOVFactor.3.full.webp": "398fca124d88250d",
-  "MAIN.FOVFactor.3.webp": "d20f071490ce28f0",
-  "MAIN.FOVFactor.4.full.webp": "0c24faaeb8043050",
-  "MAIN.FOVFactor.4.webp": "ae45a7489fdf7dc7",
+  "MAIN.FOVFactor.0.full.webp": "721c6e2b64354a24",
+  "MAIN.FOVFactor.0.webp": "4f854d88292502e4",
+  "MAIN.FOVFactor.1.full.webp": "b2db93f0e5f31b5b",
+  "MAIN.FOVFactor.1.webp": "becf1426a7d4622f",
+  "MAIN.FOVFactor.2.full.webp": "81974789698439e7",
+  "MAIN.FOVFactor.2.webp": "c117d38d0fc2e608",
+  "MAIN.FOVFactor.3.full.webp": "5c9d5b57fee617bc",
+  "MAIN.FOVFactor.3.webp": "1be9456916e5c8a9",
+  "MAIN.FOVFactor.4.full.webp": "997e7d26725f3edc",
+  "MAIN.FOVFactor.4.webp": "830297ef438f396d",
   "MAIN.GamepadIcons.0.full.webp": "476b48aed2a4e1ad",
   "MAIN.GamepadIcons.0.webp": "4ee025754b6edbda",
   "MAIN.GamepadIcons.1.full.webp": "3b1f7beb7d2335d3",
@@ -42,12 +41,12 @@
   "MAIN.GamepadIcons.2.webp": "bbaf10fc532e0678",
   "MAIN.GamepadIcons.3.full.webp": "2f4a9ab45b1111fa",
   "MAIN.GamepadIcons.3.webp": "94bb99900cff60e7",
-  "MAIN.GrainScale.0.full.webp": "ded4d054c1240d64",
-  "MAIN.GrainScale.0.webp": "8fe448e409b108a0",
-  "MAIN.GrainScale.1.full.webp": "da541e6a15b3fb5f",
-  "MAIN.GrainScale.1.webp": "4308c10659ea1f00",
-  "MAIN.GrainScale.2.full.webp": "b191a586a4a8e7bb",
-  "MAIN.GrainScale.2.webp": "71977bcb47872411",
+  "MAIN.GrainScale.0.full.webp": "e8c9368cd4d7bac5",
+  "MAIN.GrainScale.0.webp": "6010dcf8b41ece8b",
+  "MAIN.GrainScale.1.full.webp": "f0198f3ceabdc490",
+  "MAIN.GrainScale.1.webp": "fab3b21e0ccb1fab",
+  "MAIN.GrainScale.2.full.webp": "0b73c7ebf884270c",
+  "MAIN.GrainScale.2.webp": "26c892af19d0c21b",
   "MAIN.HudAspectRatioConstraint.0.full.webp": "b1b938876136eb60",
   "MAIN.HudAspectRatioConstraint.0.webp": "44f508f1e1a24bb3",
   "MAIN.HudAspectRatioConstraint.1.full.webp": "dda50ba83b7084f4",
@@ -64,14 +63,14 @@
   "MAIN.LightDistanceMultiplier.1.webp": "1282c59aa8380aa4",
   "MAIN.LightDistanceMultiplier.2.full.webp": "8ff1134c8740ada6",
   "MAIN.LightDistanceMultiplier.2.webp": "d852dd0668820995",
+  "MAIN.PostProcessFixedScale.0.full.webp": "74484e39d0e27410",
+  "MAIN.PostProcessFixedScale.0.webp": "a42d97efd7f26dde",
+  "MAIN.PostProcessFixedScale.1.full.webp": "596620d36cb6212b",
+  "MAIN.PostProcessFixedScale.1.webp": "6579e7e4f711332f",
   "MAIN.ScopeWidescreenMode.0.full.webp": "a354beacd5262ea5",
   "MAIN.ScopeWidescreenMode.0.webp": "c85248701162b446",
   "MAIN.ScopeWidescreenMode.1.full.webp": "0acf63e1c87dbd70",
-  "MAIN.ScopeWidescreenMode.1.webp": "d62fdc62d2fd99a1",
-  "MAIN.PostProcessFixedScale.0.webp": "a42d97efd7f26dde",
-  "MAIN.PostProcessFixedScale.1.webp": "6579e7e4f711332f",
-  "MAIN.PostProcessFixedScale.0.full.webp": "74484e39d0e27410",
-  "MAIN.PostProcessFixedScale.1.full.webp": "596620d36cb6212b"
+  "MAIN.ScopeWidescreenMode.1.webp": "d62fdc62d2fd99a1"
  },
  "settings": {
   "MAIN.HudAspectRatioConstraint": {
@@ -134,74 +133,6 @@
    ],
    "version": "27.10.2026.726"
   },
-  "MAIN.FOVFactor": {
-   "kind": "float",
-   "values": [
-    "0.5",
-    "0.75",
-    "1.0",
-    "1.5",
-    "2.0"
-   ],
-   "frameOfValue": {
-    "0.5": 0,
-    "0.75": 1,
-    "1.0": 2,
-    "1.5": 3,
-    "2.0": 4
-   },
-   "stills": [
-    "MAIN.FOVFactor.0.webp",
-    "MAIN.FOVFactor.1.webp",
-    "MAIN.FOVFactor.2.webp",
-    "MAIN.FOVFactor.3.webp",
-    "MAIN.FOVFactor.4.webp"
-   ],
-   "full": [
-    "MAIN.FOVFactor.0.full.webp",
-    "MAIN.FOVFactor.1.full.webp",
-    "MAIN.FOVFactor.2.full.webp",
-    "MAIN.FOVFactor.3.full.webp",
-    "MAIN.FOVFactor.4.full.webp"
-   ],
-   "resolution": [
-    1280,
-    960
-   ],
-   "version": "27.10.2026.726"
-  },
-  "MAIN.CutsceneBorders": {
-   "kind": "choice",
-   "values": [
-    "0",
-    "1",
-    "2",
-    "3"
-   ],
-   "frameOfValue": {
-    "0": 0,
-    "1": 1,
-    "2": 2,
-    "3": 3
-   },
-   "stills": [
-    "MAIN.CutsceneBorders.0.webp",
-    "MAIN.CutsceneBorders.1.webp",
-    "MAIN.CutsceneBorders.2.webp",
-    "MAIN.CutsceneBorders.3.webp"
-   ],
-   "full": [
-    "MAIN.CutsceneBorders.0.full.webp",
-    "MAIN.CutsceneBorders.1.full.webp",
-    "MAIN.CutsceneBorders.2.full.webp",
-    "MAIN.CutsceneBorders.3.full.webp"
-   ],
-   "resolution": [
-    1280,
-    960
-   ],
-   "version": "27.10.2026.726"
-  },
   "MAIN.FMVWidescreenMode": {
    "kind": "choice",
    "values": [
@@ -254,58 +185,6 @@
    ],
    "version": "27.10.2026.726"
   },
-  "MAIN.GrainScale": {
-   "kind": "float",
-   "values": [
-    "0.0",
-    "0.5",
-    "1.0"
-   ],
-   "frameOfValue": {
-    "0.0": 0,
-    "0.5": 1,
-    "1.0": 2
-   },
-   "stills": [
-    "MAIN.GrainScale.0.webp",
-    "MAIN.GrainScale.1.webp",
-    "MAIN.GrainScale.2.webp"
-   ],
-   "full": [
-    "MAIN.GrainScale.0.full.webp",
-    "MAIN.GrainScale.1.full.webp",
-    "MAIN.GrainScale.2.full.webp"
-   ],
-   "resolution": [
-    1280,
-    960
-   ],
-   "version": "27.10.2026.726"
-  },
-  "BONUS.GogglesLightColor": {
-   "kind": "int",
-   "values": [
-    "0",
-    "16777215"
-   ],
-   "frameOfValue": {
-    "0": 0,
-    "16777215": 1
-   },
-   "stills": [
-    "BONUS.GogglesLightColor.0.webp",
-    "BONUS.GogglesLightColor.1.webp"
-   ],
-   "full": [
-    "BONUS.GogglesLightColor.0.full.webp",
-    "BONUS.GogglesLightColor.1.full.webp"
-   ],
-   "resolution": [
-    1280,
-    960
-   ],
-   "version": "27.10.2026.726"
-  },
   "MAIN.GamepadIcons": {
    "kind": "choice",
    "values": [
@@ -355,6 +234,130 @@
    "full": [
     "MAIN.PostProcessFixedScale.0.full.webp",
     "MAIN.PostProcessFixedScale.1.full.webp"
+   ],
+   "resolution": [
+    1920,
+    1080
+   ],
+   "version": "9.11.2026.2247"
+  },
+  "MAIN.FOVFactor": {
+   "kind": "float",
+   "values": [
+    "0.5",
+    "0.75",
+    "1.0",
+    "1.5",
+    "2.0"
+   ],
+   "frameOfValue": {
+    "0.5": 0,
+    "0.75": 1,
+    "1.0": 2,
+    "1.5": 3,
+    "2.0": 4
+   },
+   "stills": [
+    "MAIN.FOVFactor.0.webp",
+    "MAIN.FOVFactor.1.webp",
+    "MAIN.FOVFactor.2.webp",
+    "MAIN.FOVFactor.3.webp",
+    "MAIN.FOVFactor.4.webp"
+   ],
+   "full": [
+    "MAIN.FOVFactor.0.full.webp",
+    "MAIN.FOVFactor.1.full.webp",
+    "MAIN.FOVFactor.2.full.webp",
+    "MAIN.FOVFactor.3.full.webp",
+    "MAIN.FOVFactor.4.full.webp"
+   ],
+   "resolution": [
+    1920,
+    1080
+   ],
+   "version": "9.11.2026.2247"
+  },
+  "MAIN.GrainScale": {
+   "kind": "float",
+   "values": [
+    "0.0",
+    "0.5",
+    "1.0"
+   ],
+   "frameOfValue": {
+    "0.0": 0,
+    "0.5": 1,
+    "1.0": 2
+   },
+   "stills": [
+    "MAIN.GrainScale.0.webp",
+    "MAIN.GrainScale.1.webp",
+    "MAIN.GrainScale.2.webp"
+   ],
+   "full": [
+    "MAIN.GrainScale.0.full.webp",
+    "MAIN.GrainScale.1.full.webp",
+    "MAIN.GrainScale.2.full.webp"
+   ],
+   "resolution": [
+    1920,
+    1080
+   ],
+   "version": "9.11.2026.2247"
+  },
+  "BONUS.GogglesLightColor": {
+   "kind": "choice",
+   "values": [
+    "0",
+    "1",
+    "2",
+    "3",
+    "4",
+    "5",
+    "6",
+    "7",
+    "8",
+    "9",
+    "10"
+   ],
+   "frameOfValue": {
+    "0": 0,
+    "1": 1,
+    "2": 2,
+    "3": 3,
+    "4": 4,
+    "5": 5,
+    "6": 6,
+    "7": 7,
+    "8": 8,
+    "9": 9,
+    "10": 10
+   },
+   "stills": [
+    "BONUS.GogglesLightColor.0.webp",
+    "BONUS.GogglesLightColor.1.webp",
+    "BONUS.GogglesLightColor.2.webp",
+    "BONUS.GogglesLightColor.3.webp",
+    "BONUS.GogglesLightColor.4.webp",
+    "BONUS.GogglesLightColor.5.webp",
+    "BONUS.GogglesLightColor.6.webp",
+    "BONUS.GogglesLightColor.7.webp",
+    "BONUS.GogglesLightColor.8.webp",
+    "BONUS.GogglesLightColor.9.webp",
+    "BONUS.GogglesLightColor.10.webp"
+   ],
+   "full": [
+    "BONUS.GogglesLightColor.0.webp",
+    "BONUS.GogglesLightColor.1.webp",
+    "BONUS.GogglesLightColor.2.webp",
+    "BONUS.GogglesLightColor.3.webp",
+    "BONUS.GogglesLightColor.4.webp",
+    "BONUS.GogglesLightColor.5.webp",
+    "BONUS.GogglesLightColor.6.webp",
+    "BONUS.GogglesLightColor.7.webp",
+    "BONUS.GogglesLightColor.8.webp",
+    "BONUS.GogglesLightColor.9.webp",
+    "BONUS.GogglesLightColor.10.webp"
    ],
    "resolution": [
     1920,

@@ -1,10 +1,10 @@
 {
  "format": 1,
  "plugin": "DriverParallelLines.FusionFix",
- "version": "28.10.2026.1048",
+ "version": "11.11.2026.1556",
  "resolution": [
   1920,
-  1440
+  1080
  ],
  "fps": 30,
  "files": {
@@ -16,10 +16,10 @@
   "GRAPHICS.ConsoleGamma.0.webp": "f8cbdd4a807b2789",
   "GRAPHICS.ConsoleGamma.1.full.webp": "eaabb53eff06a435",
   "GRAPHICS.ConsoleGamma.1.webp": "dba6071a5834f540",
-  "MAIN.FMVWidescreenMode.0.full.webp": "fad9c70161bb3dd6",
-  "MAIN.FMVWidescreenMode.0.webp": "2b44bda6072cc33d",
-  "MAIN.FMVWidescreenMode.1.full.webp": "b4d57368fb838220",
-  "MAIN.FMVWidescreenMode.1.webp": "66b000bcdd7926c6",
+  "MAIN.FMVWidescreenMode.0.full.webp": "04c0657851a994ea",
+  "MAIN.FMVWidescreenMode.0.webp": "7d82c112b747e9fb",
+  "MAIN.FMVWidescreenMode.1.full.webp": "7596af6b60657bb1",
+  "MAIN.FMVWidescreenMode.1.webp": "a5fc2f5e46207b1b",
   "MAIN.FOVFactor.0.full.webp": "bf3ab90c17ae8869",
   "MAIN.FOVFactor.0.webp": "38eca0e155c5e62b",
   "MAIN.FOVFactor.1.full.webp": "2d2cb11e52008513",
@@ -114,30 +114,6 @@
    ],
    "version": "28.10.2026.1048"
   },
-  "MAIN.FMVWidescreenMode": {
-   "kind": "int",
-   "values": [
-    0,
-    1
-   ],
-   "frameOfValue": {
-    "0": 0,
-    "1": 1
-   },
-   "stills": [
-    "MAIN.FMVWidescreenMode.0.webp",
-    "MAIN.FMVWidescreenMode.1.webp"
-   ],
-   "full": [
-    "MAIN.FMVWidescreenMode.0.full.webp",
-    "MAIN.FMVWidescreenMode.1.full.webp"
-   ],
-   "resolution": [
-    1920,
-    1440
-   ],
-   "version": "28.10.2026.1048"
-  },
   "GRAPHICS.ConsoleGamma": {
    "kind": "bool",
    "values": [
@@ -185,6 +161,30 @@
     2160
    ],
    "version": "28.10.2026.1048"
+  },
+  "MAIN.FMVWidescreenMode": {
+   "kind": "int",
+   "values": [
+    0,
+    1
+   ],
+   "frameOfValue": {
+    "0": 0,
+    "1": 1
+   },
+   "stills": [
+    "MAIN.FMVWidescreenMode.0.webp",
+    "MAIN.FMVWidescreenMode.1.webp"
+   ],
+   "full": [
+    "MAIN.FMVWidescreenMode.0.full.webp",
+    "MAIN.FMVWidescreenMode.1.full.webp"
+   ],
+   "resolution": [
+    1920,
+    1080
+   ],
+   "version": "11.11.2026.1556"
   }
  }
 }

@@ -1,10 +1,10 @@
 {
  "format": 1,
  "plugin": "TheSuffering.FusionFix",
- "version": "28.10.2026.1032",
+ "version": "9.11.2026.1444",
  "resolution": [
-  800,
-  600
+  1920,
+  1080
  ],
  "fps": 30,
  "files": {
@@ -16,16 +16,16 @@
   "MAIN.CutsceneBorders.2.webp": "c83a96e8cc090b9e",
   "MAIN.CutsceneBorders.3.full.webp": "c7677b63e3bf1658",
   "MAIN.CutsceneBorders.3.webp": "294fe8ca7ae2888e",
-  "MAIN.FOVFactor.0.full.webp": "0b555ccfa7e41409",
-  "MAIN.FOVFactor.0.webp": "45a1bbda1bc86c82",
-  "MAIN.FOVFactor.1.full.webp": "b2b886f093675ef3",
-  "MAIN.FOVFactor.1.webp": "9db125492ef39c65",
-  "MAIN.FOVFactor.2.full.webp": "2963ed3bbc231884",
-  "MAIN.FOVFactor.2.webp": "d2734fe86e9213ff",
-  "MAIN.FOVFactor.3.full.webp": "9f5e3298c8607a51",
-  "MAIN.FOVFactor.3.webp": "364819ba46cc1906",
-  "MAIN.FOVFactor.4.full.webp": "e041e53e5de03907",
-  "MAIN.FOVFactor.4.webp": "0656d0c765d2cfd9",
+  "MAIN.FOVFactor.0.full.webp": "956e367c8052ff89",
+  "MAIN.FOVFactor.0.webp": "9b2d0a3bc0e9b0d7",
+  "MAIN.FOVFactor.1.full.webp": "accf35a2fb8e828e",
+  "MAIN.FOVFactor.1.webp": "131b4451f61f44b5",
+  "MAIN.FOVFactor.2.full.webp": "ab76011df18c8eab",
+  "MAIN.FOVFactor.2.webp": "2943b66a71a67432",
+  "MAIN.FOVFactor.3.full.webp": "86cf3cc7694d0c29",
+  "MAIN.FOVFactor.3.webp": "8de1405a49122055",
+  "MAIN.FOVFactor.4.full.webp": "7966b63df8011187",
+  "MAIN.FOVFactor.4.webp": "1cb2967ad257028c",
   "MAIN.HudAspectRatioConstraint.0.full.webp": "051beb1a455ff3c1",
   "MAIN.HudAspectRatioConstraint.0.webp": "5ab45f600e25cdc5",
   "MAIN.HudAspectRatioConstraint.1.full.webp": "b60e44b133ab17a1",
@@ -109,18 +109,18 @@
   "MAIN.FOVFactor": {
    "kind": "float",
    "values": [
-    0.5,
-    0.75,
-    1,
-    1.5,
-    2
+    "0.5",
+    "0.75",
+    "1.0",
+    "1.5",
+    "2.0"
    ],
    "frameOfValue": {
-    "1": 2,
-    "2": 4,
     "0.5": 0,
     "0.75": 1,
-    "1.5": 3
+    "1.0": 2,
+    "1.5": 3,
+    "2.0": 4
    },
    "stills": [
     "MAIN.FOVFactor.0.webp",
@@ -137,10 +137,10 @@
     "MAIN.FOVFactor.4.full.webp"
    ],
    "resolution": [
-    800,
-    600
+    1920,
+    1080
    ],
-   "version": "28.10.2026.1032"
+   "version": "9.11.2026.1444"
   }
  }
 }

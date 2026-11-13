@@ -165,14 +165,6 @@
   "SHADOWS.ExtraDynamicShadows.1.webp": "45cd0adf1ac69ab5",
   "SHADOWS.ExtraDynamicShadows.2.full.webp": "f1f784a096fbb512",
   "SHADOWS.ExtraDynamicShadows.2.webp": "d7bcabd027089281",
-  "SHADOWS.ExtraNightShadows.0.full.webp": "ff2d60edacd3e57b",
-  "SHADOWS.ExtraNightShadows.0.webp": "610eb00d1a3546f0",
-  "SHADOWS.ExtraNightShadows.1.full.webp": "ecf4ab6c5e9c2580",
-  "SHADOWS.ExtraNightShadows.1.webp": "c572bca779269893",
-  "SHADOWS.ExtraNightShadows.2.full.webp": "e5197f12a80754a6",
-  "SHADOWS.ExtraNightShadows.2.webp": "5eb6f1135b0ea6d2",
-  "SHADOWS.ExtraNightShadows.3.full.webp": "39745c3ddac76d3a",
-  "SHADOWS.ExtraNightShadows.3.webp": "131a502985e3d2ab",
   "SHADOWS.ForceShadowFilter.0.full.webp": "cb621ba23e9e2f9a",
   "SHADOWS.ForceShadowFilter.0.webp": "e8cc2e755036d6cf",
   "SHADOWS.ForceShadowFilter.1.full.webp": "586a40bcccbb8a78",
@@ -954,38 +946,6 @@
    "full": [
     "MISC.TransparentMapMenu.0.full.webp",
     "MISC.TransparentMapMenu.1.full.webp"
-   ],
-   "resolution": [
-    1920,
-    1080
-   ],
-   "version": "5.1.3.0"
-  },
-  "SHADOWS.ExtraNightShadows": {
-   "kind": "choice",
-   "values": [
-    "0",
-    "1",
-    "2",
-    "3"
-   ],
-   "frameOfValue": {
-    "0": 0,
-    "1": 1,
-    "2": 2,
-    "3": 3
-   },
-   "stills": [
-    "SHADOWS.ExtraNightShadows.0.webp",
-    "SHADOWS.ExtraNightShadows.1.webp",
-    "SHADOWS.ExtraNightShadows.2.webp",
-    "SHADOWS.ExtraNightShadows.3.webp"
-   ],
-   "full": [
-    "SHADOWS.ExtraNightShadows.0.full.webp",
-    "SHADOWS.ExtraNightShadows.1.full.webp",
-    "SHADOWS.ExtraNightShadows.2.full.webp",
-    "SHADOWS.ExtraNightShadows.3.full.webp"
    ],
    "resolution": [
     1920,
