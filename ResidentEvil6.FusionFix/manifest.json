@@ -1,7 +1,7 @@
 {
  "format": 1,
  "plugin": "ResidentEvil6.FusionFix",
- "version": "9.11.2026.1444",
+ "version": "18.11.2026.620",
  "resolution": [
   1920,
   1080
@@ -11,7 +11,15 @@
   "MAIN.DisableObjectiveIndicator.0.full.webp": "85625e432a329032",
   "MAIN.DisableObjectiveIndicator.0.webp": "a33a126fa794ca9a",
   "MAIN.DisableObjectiveIndicator.1.full.webp": "d3919ae01864c285",
-  "MAIN.DisableObjectiveIndicator.1.webp": "654813e6ab47b17c"
+  "MAIN.DisableObjectiveIndicator.1.webp": "654813e6ab47b17c",
+  "MAIN.GamepadIcons.0.full.webp": "0ba9dcb21d909d5b",
+  "MAIN.GamepadIcons.0.webp": "a8f560870426192a",
+  "MAIN.GamepadIcons.1.full.webp": "e5592c51fbdeda84",
+  "MAIN.GamepadIcons.1.webp": "984f76696d29bd7f",
+  "MAIN.GamepadIcons.2.full.webp": "25142ee303d3fdb1",
+  "MAIN.GamepadIcons.2.webp": "84009ee8f63d1e6e",
+  "MAIN.GamepadIcons.3.full.webp": "6c77a6071c7791ce",
+  "MAIN.GamepadIcons.3.webp": "6ad3bb02f32542b0"
  },
  "settings": {
   "MAIN.DisableObjectiveIndicator": {
@@ -37,6 +45,38 @@
     1080
    ],
    "version": "9.11.2026.1444"
+  },
+  "MAIN.GamepadIcons": {
+   "kind": "choice",
+   "values": [
+    "0",
+    "1",
+    "2",
+    "3"
+   ],
+   "frameOfValue": {
+    "0": 0,
+    "1": 1,
+    "2": 2,
+    "3": 3
+   },
+   "stills": [
+    "MAIN.GamepadIcons.0.webp",
+    "MAIN.GamepadIcons.1.webp",
+    "MAIN.GamepadIcons.2.webp",
+    "MAIN.GamepadIcons.3.webp"
+   ],
+   "full": [
+    "MAIN.GamepadIcons.0.full.webp",
+    "MAIN.GamepadIcons.1.full.webp",
+    "MAIN.GamepadIcons.2.full.webp",
+    "MAIN.GamepadIcons.3.full.webp"
+   ],
+   "resolution": [
+    1920,
+    1080
+   ],
+   "version": "18.11.2026.620"
   }
  }
 }

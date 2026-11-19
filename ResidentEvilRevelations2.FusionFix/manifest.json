@@ -1,10 +1,10 @@
 {
  "format": 1,
  "plugin": "ResidentEvilRevelations2.FusionFix",
- "version": "9.11.2026.1444",
+ "version": "18.11.2026.620",
  "resolution": [
   1920,
-  1080
+  1061
  ],
  "fps": 30,
  "files": {
@@ -18,6 +18,24 @@
   "MAIN.FOVFactor.3.webp": "dfe72240521c029f",
   "MAIN.FOVFactor.4.full.webp": "b1384c999df3d12e",
   "MAIN.FOVFactor.4.webp": "e5d85bf6cdcf32d6",
+  "MAIN.ForceLogo.0.full.webp": "76f6d7b1e865fece",
+  "MAIN.ForceLogo.0.webp": "b84faf767a113553",
+  "MAIN.ForceLogo.1.full.webp": "168260c1b6e1e8a9",
+  "MAIN.ForceLogo.1.webp": "2154115b6f811629",
+  "MAIN.ForceLogo.2.full.webp": "fb6d78b0c1d425b7",
+  "MAIN.ForceLogo.2.webp": "136d11a66df52591",
+  "MAIN.ForceLogo.3.full.webp": "9752ad4985ffe1d2",
+  "MAIN.ForceLogo.3.webp": "b225a8369364f5cf",
+  "MAIN.ForceLogo.4.full.webp": "b91561614ca2f49f",
+  "MAIN.ForceLogo.4.webp": "8939168ed52c2eea",
+  "MAIN.GamepadIcons.0.full.webp": "0b9d998e4299998e",
+  "MAIN.GamepadIcons.0.webp": "0e1a854c401330e1",
+  "MAIN.GamepadIcons.1.full.webp": "fbe895c49e8be4dc",
+  "MAIN.GamepadIcons.1.webp": "8cbcfceeacaf99b1",
+  "MAIN.GamepadIcons.2.full.webp": "178f47439de58f13",
+  "MAIN.GamepadIcons.2.webp": "7b11cf685d6eae9b",
+  "MAIN.GamepadIcons.3.full.webp": "6bbc2f12eed329eb",
+  "MAIN.GamepadIcons.3.webp": "187499f54a19308c",
   "MAIN.HudAspectRatioConstraint.0.full.webp": "43f6cb8a2e9904f5",
   "MAIN.HudAspectRatioConstraint.0.webp": "dc2b832fb4ab17dd",
   "MAIN.HudAspectRatioConstraint.1.full.webp": "eea96def7b01f18e",
@@ -89,6 +107,74 @@
     1080
    ],
    "version": "9.11.2026.1444"
+  },
+  "MAIN.GamepadIcons": {
+   "kind": "choice",
+   "values": [
+    "0",
+    "1",
+    "2",
+    "3"
+   ],
+   "frameOfValue": {
+    "0": 0,
+    "1": 1,
+    "2": 2,
+    "3": 3
+   },
+   "stills": [
+    "MAIN.GamepadIcons.0.webp",
+    "MAIN.GamepadIcons.1.webp",
+    "MAIN.GamepadIcons.2.webp",
+    "MAIN.GamepadIcons.3.webp"
+   ],
+   "full": [
+    "MAIN.GamepadIcons.0.full.webp",
+    "MAIN.GamepadIcons.1.full.webp",
+    "MAIN.GamepadIcons.2.full.webp",
+    "MAIN.GamepadIcons.3.full.webp"
+   ],
+   "resolution": [
+    1920,
+    1061
+   ],
+   "version": "18.11.2026.620"
+  },
+  "MAIN.ForceLogo": {
+   "kind": "choice",
+   "values": [
+    "0",
+    "1",
+    "2",
+    "3",
+    "4"
+   ],
+   "frameOfValue": {
+    "0": 0,
+    "1": 1,
+    "2": 2,
+    "3": 3,
+    "4": 4
+   },
+   "stills": [
+    "MAIN.ForceLogo.0.webp",
+    "MAIN.ForceLogo.1.webp",
+    "MAIN.ForceLogo.2.webp",
+    "MAIN.ForceLogo.3.webp",
+    "MAIN.ForceLogo.4.webp"
+   ],
+   "full": [
+    "MAIN.ForceLogo.0.full.webp",
+    "MAIN.ForceLogo.1.full.webp",
+    "MAIN.ForceLogo.2.full.webp",
+    "MAIN.ForceLogo.3.full.webp",
+    "MAIN.ForceLogo.4.full.webp"
+   ],
+   "resolution": [
+    1920,
+    1061
+   ],
+   "version": "18.11.2026.620"
   }
  }
 }
