@@ -1,7 +1,7 @@
 {
  "format": 1,
  "plugin": "GTASA.FusionFix",
- "version": "9.11.2026.1444",
+ "version": "18.11.2026.228",
  "resolution": [
   1920,
   1080
@@ -16,11 +16,31 @@
   "GRAPHICS.ConsoleGamma.1.webp": "91ec6fda9ffc1001",
   "GRAPHICS.TransparentMenu.0.webp": "00600e071a420072",
   "GRAPHICS.TransparentMenu.1.webp": "a604d24b79e7b521",
+  "MAIN.CutsceneBorders.0.full.webp": "59b52c6796fd419e",
+  "MAIN.CutsceneBorders.0.webp": "57b383c214f4a615",
+  "MAIN.CutsceneBorders.1.full.webp": "730e87f711bf9c70",
+  "MAIN.CutsceneBorders.1.webp": "06024ab2075b38a6",
+  "MAIN.CutsceneBorders.2.full.webp": "aa8b76fd41cc8b28",
+  "MAIN.CutsceneBorders.2.webp": "444c0ab0e34ffd44",
+  "MAIN.CutsceneBorders.3.full.webp": "9912244ecf96d537",
+  "MAIN.CutsceneBorders.3.webp": "853e86c731d661b0",
   "MAIN.FOVFactor.0.webp": "b40b9d3ba36e750a",
   "MAIN.FOVFactor.1.webp": "b700e471a8c3b181",
+  "MAIN.FOVFactor.10.webp": "1d63997d52b5644b",
+  "MAIN.FOVFactor.11.webp": "f87e1fca849b93ac",
+  "MAIN.FOVFactor.12.webp": "46c2a8af44649829",
+  "MAIN.FOVFactor.13.webp": "0cd50d227832b263",
+  "MAIN.FOVFactor.14.webp": "2ecb404f94ea9f99",
+  "MAIN.FOVFactor.15.webp": "b522d771861b94c6",
   "MAIN.FOVFactor.2.webp": "09b5ca80b0b56ff5",
   "MAIN.FOVFactor.3.webp": "303b40537ad7dbc9",
   "MAIN.FOVFactor.4.webp": "8ff7699f2ba1c5ad",
+  "MAIN.FOVFactor.5.webp": "1f26f1d2cdf47d6c",
+  "MAIN.FOVFactor.6.webp": "640af16086812544",
+  "MAIN.FOVFactor.7.webp": "94de71aa4672930f",
+  "MAIN.FOVFactor.8.webp": "2f1fa5c06967dff8",
+  "MAIN.FOVFactor.9.webp": "8d0bde3be73747c9",
+  "MAIN.FOVFactor.mp4": "59218192b6e09ade",
   "MAIN.GamepadIcons.0.webp": "1eb7075ecb805242",
   "MAIN.GamepadIcons.1.webp": "73b539a9eff312d5",
   "MAIN.GamepadIcons.2.webp": "88d6d5989316658e",
@@ -41,10 +61,16 @@
   "MAIN.HudHeightScale.mp4": "6d852048c09b829c",
   "MAIN.HudWidthScale.0.webp": "f3a8b76884c2ef49",
   "MAIN.HudWidthScale.1.webp": "103dba92bf7d4a27",
+  "MAIN.HudWidthScale.10.webp": "5c8958928cf73c92",
   "MAIN.HudWidthScale.2.webp": "8b53cbb377cc0da3",
   "MAIN.HudWidthScale.3.webp": "f58b7d755bf5c456",
   "MAIN.HudWidthScale.4.webp": "6af3ce722bebe36d",
   "MAIN.HudWidthScale.5.webp": "4d1596c6bfb44e0d",
+  "MAIN.HudWidthScale.6.webp": "626b1b5f0f7d783b",
+  "MAIN.HudWidthScale.7.webp": "068425ddbd70b549",
+  "MAIN.HudWidthScale.8.webp": "2e8d64848d72a75f",
+  "MAIN.HudWidthScale.9.webp": "59868cb247a569f8",
+  "MAIN.HudWidthScale.mp4": "56cab72f72ca33f9",
   "MAIN.KeyboardIcons.0.webp": "06e56fada6bc45c9",
   "MAIN.KeyboardIcons.1.webp": "d21f73ca237c2584",
   "MAIN.MenuAspectRatioConstraint.0.webp": "ff22b066da96490d",
@@ -92,25 +118,7 @@
   "MISC.HQRadarDisc.1.webp": "6d38546548c48a9e",
   "MISC.ReplaceTextShadowWithOutline.0.webp": "4279340843499649",
   "MISC.ReplaceTextShadowWithOutline.1.webp": "a58d7dd123f71016",
-  "MISC.ReplaceTextShadowWithOutline.2.webp": "140f33b12fb6adfb",
-  "MAIN.FOVFactor.5.webp": "1f26f1d2cdf47d6c",
-  "MAIN.FOVFactor.6.webp": "640af16086812544",
-  "MAIN.FOVFactor.7.webp": "94de71aa4672930f",
-  "MAIN.FOVFactor.8.webp": "2f1fa5c06967dff8",
-  "MAIN.FOVFactor.9.webp": "8d0bde3be73747c9",
-  "MAIN.FOVFactor.10.webp": "1d63997d52b5644b",
-  "MAIN.FOVFactor.11.webp": "f87e1fca849b93ac",
-  "MAIN.FOVFactor.12.webp": "46c2a8af44649829",
-  "MAIN.FOVFactor.13.webp": "0cd50d227832b263",
-  "MAIN.FOVFactor.14.webp": "2ecb404f94ea9f99",
-  "MAIN.FOVFactor.15.webp": "b522d771861b94c6",
-  "MAIN.FOVFactor.mp4": "59218192b6e09ade",
-  "MAIN.HudWidthScale.6.webp": "626b1b5f0f7d783b",
-  "MAIN.HudWidthScale.7.webp": "068425ddbd70b549",
-  "MAIN.HudWidthScale.8.webp": "2e8d64848d72a75f",
-  "MAIN.HudWidthScale.9.webp": "59868cb247a569f8",
-  "MAIN.HudWidthScale.10.webp": "5c8958928cf73c92",
-  "MAIN.HudWidthScale.mp4": "56cab72f72ca33f9"
+  "MISC.ReplaceTextShadowWithOutline.2.webp": "140f33b12fb6adfb"
  },
  "settings": {
   "MAIN.HudAspectRatioConstraint": {
@@ -770,6 +778,38 @@
     1080
    ],
    "version": "9.11.2026.1444"
+  },
+  "MAIN.CutsceneBorders": {
+   "kind": "choice",
+   "values": [
+    "0",
+    "1",
+    "2",
+    "3"
+   ],
+   "frameOfValue": {
+    "0": 0,
+    "1": 1,
+    "2": 2,
+    "3": 3
+   },
+   "stills": [
+    "MAIN.CutsceneBorders.0.webp",
+    "MAIN.CutsceneBorders.1.webp",
+    "MAIN.CutsceneBorders.2.webp",
+    "MAIN.CutsceneBorders.3.webp"
+   ],
+   "full": [
+    "MAIN.CutsceneBorders.0.full.webp",
+    "MAIN.CutsceneBorders.1.full.webp",
+    "MAIN.CutsceneBorders.2.full.webp",
+    "MAIN.CutsceneBorders.3.full.webp"
+   ],
+   "resolution": [
+    1280,
+    720
+   ],
+   "version": "18.11.2026.228"
   }
  }
 }
