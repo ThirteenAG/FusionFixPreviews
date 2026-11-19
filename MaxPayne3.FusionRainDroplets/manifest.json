@@ -16,6 +16,10 @@
   "MAIN.Enabled.0.webp": "1473e68e385e872e",
   "MAIN.Enabled.1.full.webp": "48694150e0bd2ea2",
   "MAIN.Enabled.1.webp": "dec7582949c808cf",
+  "MAIN.MaxDrops.0.full.webp": "5eed9b6f838c8e43",
+  "MAIN.MaxDrops.0.webp": "42231e1072f50062",
+  "MAIN.MaxDrops.1.full.webp": "f79876761bf1c1b2",
+  "MAIN.MaxDrops.1.webp": "4f30e7839382ab4f",
   "MAIN.MaxSize.0.full.webp": "6645ac95be3ddc63",
   "MAIN.MaxSize.0.webp": "cc955cd1ebccbed3",
   "MAIN.MaxSize.1.full.webp": "ec709303e3a068e2",
@@ -26,6 +30,10 @@
   "MAIN.MinSize.0.webp": "d2578f40fc4db7a0",
   "MAIN.MinSize.1.full.webp": "3922f93299318117",
   "MAIN.MinSize.1.webp": "568c74c9a94cc71e",
+  "MAIN.Refractions.0.full.webp": "27a06ed2dfb3fffd",
+  "MAIN.Refractions.0.webp": "4ccf0c48aadc00b6",
+  "MAIN.Refractions.1.full.webp": "75fe031e86760486",
+  "MAIN.Refractions.1.webp": "538d96099884149d",
   "SNOW.Amount.0.full.webp": "f86fe21b2938e8a6",
   "SNOW.Amount.0.webp": "edc4639f319a2b8d",
   "SNOW.Amount.1.full.webp": "d02fe0ffec4f5895",
@@ -177,6 +185,54 @@
    "full": [
     "SNOW.Amount.0.full.webp",
     "SNOW.Amount.1.full.webp"
+   ],
+   "resolution": [
+    1920,
+    1080
+   ],
+   "version": "10.11.2026.1257"
+  },
+  "MAIN.MaxDrops": {
+   "kind": "int",
+   "values": [
+    "100",
+    "2000"
+   ],
+   "frameOfValue": {
+    "100": 0,
+    "2000": 1
+   },
+   "stills": [
+    "MAIN.MaxDrops.0.webp",
+    "MAIN.MaxDrops.1.webp"
+   ],
+   "full": [
+    "MAIN.MaxDrops.0.full.webp",
+    "MAIN.MaxDrops.1.full.webp"
+   ],
+   "resolution": [
+    1920,
+    1080
+   ],
+   "version": "10.11.2026.1257"
+  },
+  "MAIN.Refractions": {
+   "kind": "bool",
+   "values": [
+    "0",
+    "1"
+   ],
+   "frameOfValue": {
+    "0": 0,
+    "1": 1
+   },
+   "stills": [
+    "MAIN.Refractions.0.webp",
+    "MAIN.Refractions.1.webp"
+   ],
+   "full": [
+    "MAIN.Refractions.0.full.webp",
+    "MAIN.Refractions.1.full.webp"
    ],
    "resolution": [
     1920,

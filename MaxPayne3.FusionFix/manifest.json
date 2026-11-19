@@ -67,6 +67,14 @@
   "MAIN.CustomFOV.8.webp": "1112450d9f4bebfa",
   "MAIN.CustomFOV.9.webp": "890b4dfc967f6a4d",
   "MAIN.CustomFOV.mp4": "a07fd0f7c732fb27",
+  "MAIN.GamepadIcons.0.webp": "1dfa6574ad8a45f7",
+  "MAIN.GamepadIcons.1.webp": "0253de2e56e9a450",
+  "MAIN.GamepadIcons.2.webp": "0fa7a26e09c24982",
+  "MAIN.GamepadIcons.3.webp": "0458659be379631a",
+  "MAIN.GamepadIcons.4.webp": "fb77fb05e82a11cc",
+  "MAIN.GamepadIcons.5.webp": "2b1891a0de17ab0b",
+  "MAIN.GamepadIcons.6.webp": "090013ce951498f5",
+  "MAIN.GamepadIcons.7.webp": "e72a67c0b90d693d",
   "MAIN.HudAspectRatioConstraint.0.full.webp": "92509ac5e315ec50",
   "MAIN.HudAspectRatioConstraint.0.webp": "bb4abe8300ea69fb",
   "MAIN.HudAspectRatioConstraint.1.full.webp": "820fef0ee9ed6bad",
@@ -499,6 +507,54 @@
    "full": [
     "MAIN.ConsoleSubtitles.0.full.webp",
     "MAIN.ConsoleSubtitles.1.full.webp"
+   ],
+   "resolution": [
+    1920,
+    1080
+   ],
+   "version": "18.11.2026.2205"
+  },
+  "MAIN.GamepadIcons": {
+   "kind": "choice",
+   "values": [
+    "0",
+    "1",
+    "2",
+    "3",
+    "4",
+    "5",
+    "6",
+    "7"
+   ],
+   "frameOfValue": {
+    "0": 0,
+    "1": 1,
+    "2": 2,
+    "3": 3,
+    "4": 4,
+    "5": 5,
+    "6": 6,
+    "7": 7
+   },
+   "stills": [
+    "MAIN.GamepadIcons.0.webp",
+    "MAIN.GamepadIcons.1.webp",
+    "MAIN.GamepadIcons.2.webp",
+    "MAIN.GamepadIcons.3.webp",
+    "MAIN.GamepadIcons.4.webp",
+    "MAIN.GamepadIcons.5.webp",
+    "MAIN.GamepadIcons.6.webp",
+    "MAIN.GamepadIcons.7.webp"
+   ],
+   "full": [
+    "MAIN.GamepadIcons.0.webp",
+    "MAIN.GamepadIcons.1.webp",
+    "MAIN.GamepadIcons.2.webp",
+    "MAIN.GamepadIcons.3.webp",
+    "MAIN.GamepadIcons.4.webp",
+    "MAIN.GamepadIcons.5.webp",
+    "MAIN.GamepadIcons.6.webp",
+    "MAIN.GamepadIcons.7.webp"
    ],
    "resolution": [
     1920,
