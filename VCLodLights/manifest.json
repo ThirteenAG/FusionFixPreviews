@@ -71,7 +71,11 @@
   "LIGHTS.DistantTraffic.1.full.webp": "cfbe773a15cd3b04",
   "LIGHTS.DistantTraffic.1.webp": "4fedf28e698cf002",
   "LIGHTS.DistantTraffic.2.full.webp": "eb07c0883a62ae5a",
-  "LIGHTS.DistantTraffic.2.webp": "58d8c91613db41e2"
+  "LIGHTS.DistantTraffic.2.webp": "58d8c91613db41e2",
+  "LIGHTS.Searchlights.0.full.webp": "c85e8dc0d7b4a212",
+  "LIGHTS.Searchlights.0.webp": "5c84e82142d63a86",
+  "LIGHTS.Searchlights.1.full.webp": "1241a35e5e292fc2",
+  "LIGHTS.Searchlights.1.webp": "9926e4321cefbffe"
  },
  "settings": {
   "DISTANCE.ViewDistance": {
@@ -323,6 +327,30 @@
     "LIGHTS.DistantLightSize.2.full.webp",
     "LIGHTS.DistantLightSize.3.full.webp",
     "LIGHTS.DistantLightSize.4.full.webp"
+   ],
+   "resolution": [
+    1920,
+    1080
+   ],
+   "version": "24.10.2026.2253"
+  },
+  "LIGHTS.Searchlights": {
+   "kind": "bool",
+   "values": [
+    "0",
+    "1"
+   ],
+   "frameOfValue": {
+    "0": 0,
+    "1": 1
+   },
+   "stills": [
+    "LIGHTS.Searchlights.0.webp",
+    "LIGHTS.Searchlights.1.webp"
+   ],
+   "full": [
+    "LIGHTS.Searchlights.0.full.webp",
+    "LIGHTS.Searchlights.1.full.webp"
    ],
    "resolution": [
     1920,

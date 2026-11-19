@@ -1,7 +1,7 @@
 {
  "format": 1,
  "plugin": "IIILodLights",
- "version": "24.10.2026.2253",
+ "version": "14.11.2026.1245",
  "resolution": [
   1920,
   1080
@@ -65,7 +65,17 @@
   "LIGHTS.DistantLights.0.full.webp": "74fcc44127ccb692",
   "LIGHTS.DistantLights.0.webp": "fde9b43cdaaa3ac2",
   "LIGHTS.DistantLights.1.full.webp": "44579ca3e5a0a97e",
-  "LIGHTS.DistantLights.1.webp": "65df20ff99d5d8ca"
+  "LIGHTS.DistantLights.1.webp": "65df20ff99d5d8ca",
+  "LIGHTS.DistantTraffic.0.full.webp": "03f5a4173a835698",
+  "LIGHTS.DistantTraffic.0.webp": "2caae9d3e9fd7758",
+  "LIGHTS.DistantTraffic.1.full.webp": "027d4ddd3910e02b",
+  "LIGHTS.DistantTraffic.1.webp": "094391a048583447",
+  "LIGHTS.DistantTraffic.2.full.webp": "cc3b60ada9d82f5e",
+  "LIGHTS.DistantTraffic.2.webp": "f2b1dd5806a890ad",
+  "LIGHTS.Searchlights.0.full.webp": "678077c93757e4c3",
+  "LIGHTS.Searchlights.0.webp": "6c9546b57d9c8d76",
+  "LIGHTS.Searchlights.1.full.webp": "39b5fc93a1ef12c3",
+  "LIGHTS.Searchlights.1.webp": "8b078e8048b92faf"
  },
  "settings": {
   "DISTANCE.DetailDistance": {
@@ -295,6 +305,58 @@
     1080
    ],
    "version": "24.10.2026.2253"
+  },
+  "LIGHTS.DistantTraffic": {
+   "kind": "choice",
+   "values": [
+    "0",
+    "1",
+    "2"
+   ],
+   "frameOfValue": {
+    "0": 0,
+    "1": 1,
+    "2": 2
+   },
+   "stills": [
+    "LIGHTS.DistantTraffic.0.webp",
+    "LIGHTS.DistantTraffic.1.webp",
+    "LIGHTS.DistantTraffic.2.webp"
+   ],
+   "full": [
+    "LIGHTS.DistantTraffic.0.full.webp",
+    "LIGHTS.DistantTraffic.1.full.webp",
+    "LIGHTS.DistantTraffic.2.full.webp"
+   ],
+   "resolution": [
+    1920,
+    1080
+   ],
+   "version": "14.11.2026.1245"
+  },
+  "LIGHTS.Searchlights": {
+   "kind": "bool",
+   "values": [
+    "0",
+    "1"
+   ],
+   "frameOfValue": {
+    "0": 0,
+    "1": 1
+   },
+   "stills": [
+    "LIGHTS.Searchlights.0.webp",
+    "LIGHTS.Searchlights.1.webp"
+   ],
+   "full": [
+    "LIGHTS.Searchlights.0.full.webp",
+    "LIGHTS.Searchlights.1.full.webp"
+   ],
+   "resolution": [
+    1920,
+    1080
+   ],
+   "version": "14.11.2026.1245"
   }
  }
 }

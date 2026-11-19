@@ -22,6 +22,10 @@
   "GRAPHICS.FullscreenMenuBackground.0.webp": "434ce573caa49c0e",
   "GRAPHICS.FullscreenMenuBackground.1.full.webp": "db57eed1d607f02b",
   "GRAPHICS.FullscreenMenuBackground.1.webp": "8d0e9169909d2dee",
+  "GRAPHICS.NearLightSquares.0.full.webp": "d168756e7ab32188",
+  "GRAPHICS.NearLightSquares.0.webp": "2e9af3866e06e403",
+  "GRAPHICS.NearLightSquares.1.full.webp": "5cd02fffd5dd23e9",
+  "GRAPHICS.NearLightSquares.1.webp": "90dbf3f235ffa633",
   "GRAPHICS.TransparentMenu.0.full.webp": "546740f13258042a",
   "GRAPHICS.TransparentMenu.0.webp": "f02ae1b1f5b171fd",
   "GRAPHICS.TransparentMenu.1.full.webp": "3a66af71e7c24b1a",
@@ -766,6 +770,30 @@
     "MAIN.CutsceneBorders.1.full.webp",
     "MAIN.CutsceneBorders.2.full.webp",
     "MAIN.CutsceneBorders.3.full.webp"
+   ],
+   "resolution": [
+    1920,
+    1080
+   ],
+   "version": "18.11.2026.817"
+  },
+  "GRAPHICS.NearLightSquares": {
+   "kind": "bool",
+   "values": [
+    "0",
+    "1"
+   ],
+   "frameOfValue": {
+    "0": 0,
+    "1": 1
+   },
+   "stills": [
+    "GRAPHICS.NearLightSquares.0.webp",
+    "GRAPHICS.NearLightSquares.1.webp"
+   ],
+   "full": [
+    "GRAPHICS.NearLightSquares.0.full.webp",
+    "GRAPHICS.NearLightSquares.1.full.webp"
    ],
    "resolution": [
     1920,
