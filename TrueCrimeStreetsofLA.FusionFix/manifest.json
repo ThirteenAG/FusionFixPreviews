@@ -1,10 +1,10 @@
 {
  "format": 1,
  "plugin": "TrueCrimeStreetsofLA.FusionFix",
- "version": "11.11.2026.1556",
+ "version": "19.11.2026.16",
  "resolution": [
-  1914,
-  1007
+  1600,
+  900
  ],
  "fps": 30,
  "files": {
@@ -44,6 +44,14 @@
   "MAIN.HudAspectRatioConstraint.1.webp": "2eab28d721dc71b0",
   "MAIN.HudAspectRatioConstraint.2.full.webp": "8b7bbb46faffcf6f",
   "MAIN.HudAspectRatioConstraint.2.webp": "6f0211c5535dadd8",
+  "MAIN.HudScale.0.full.webp": "66be5edab02b0940",
+  "MAIN.HudScale.0.webp": "1f15f6f183a56240",
+  "MAIN.HudScale.1.full.webp": "e73156e0c77fbaaf",
+  "MAIN.HudScale.1.webp": "b1597ec1527348f6",
+  "MAIN.HudScale.2.full.webp": "9f3b251920df60c7",
+  "MAIN.HudScale.2.webp": "02ae384bed32800f",
+  "MAIN.HudScale.3.full.webp": "55f333d5c881d320",
+  "MAIN.HudScale.3.webp": "f4bfe1787eb275fe",
   "MAIN.SkipIntro.0.full.webp": "c1c8bee29e4fa052",
   "MAIN.SkipIntro.0.webp": "cf45bcaac04b032d",
   "MAIN.SkipIntro.1.full.webp": "96fdc72732653be9",
@@ -241,6 +249,38 @@
     1007
    ],
    "version": "11.11.2026.1556"
+  },
+  "MAIN.HudScale": {
+   "kind": "float",
+   "values": [
+    "0.5",
+    "1.0",
+    "1.5",
+    "2.0"
+   ],
+   "frameOfValue": {
+    "0.5": 0,
+    "1.0": 1,
+    "1.5": 2,
+    "2.0": 3
+   },
+   "stills": [
+    "MAIN.HudScale.0.webp",
+    "MAIN.HudScale.1.webp",
+    "MAIN.HudScale.2.webp",
+    "MAIN.HudScale.3.webp"
+   ],
+   "full": [
+    "MAIN.HudScale.0.full.webp",
+    "MAIN.HudScale.1.full.webp",
+    "MAIN.HudScale.2.full.webp",
+    "MAIN.HudScale.3.full.webp"
+   ],
+   "resolution": [
+    1600,
+    900
+   ],
+   "version": "19.11.2026.16"
   }
  }
 }
