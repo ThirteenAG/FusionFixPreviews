@@ -1,7 +1,7 @@
 {
  "format": 1,
  "plugin": "GTAIV.EFLC.FusionFix",
- "version": "5.1.3.0",
+ "version": "18.11.2026.1906",
  "resolution": [
   1920,
   1080
@@ -171,6 +171,10 @@
   "SHADOWS.ForceShadowFilter.1.webp": "7629cdd8ac4a1b1f",
   "SHADOWS.ForceShadowFilter.2.full.webp": "229b7992523fa29d",
   "SHADOWS.ForceShadowFilter.2.webp": "b3c2886386c3edfe",
+  "SHADOWS.HeadlightShadows.0.full.webp": "2f68bcb9673d3ab7",
+  "SHADOWS.HeadlightShadows.0.webp": "c018d6769b9f2f4f",
+  "SHADOWS.HeadlightShadows.1.full.webp": "9aa11f8ff2b16f8f",
+  "SHADOWS.HeadlightShadows.1.webp": "56f7e70c8852a0d5",
   "SHADOWS.HighResolutionShadows.0.full.webp": "950e2a570d04a2ce",
   "SHADOWS.HighResolutionShadows.0.webp": "f3a9e5aa7a327f42",
   "SHADOWS.HighResolutionShadows.1.full.webp": "2afb7bd5824e2e64",
@@ -179,6 +183,18 @@
   "SHADOWS.ShadowFilter.0.webp": "0ad9e2dfdaa25c20",
   "SHADOWS.ShadowFilter.1.full.webp": "cfb03944b8e0fb71",
   "SHADOWS.ShadowFilter.1.webp": "c3e955c5fac50c8a",
+  "SHADOWS.StreetlightShadows.0.full.webp": "87bfa01d32a4ff7e",
+  "SHADOWS.StreetlightShadows.0.webp": "9fcde2614665bf7f",
+  "SHADOWS.StreetlightShadows.1.full.webp": "127d547fabda9746",
+  "SHADOWS.StreetlightShadows.1.webp": "537f37f1529012f8",
+  "SHADOWS.StreetlightShadows.2.full.webp": "e1f2beabf96f186b",
+  "SHADOWS.StreetlightShadows.2.webp": "e4c12c95949f9e7f",
+  "SHADOWS.StreetlightShadows.3.full.webp": "5cfe96ad9320bd51",
+  "SHADOWS.StreetlightShadows.3.webp": "72d8c2af9245ccea",
+  "SHADOWS.VehicleNightShadows.0.full.webp": "0ba6dc717854cbef",
+  "SHADOWS.VehicleNightShadows.0.webp": "71a4c22b11965519",
+  "SHADOWS.VehicleNightShadows.1.full.webp": "b4e45d2544e438bc",
+  "SHADOWS.VehicleNightShadows.1.webp": "836d33f83c707a64",
   "SUNSHAFTS.SunShaftsDecay.0.full.webp": "2b951444907d1ca4",
   "SUNSHAFTS.SunShaftsDecay.0.webp": "bbd35c7ee9daa963",
   "SUNSHAFTS.SunShaftsDecay.1.full.webp": "01227231a99ed1b0",
@@ -1116,6 +1132,86 @@
     1080
    ],
    "version": "5.1.3.0"
+  },
+  "SHADOWS.StreetlightShadows": {
+   "kind": "choice",
+   "values": [
+    "0",
+    "1",
+    "2",
+    "3"
+   ],
+   "frameOfValue": {
+    "0": 0,
+    "1": 1,
+    "2": 2,
+    "3": 3
+   },
+   "stills": [
+    "SHADOWS.StreetlightShadows.0.webp",
+    "SHADOWS.StreetlightShadows.1.webp",
+    "SHADOWS.StreetlightShadows.2.webp",
+    "SHADOWS.StreetlightShadows.3.webp"
+   ],
+   "full": [
+    "SHADOWS.StreetlightShadows.0.full.webp",
+    "SHADOWS.StreetlightShadows.1.full.webp",
+    "SHADOWS.StreetlightShadows.2.full.webp",
+    "SHADOWS.StreetlightShadows.3.full.webp"
+   ],
+   "resolution": [
+    1920,
+    1080
+   ],
+   "version": "18.11.2026.1906"
+  },
+  "SHADOWS.HeadlightShadows": {
+   "kind": "bool",
+   "values": [
+    "0",
+    "1"
+   ],
+   "frameOfValue": {
+    "0": 0,
+    "1": 1
+   },
+   "stills": [
+    "SHADOWS.HeadlightShadows.0.webp",
+    "SHADOWS.HeadlightShadows.1.webp"
+   ],
+   "full": [
+    "SHADOWS.HeadlightShadows.0.full.webp",
+    "SHADOWS.HeadlightShadows.1.full.webp"
+   ],
+   "resolution": [
+    1920,
+    1080
+   ],
+   "version": "18.11.2026.1906"
+  },
+  "SHADOWS.VehicleNightShadows": {
+   "kind": "bool",
+   "values": [
+    "0",
+    "1"
+   ],
+   "frameOfValue": {
+    "0": 0,
+    "1": 1
+   },
+   "stills": [
+    "SHADOWS.VehicleNightShadows.0.webp",
+    "SHADOWS.VehicleNightShadows.1.webp"
+   ],
+   "full": [
+    "SHADOWS.VehicleNightShadows.0.full.webp",
+    "SHADOWS.VehicleNightShadows.1.full.webp"
+   ],
+   "resolution": [
+    1920,
+    1080
+   ],
+   "version": "18.11.2026.1906"
   }
  }
 }
