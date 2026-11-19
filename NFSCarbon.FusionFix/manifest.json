@@ -1,7 +1,7 @@
 {
  "format": 1,
  "plugin": "NFSCarbon.FusionFix",
- "version": "27.10.2026.638",
+ "version": "17.11.2026.1531",
  "resolution": [
   1920,
   810
@@ -30,6 +30,14 @@
   "GRAPHICS.Scaling.1.webp": "33c5b211d5759102",
   "GRAPHICS.Scaling.2.full.webp": "6024d3a4556fc628",
   "GRAPHICS.Scaling.2.webp": "47a7e2670a5bcaf5",
+  "MAIN.CutsceneBorders.0.full.webp": "7bf4f2c00b14d3b0",
+  "MAIN.CutsceneBorders.0.webp": "aedc92937d0bf282",
+  "MAIN.CutsceneBorders.1.full.webp": "e6933aba898dec34",
+  "MAIN.CutsceneBorders.1.webp": "e2f272d99d5264eb",
+  "MAIN.CutsceneBorders.2.full.webp": "9034aff0b9909502",
+  "MAIN.CutsceneBorders.2.webp": "3da5f1d67e562153",
+  "MAIN.CutsceneBorders.3.full.webp": "9af5844d2ab4c260",
+  "MAIN.CutsceneBorders.3.webp": "41b0b9e2d2d5d6f4",
   "MAIN.FMVWidescreenMode.0.full.webp": "8d18d7f6016bd08a",
   "MAIN.FMVWidescreenMode.0.webp": "fb51396e64d6f7b9",
   "MAIN.FMVWidescreenMode.1.full.webp": "1a5ddfbb8c7ec30d",
@@ -44,6 +52,12 @@
   "MAIN.FOVFactor.3.webp": "48955678c7df89ec",
   "MAIN.FOVFactor.4.full.webp": "a6df179140fdab8d",
   "MAIN.FOVFactor.4.webp": "70e5d7e3c8bc9a7d",
+  "MAIN.GamepadIcons.0.full.webp": "fa48e5185e4a87cf",
+  "MAIN.GamepadIcons.0.webp": "fe4719c547766114",
+  "MAIN.GamepadIcons.1.full.webp": "270cce922c509ff3",
+  "MAIN.GamepadIcons.1.webp": "96b20b1081930fe7",
+  "MAIN.GamepadIcons.2.full.webp": "01585fd8f54b834a",
+  "MAIN.GamepadIcons.2.webp": "0b2a3924c4378302",
   "MAIN.HudAspectRatioConstraint.0.full.webp": "825695dcfd324e4f",
   "MAIN.HudAspectRatioConstraint.0.webp": "db684c576439bc98",
   "MAIN.HudAspectRatioConstraint.1.full.webp": "80ddf663e0d3fddf",
@@ -275,6 +289,66 @@
     810
    ],
    "version": "27.10.2026.210"
+  },
+  "MAIN.GamepadIcons": {
+   "kind": "choice",
+   "values": [
+    "0",
+    "1",
+    "2"
+   ],
+   "frameOfValue": {
+    "0": 0,
+    "1": 1,
+    "2": 2
+   },
+   "stills": [
+    "MAIN.GamepadIcons.0.webp",
+    "MAIN.GamepadIcons.1.webp",
+    "MAIN.GamepadIcons.2.webp"
+   ],
+   "full": [
+    "MAIN.GamepadIcons.0.full.webp",
+    "MAIN.GamepadIcons.1.full.webp",
+    "MAIN.GamepadIcons.2.full.webp"
+   ],
+   "resolution": [
+    1920,
+    1080
+   ],
+   "version": "17.11.2026.1531"
+  },
+  "MAIN.CutsceneBorders": {
+   "kind": "choice",
+   "values": [
+    "0",
+    "1",
+    "2",
+    "3"
+   ],
+   "frameOfValue": {
+    "0": 0,
+    "1": 1,
+    "2": 2,
+    "3": 3
+   },
+   "stills": [
+    "MAIN.CutsceneBorders.0.webp",
+    "MAIN.CutsceneBorders.1.webp",
+    "MAIN.CutsceneBorders.2.webp",
+    "MAIN.CutsceneBorders.3.webp"
+   ],
+   "full": [
+    "MAIN.CutsceneBorders.0.full.webp",
+    "MAIN.CutsceneBorders.1.full.webp",
+    "MAIN.CutsceneBorders.2.full.webp",
+    "MAIN.CutsceneBorders.3.full.webp"
+   ],
+   "resolution": [
+    1920,
+    810
+   ],
+   "version": "17.11.2026.1531"
   }
  }
 }

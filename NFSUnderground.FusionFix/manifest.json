@@ -1,7 +1,7 @@
 {
  "format": 1,
  "plugin": "NFSUnderground.FusionFix",
- "version": "9.11.2026.1444",
+ "version": "18.11.2026.228",
  "resolution": [
   1920,
   1080
@@ -37,6 +37,12 @@
   "MAIN.FOVFactor.4.webp": "1c15832ea6f6a4cb",
   "MAIN.FOVFactor.5.webp": "020513783b6871d7",
   "MAIN.FOVFactor.6.webp": "f6183d2a9ebdaa74",
+  "MAIN.GamepadIcons.0.full.webp": "4933fc8d7c0ca6ed",
+  "MAIN.GamepadIcons.0.webp": "9a3ca519f6dc45dc",
+  "MAIN.GamepadIcons.1.full.webp": "c58b818954af98ef",
+  "MAIN.GamepadIcons.1.webp": "eacec4839eaf23d9",
+  "MAIN.GamepadIcons.2.full.webp": "9d08dc40a71f22f6",
+  "MAIN.GamepadIcons.2.webp": "239913d1d9cb57b0",
   "MAIN.HudAspectRatioConstraint.0.full.webp": "f8757389b0a22c6f",
   "MAIN.HudAspectRatioConstraint.0.webp": "f9d25cf48ccdd31d",
   "MAIN.HudAspectRatioConstraint.1.full.webp": "92046277fe8842bf",
@@ -240,6 +246,34 @@
     1080
    ],
    "version": "9.11.2026.1444"
+  },
+  "MAIN.GamepadIcons": {
+   "kind": "choice",
+   "values": [
+    "0",
+    "1",
+    "2"
+   ],
+   "frameOfValue": {
+    "0": 0,
+    "1": 1,
+    "2": 2
+   },
+   "stills": [
+    "MAIN.GamepadIcons.0.webp",
+    "MAIN.GamepadIcons.1.webp",
+    "MAIN.GamepadIcons.2.webp"
+   ],
+   "full": [
+    "MAIN.GamepadIcons.0.full.webp",
+    "MAIN.GamepadIcons.1.full.webp",
+    "MAIN.GamepadIcons.2.full.webp"
+   ],
+   "resolution": [
+    1920,
+    1080
+   ],
+   "version": "18.11.2026.228"
   }
  }
 }
