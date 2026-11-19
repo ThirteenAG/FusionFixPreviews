@@ -1,7 +1,7 @@
 {
  "format": 1,
  "plugin": "GTA3.FusionFix",
- "version": "9.11.2026.1444",
+ "version": "18.11.2026.817",
  "resolution": [
   1920,
   1080
@@ -20,15 +20,39 @@
   "GRAPHICS.FullscreenMenuBackground.0.webp": "b01a90a49a42a219",
   "GRAPHICS.FullscreenMenuBackground.1.full.webp": "d3b0f3152536426f",
   "GRAPHICS.FullscreenMenuBackground.1.webp": "5ca32558e54a5a3a",
+  "GRAPHICS.NearLightSquares.0.full.webp": "b5b0222155559259",
+  "GRAPHICS.NearLightSquares.0.webp": "0a6d612de8f31e6f",
+  "GRAPHICS.NearLightSquares.1.full.webp": "41662c6acab7653a",
+  "GRAPHICS.NearLightSquares.1.webp": "d16803eeec837f3a",
   "GRAPHICS.TransparentMenu.0.webp": "102c4cfeaf393f62",
   "GRAPHICS.TransparentMenu.1.webp": "878d371fa3b91e9f",
+  "MAIN.CutsceneBorders.0.full.webp": "8779f2fee4aa607c",
+  "MAIN.CutsceneBorders.0.webp": "b846f09be0c3647b",
+  "MAIN.CutsceneBorders.1.full.webp": "4f7a4c8545ea2432",
+  "MAIN.CutsceneBorders.1.webp": "741076e231d7d342",
+  "MAIN.CutsceneBorders.2.full.webp": "8779f2fee4aa607c",
+  "MAIN.CutsceneBorders.2.webp": "b846f09be0c3647b",
+  "MAIN.CutsceneBorders.3.full.webp": "4f7a4c8545ea2432",
+  "MAIN.CutsceneBorders.3.webp": "741076e231d7d342",
   "MAIN.FMVWidescreenMode.0.webp": "fac5b77084bf0a5c",
   "MAIN.FMVWidescreenMode.1.webp": "f1a3c47db1f1f1c8",
   "MAIN.FOVFactor.0.webp": "22896737b4dfb7cd",
   "MAIN.FOVFactor.1.webp": "413713d93fa99229",
+  "MAIN.FOVFactor.10.webp": "a75dd2895807cfc5",
+  "MAIN.FOVFactor.11.webp": "7e7be1f1fc4129c4",
+  "MAIN.FOVFactor.12.webp": "d3895a073810b7d9",
+  "MAIN.FOVFactor.13.webp": "c9bd3771aa528946",
+  "MAIN.FOVFactor.14.webp": "f359c9bc76f98989",
+  "MAIN.FOVFactor.15.webp": "6bebdd7e1e143136",
   "MAIN.FOVFactor.2.webp": "d4058ab1534de565",
   "MAIN.FOVFactor.3.webp": "8024aa360df02251",
   "MAIN.FOVFactor.4.webp": "cdf54627fbeda82e",
+  "MAIN.FOVFactor.5.webp": "9179e2874c1f6a8b",
+  "MAIN.FOVFactor.6.webp": "29d9def7963975d0",
+  "MAIN.FOVFactor.7.webp": "ebe6c25e1ef899ef",
+  "MAIN.FOVFactor.8.webp": "97c56df76c1bd2cf",
+  "MAIN.FOVFactor.9.webp": "4139d16154ba349c",
+  "MAIN.FOVFactor.mp4": "2cb451c84630243f",
   "MAIN.FreeCamera.0.webp": "716bffe63b7786d7",
   "MAIN.FreeCamera.1.webp": "1e2824dbb9989ff0",
   "MAIN.GamepadIcons.0.webp": "0e1400b8c953501a",
@@ -107,19 +131,7 @@
   "MISC.HQRadarDisc.1.webp": "cf4a7c77f92d3fcd",
   "MISC.ReplaceTextShadowWithOutline.0.webp": "ca8d907670285079",
   "MISC.ReplaceTextShadowWithOutline.1.webp": "068151353c52f48d",
-  "MISC.ReplaceTextShadowWithOutline.2.webp": "5e559960dee925c1",
-  "MAIN.FOVFactor.5.webp": "9179e2874c1f6a8b",
-  "MAIN.FOVFactor.6.webp": "29d9def7963975d0",
-  "MAIN.FOVFactor.7.webp": "ebe6c25e1ef899ef",
-  "MAIN.FOVFactor.8.webp": "97c56df76c1bd2cf",
-  "MAIN.FOVFactor.9.webp": "4139d16154ba349c",
-  "MAIN.FOVFactor.10.webp": "a75dd2895807cfc5",
-  "MAIN.FOVFactor.11.webp": "7e7be1f1fc4129c4",
-  "MAIN.FOVFactor.12.webp": "d3895a073810b7d9",
-  "MAIN.FOVFactor.13.webp": "c9bd3771aa528946",
-  "MAIN.FOVFactor.14.webp": "f359c9bc76f98989",
-  "MAIN.FOVFactor.15.webp": "6bebdd7e1e143136",
-  "MAIN.FOVFactor.mp4": "2cb451c84630243f"
+  "MISC.ReplaceTextShadowWithOutline.2.webp": "5e559960dee925c1"
  },
  "settings": {
   "MAIN.HudWidthScale": {
@@ -835,6 +847,62 @@
     1080
    ],
    "version": "9.11.2026.1444"
+  },
+  "MAIN.CutsceneBorders": {
+   "kind": "choice",
+   "values": [
+    "0",
+    "1",
+    "2",
+    "3"
+   ],
+   "frameOfValue": {
+    "0": 0,
+    "1": 1,
+    "2": 2,
+    "3": 3
+   },
+   "stills": [
+    "MAIN.CutsceneBorders.0.webp",
+    "MAIN.CutsceneBorders.1.webp",
+    "MAIN.CutsceneBorders.2.webp",
+    "MAIN.CutsceneBorders.3.webp"
+   ],
+   "full": [
+    "MAIN.CutsceneBorders.0.full.webp",
+    "MAIN.CutsceneBorders.1.full.webp",
+    "MAIN.CutsceneBorders.2.full.webp",
+    "MAIN.CutsceneBorders.3.full.webp"
+   ],
+   "resolution": [
+    1920,
+    1080
+   ],
+   "version": "18.11.2026.817"
+  },
+  "GRAPHICS.NearLightSquares": {
+   "kind": "bool",
+   "values": [
+    "0",
+    "1"
+   ],
+   "frameOfValue": {
+    "0": 0,
+    "1": 1
+   },
+   "stills": [
+    "GRAPHICS.NearLightSquares.0.webp",
+    "GRAPHICS.NearLightSquares.1.webp"
+   ],
+   "full": [
+    "GRAPHICS.NearLightSquares.0.full.webp",
+    "GRAPHICS.NearLightSquares.1.full.webp"
+   ],
+   "resolution": [
+    1920,
+    1080
+   ],
+   "version": "18.11.2026.817"
   }
  }
 }
