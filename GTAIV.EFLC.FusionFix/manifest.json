@@ -44,6 +44,14 @@
   "MISC.Antialiasing.4.webp": "7d6c879001af570c",
   "MISC.Antialiasing.5.full.webp": "c1efa0b36ea3cd61",
   "MISC.Antialiasing.5.webp": "08c87e015e8b5938",
+  "MISC.Buttons.0.webp": "3abb247a00ce5b96",
+  "MISC.Buttons.1.webp": "26b20765927d8a94",
+  "MISC.Buttons.2.webp": "04294913e952bdb7",
+  "MISC.Buttons.3.webp": "04e6de820b44b47c",
+  "MISC.Buttons.4.webp": "a6b2383ecfbb617b",
+  "MISC.Buttons.5.webp": "5b39b2cc5b440662",
+  "MISC.Buttons.6.webp": "de6646636e1cbbfa",
+  "MISC.Buttons.7.webp": "c94b9e8ba945068e",
   "MISC.CenteredFootCam.0.full.webp": "7fd3d6fb1f2b4bfc",
   "MISC.CenteredFootCam.0.webp": "238616fbf56f42e0",
   "MISC.CenteredFootCam.1.full.webp": "1398f8435db3b87d",
@@ -1206,6 +1214,54 @@
    "full": [
     "SHADOWS.VehicleNightShadows.0.full.webp",
     "SHADOWS.VehicleNightShadows.1.full.webp"
+   ],
+   "resolution": [
+    1920,
+    1080
+   ],
+   "version": "18.11.2026.1906"
+  },
+  "MISC.Buttons": {
+   "kind": "choice",
+   "values": [
+    "0",
+    "1",
+    "2",
+    "3",
+    "4",
+    "5",
+    "6",
+    "7"
+   ],
+   "frameOfValue": {
+    "0": 0,
+    "1": 1,
+    "2": 2,
+    "3": 3,
+    "4": 4,
+    "5": 5,
+    "6": 6,
+    "7": 7
+   },
+   "stills": [
+    "MISC.Buttons.0.webp",
+    "MISC.Buttons.1.webp",
+    "MISC.Buttons.2.webp",
+    "MISC.Buttons.3.webp",
+    "MISC.Buttons.4.webp",
+    "MISC.Buttons.5.webp",
+    "MISC.Buttons.6.webp",
+    "MISC.Buttons.7.webp"
+   ],
+   "full": [
+    "MISC.Buttons.0.webp",
+    "MISC.Buttons.1.webp",
+    "MISC.Buttons.2.webp",
+    "MISC.Buttons.3.webp",
+    "MISC.Buttons.4.webp",
+    "MISC.Buttons.5.webp",
+    "MISC.Buttons.6.webp",
+    "MISC.Buttons.7.webp"
    ],
    "resolution": [
     1920,

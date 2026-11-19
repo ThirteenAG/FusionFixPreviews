@@ -1,17 +1,45 @@
 {
  "format": 1,
  "plugin": "IVLodLights",
- "version": "24.10.2026.2253",
+ "version": "25.10.2026.1942",
  "resolution": [
   1920,
   1080
  ],
  "fps": 30,
  "files": {
+  "LODLIGHTS.CoronaAlphaMultiplier.0.full.webp": "fc881f5df729e113",
+  "LODLIGHTS.CoronaAlphaMultiplier.0.webp": "2bca05940e112d8e",
+  "LODLIGHTS.CoronaAlphaMultiplier.1.full.webp": "a4dd26911b62ad3d",
+  "LODLIGHTS.CoronaAlphaMultiplier.1.webp": "dbb762c8c87138b4",
+  "LODLIGHTS.CoronaAlphaMultiplier.2.full.webp": "a5cdcf4cbad29f1e",
+  "LODLIGHTS.CoronaAlphaMultiplier.2.webp": "83d1f057109cbb13",
+  "LODLIGHTS.CoronaAlphaMultiplier.3.full.webp": "5dd9195b51d6d7ed",
+  "LODLIGHTS.CoronaAlphaMultiplier.3.webp": "7581bc596df8bef5",
+  "LODLIGHTS.CoronaRadiusMultiplier.0.full.webp": "c2bf27331e25554a",
+  "LODLIGHTS.CoronaRadiusMultiplier.0.webp": "75f0459da71ac7b1",
+  "LODLIGHTS.CoronaRadiusMultiplier.1.full.webp": "db4c6ef533c9fd0a",
+  "LODLIGHTS.CoronaRadiusMultiplier.1.webp": "019a8668145e69be",
+  "LODLIGHTS.CoronaRadiusMultiplier.2.full.webp": "828e49961e46d8c1",
+  "LODLIGHTS.CoronaRadiusMultiplier.2.webp": "5a9644ec59ef73fc",
+  "LODLIGHTS.CoronaRadiusMultiplier.3.full.webp": "18c89bcd6609e00d",
+  "LODLIGHTS.CoronaRadiusMultiplier.3.webp": "5d5bf3c364ae37fb",
+  "LODLIGHTS.DrawDistance.0.full.webp": "64afda6ad4f41353",
+  "LODLIGHTS.DrawDistance.0.webp": "57e25bf2680a2722",
+  "LODLIGHTS.DrawDistance.1.full.webp": "c2a0bf2e90d9a837",
+  "LODLIGHTS.DrawDistance.1.webp": "819f3efa9a6204ad",
+  "LODLIGHTS.DrawDistance.2.full.webp": "5887e3931b2d4be2",
+  "LODLIGHTS.DrawDistance.2.webp": "944db3343895d28a",
+  "LODLIGHTS.DrawDistance.3.full.webp": "fbb9a3e0d8a60394",
+  "LODLIGHTS.DrawDistance.3.webp": "da53f5ce02301e8b",
   "LODLIGHTS.RenderLodLights.0.full.webp": "a5ac2011b174fc3f",
   "LODLIGHTS.RenderLodLights.0.webp": "803b2a01094da134",
   "LODLIGHTS.RenderLodLights.1.full.webp": "70a791e392fc05c6",
-  "LODLIGHTS.RenderLodLights.1.webp": "a2e06a69420e5ab2"
+  "LODLIGHTS.RenderLodLights.1.webp": "a2e06a69420e5ab2",
+  "LODLIGHTS.SlightlyIncreaseRadiusWithDistance.0.full.webp": "bcf3bfaf23d61e40",
+  "LODLIGHTS.SlightlyIncreaseRadiusWithDistance.0.webp": "97b796b0341c397e",
+  "LODLIGHTS.SlightlyIncreaseRadiusWithDistance.1.full.webp": "8bfd27269b9a9461",
+  "LODLIGHTS.SlightlyIncreaseRadiusWithDistance.1.webp": "95459004dfa18d78"
  },
  "settings": {
   "LODLIGHTS.RenderLodLights": {
@@ -37,6 +65,126 @@
     1080
    ],
    "version": "24.10.2026.2253"
+  },
+  "LODLIGHTS.CoronaRadiusMultiplier": {
+   "kind": "float",
+   "values": [
+    "0.5",
+    "1",
+    "2",
+    "4"
+   ],
+   "frameOfValue": {
+    "0.5": 0,
+    "1": 1,
+    "2": 2,
+    "4": 3
+   },
+   "stills": [
+    "LODLIGHTS.CoronaRadiusMultiplier.0.webp",
+    "LODLIGHTS.CoronaRadiusMultiplier.1.webp",
+    "LODLIGHTS.CoronaRadiusMultiplier.2.webp",
+    "LODLIGHTS.CoronaRadiusMultiplier.3.webp"
+   ],
+   "full": [
+    "LODLIGHTS.CoronaRadiusMultiplier.0.full.webp",
+    "LODLIGHTS.CoronaRadiusMultiplier.1.full.webp",
+    "LODLIGHTS.CoronaRadiusMultiplier.2.full.webp",
+    "LODLIGHTS.CoronaRadiusMultiplier.3.full.webp"
+   ],
+   "resolution": [
+    1920,
+    1080
+   ],
+   "version": "25.10.2026.1942"
+  },
+  "LODLIGHTS.CoronaAlphaMultiplier": {
+   "kind": "float",
+   "values": [
+    "0.25",
+    "1",
+    "2",
+    "4"
+   ],
+   "frameOfValue": {
+    "0.25": 0,
+    "1": 1,
+    "2": 2,
+    "4": 3
+   },
+   "stills": [
+    "LODLIGHTS.CoronaAlphaMultiplier.0.webp",
+    "LODLIGHTS.CoronaAlphaMultiplier.1.webp",
+    "LODLIGHTS.CoronaAlphaMultiplier.2.webp",
+    "LODLIGHTS.CoronaAlphaMultiplier.3.webp"
+   ],
+   "full": [
+    "LODLIGHTS.CoronaAlphaMultiplier.0.full.webp",
+    "LODLIGHTS.CoronaAlphaMultiplier.1.full.webp",
+    "LODLIGHTS.CoronaAlphaMultiplier.2.full.webp",
+    "LODLIGHTS.CoronaAlphaMultiplier.3.full.webp"
+   ],
+   "resolution": [
+    1920,
+    1080
+   ],
+   "version": "25.10.2026.1942"
+  },
+  "LODLIGHTS.SlightlyIncreaseRadiusWithDistance": {
+   "kind": "bool",
+   "values": [
+    "0",
+    "1"
+   ],
+   "frameOfValue": {
+    "0": 0,
+    "1": 1
+   },
+   "stills": [
+    "LODLIGHTS.SlightlyIncreaseRadiusWithDistance.0.webp",
+    "LODLIGHTS.SlightlyIncreaseRadiusWithDistance.1.webp"
+   ],
+   "full": [
+    "LODLIGHTS.SlightlyIncreaseRadiusWithDistance.0.full.webp",
+    "LODLIGHTS.SlightlyIncreaseRadiusWithDistance.1.full.webp"
+   ],
+   "resolution": [
+    1920,
+    1080
+   ],
+   "version": "25.10.2026.1942"
+  },
+  "LODLIGHTS.DrawDistance": {
+   "kind": "float",
+   "values": [
+    "500",
+    "1000",
+    "2000",
+    "0"
+   ],
+   "frameOfValue": {
+    "500": 0,
+    "1000": 1,
+    "2000": 2,
+    "0": 3
+   },
+   "stills": [
+    "LODLIGHTS.DrawDistance.0.webp",
+    "LODLIGHTS.DrawDistance.1.webp",
+    "LODLIGHTS.DrawDistance.2.webp",
+    "LODLIGHTS.DrawDistance.3.webp"
+   ],
+   "full": [
+    "LODLIGHTS.DrawDistance.0.full.webp",
+    "LODLIGHTS.DrawDistance.1.full.webp",
+    "LODLIGHTS.DrawDistance.2.full.webp",
+    "LODLIGHTS.DrawDistance.3.full.webp"
+   ],
+   "resolution": [
+    1920,
+    1080
+   ],
+   "version": "25.10.2026.1942"
   }
  }
 }

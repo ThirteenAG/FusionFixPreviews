@@ -1,7 +1,7 @@
 {
  "format": 1,
  "plugin": "GTAIV.FusionRainDroplets",
- "version": "10.11.2026.1049",
+ "version": "12.11.2026.2223",
  "resolution": [
   1920,
   1080
@@ -23,6 +23,10 @@
   "MAIN.Enabled.0.webp": "ef8908c5b574ea4a",
   "MAIN.Enabled.1.full.webp": "26dbf2f0b954361d",
   "MAIN.Enabled.1.webp": "c76193b537aa1a26",
+  "MAIN.MaxDrops.0.full.webp": "486451bb422f0d67",
+  "MAIN.MaxDrops.0.webp": "00c5499076923076",
+  "MAIN.MaxDrops.1.full.webp": "ee94f7160117b5ec",
+  "MAIN.MaxDrops.1.webp": "4ae04ffb60375740",
   "MAIN.MaxSize.0.full.webp": "ff0063eb53456de8",
   "MAIN.MaxSize.0.webp": "691523f4c1b9b1fb",
   "MAIN.MaxSize.1.full.webp": "4a3a8bfb13cfb6ae",
@@ -281,6 +285,30 @@
     1080
    ],
    "version": "10.11.2026.1049"
+  },
+  "MAIN.MaxDrops": {
+   "kind": "int",
+   "values": [
+    "100",
+    "3000"
+   ],
+   "frameOfValue": {
+    "100": 0,
+    "3000": 1
+   },
+   "stills": [
+    "MAIN.MaxDrops.0.webp",
+    "MAIN.MaxDrops.1.webp"
+   ],
+   "full": [
+    "MAIN.MaxDrops.0.full.webp",
+    "MAIN.MaxDrops.1.full.webp"
+   ],
+   "resolution": [
+    1920,
+    1080
+   ],
+   "version": "12.11.2026.2223"
   }
  }
 }
