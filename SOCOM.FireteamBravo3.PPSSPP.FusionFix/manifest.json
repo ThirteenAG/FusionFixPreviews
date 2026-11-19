@@ -3,8 +3,8 @@
  "plugin": "SOCOM.FireteamBravo3.PPSSPP.FusionFix",
  "version": "1.0",
  "resolution": [
-  1262,
-  611
+  1920,
+  1041
  ],
  "fps": 30,
  "files": {
@@ -16,6 +16,14 @@
   "MAIN.ForceAspectRatio.0.webp": "08dc55ab91c33702",
   "MAIN.ForceAspectRatio.1.full.webp": "3313b2e2e0b1f6de",
   "MAIN.ForceAspectRatio.1.webp": "223562ee0f7bfb19",
+  "MAIN.GamepadIcons.0.full.webp": "3451956b6bc53fad",
+  "MAIN.GamepadIcons.0.webp": "8aee9dfff9b60763",
+  "MAIN.GamepadIcons.1.full.webp": "3451956b6bc53fad",
+  "MAIN.GamepadIcons.1.webp": "8aee9dfff9b60763",
+  "MAIN.GamepadIcons.2.full.webp": "c7b37189cb4a4e77",
+  "MAIN.GamepadIcons.2.webp": "d2fff0446c81ba00",
+  "MAIN.GamepadIcons.3.full.webp": "3a839c8c9d7c52db",
+  "MAIN.GamepadIcons.3.webp": "c429003a606eca66",
   "MAIN.HudAspectRatioConstraint.0.full.webp": "283717eaa5b804b9",
   "MAIN.HudAspectRatioConstraint.0.webp": "6b4856ae4803cf56",
   "MAIN.HudAspectRatioConstraint.1.full.webp": "3cc9540a0fa6da3f",
@@ -119,6 +127,38 @@
    "resolution": [
     1262,
     611
+   ],
+   "version": "1.0"
+  },
+  "MAIN.GamepadIcons": {
+   "kind": "choice",
+   "values": [
+    "0",
+    "1",
+    "2",
+    "3"
+   ],
+   "frameOfValue": {
+    "0": 0,
+    "1": 1,
+    "2": 2,
+    "3": 3
+   },
+   "stills": [
+    "MAIN.GamepadIcons.0.webp",
+    "MAIN.GamepadIcons.1.webp",
+    "MAIN.GamepadIcons.2.webp",
+    "MAIN.GamepadIcons.3.webp"
+   ],
+   "full": [
+    "MAIN.GamepadIcons.0.full.webp",
+    "MAIN.GamepadIcons.1.full.webp",
+    "MAIN.GamepadIcons.2.full.webp",
+    "MAIN.GamepadIcons.3.full.webp"
+   ],
+   "resolution": [
+    1920,
+    1041
    ],
    "version": "1.0"
   }

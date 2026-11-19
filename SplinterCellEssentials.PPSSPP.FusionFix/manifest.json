@@ -4,7 +4,7 @@
  "version": "1.0",
  "resolution": [
   1920,
-  1080
+  1041
  ],
  "fps": 30,
  "files": {
@@ -16,6 +16,14 @@
   "MAIN.ForceAspectRatio.0.webp": "474449fb02d09ba4",
   "MAIN.ForceAspectRatio.1.full.webp": "b7f8ae7827890517",
   "MAIN.ForceAspectRatio.1.webp": "6f336dd0ee1d64b0",
+  "MAIN.GamepadIcons.0.full.webp": "81b62e176dc911e0",
+  "MAIN.GamepadIcons.0.webp": "4bdc0dd9c2eca09c",
+  "MAIN.GamepadIcons.1.full.webp": "2f6ac808bb7eea7a",
+  "MAIN.GamepadIcons.1.webp": "8e94f9bde7846f42",
+  "MAIN.GamepadIcons.2.full.webp": "eaf75b9ea6a0d01d",
+  "MAIN.GamepadIcons.2.webp": "ee780eec6e81e3da",
+  "MAIN.GamepadIcons.3.full.webp": "7ad464d5d0c31a5e",
+  "MAIN.GamepadIcons.3.webp": "b2508ab25cbad5c6",
   "MAIN.HudAspectRatioConstraint.0.full.webp": "aae11e4ec4243bf6",
   "MAIN.HudAspectRatioConstraint.0.webp": "9be88ea254ad9908",
   "MAIN.HudAspectRatioConstraint.1.full.webp": "f6f32158daa85c6e",
@@ -119,6 +127,38 @@
    "resolution": [
     1920,
     1080
+   ],
+   "version": "1.0"
+  },
+  "MAIN.GamepadIcons": {
+   "kind": "choice",
+   "values": [
+    "0",
+    "1",
+    "2",
+    "3"
+   ],
+   "frameOfValue": {
+    "0": 0,
+    "1": 1,
+    "2": 2,
+    "3": 3
+   },
+   "stills": [
+    "MAIN.GamepadIcons.0.webp",
+    "MAIN.GamepadIcons.1.webp",
+    "MAIN.GamepadIcons.2.webp",
+    "MAIN.GamepadIcons.3.webp"
+   ],
+   "full": [
+    "MAIN.GamepadIcons.0.full.webp",
+    "MAIN.GamepadIcons.1.full.webp",
+    "MAIN.GamepadIcons.2.full.webp",
+    "MAIN.GamepadIcons.3.full.webp"
+   ],
+   "resolution": [
+    1920,
+    1041
    ],
    "version": "1.0"
   }
