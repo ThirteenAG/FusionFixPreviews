@@ -1,7 +1,7 @@
 {
  "format": 1,
  "plugin": "Mafia.FusionFix",
- "version": "28.10.2026.136",
+ "version": "19.11.2026.1401",
  "resolution": [
   1600,
   600
@@ -20,6 +20,12 @@
   "GRAPHICS.DrawDistance.0.webp": "697dbaa44eb6af91",
   "GRAPHICS.DrawDistance.1.full.webp": "3115fccb69b85dcb",
   "GRAPHICS.DrawDistance.1.webp": "9927cb5b00cbfaf3",
+  "GRAPHICS.Water.0.full.webp": "5bff04fbb264b0ee",
+  "GRAPHICS.Water.0.webp": "11b8c82868df4809",
+  "GRAPHICS.Water.1.full.webp": "8e01985ec2915859",
+  "GRAPHICS.Water.1.webp": "649c8fa96508e766",
+  "GRAPHICS.Water.2.full.webp": "d0ef5067e4703763",
+  "GRAPHICS.Water.2.webp": "ab1cdcb2cea1c956",
   "HUD.RadarMap.0.full.webp": "e15b5bf710be0c9d",
   "HUD.RadarMap.0.webp": "82c574f1f565d971",
   "HUD.RadarMap.1.full.webp": "44a6f3fa2c39bf1a",
@@ -349,6 +355,34 @@
     600
    ],
    "version": "28.10.2026.136"
+  },
+  "GRAPHICS.Water": {
+   "kind": "choice",
+   "values": [
+    0,
+    1,
+    2
+   ],
+   "frameOfValue": {
+    "0": 0,
+    "1": 1,
+    "2": 2
+   },
+   "stills": [
+    "GRAPHICS.Water.0.webp",
+    "GRAPHICS.Water.1.webp",
+    "GRAPHICS.Water.2.webp"
+   ],
+   "full": [
+    "GRAPHICS.Water.0.full.webp",
+    "GRAPHICS.Water.1.full.webp",
+    "GRAPHICS.Water.2.full.webp"
+   ],
+   "resolution": [
+    1600,
+    600
+   ],
+   "version": "19.11.2026.1401"
   }
  }
 }
