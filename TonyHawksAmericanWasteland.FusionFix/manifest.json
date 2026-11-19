@@ -1,7 +1,7 @@
 {
  "format": 1,
  "plugin": "TonyHawksAmericanWasteland.FusionFix",
- "version": "9.11.2026.2247",
+ "version": "18.11.2026.438",
  "resolution": [
   1920,
   1080
@@ -16,6 +16,14 @@
   "MAIN.CutsceneBorders.2.webp": "7909abfee3004430",
   "MAIN.CutsceneBorders.3.full.webp": "42971cd20eb480d5",
   "MAIN.CutsceneBorders.3.webp": "49980869e4fbc0b2",
+  "MAIN.GamepadIcons.0.full.webp": "9686f889963f58f1",
+  "MAIN.GamepadIcons.0.webp": "b35b000881526f5e",
+  "MAIN.GamepadIcons.1.full.webp": "fffbe973b9151778",
+  "MAIN.GamepadIcons.1.webp": "124f28c338b58dcb",
+  "MAIN.GamepadIcons.2.full.webp": "7212ce5113ea4aba",
+  "MAIN.GamepadIcons.2.webp": "01d5af80180023d1",
+  "MAIN.GamepadIcons.3.full.webp": "22c03afb33636ae3",
+  "MAIN.GamepadIcons.3.webp": "1c0fbd14f0f5a057",
   "MAIN.HudAspectRatioConstraint.0.full.webp": "9acd8f0212bcab1c",
   "MAIN.HudAspectRatioConstraint.0.webp": "7a835fd1e7304368",
   "MAIN.HudAspectRatioConstraint.1.full.webp": "ca1a99806745541d",
@@ -111,6 +119,38 @@
     1080
    ],
    "version": "9.11.2026.2247"
+  },
+  "MAIN.GamepadIcons": {
+   "kind": "choice",
+   "values": [
+    "0",
+    "1",
+    "2",
+    "3"
+   ],
+   "frameOfValue": {
+    "0": 0,
+    "1": 1,
+    "2": 2,
+    "3": 3
+   },
+   "stills": [
+    "MAIN.GamepadIcons.0.webp",
+    "MAIN.GamepadIcons.1.webp",
+    "MAIN.GamepadIcons.2.webp",
+    "MAIN.GamepadIcons.3.webp"
+   ],
+   "full": [
+    "MAIN.GamepadIcons.0.full.webp",
+    "MAIN.GamepadIcons.1.full.webp",
+    "MAIN.GamepadIcons.2.full.webp",
+    "MAIN.GamepadIcons.3.full.webp"
+   ],
+   "resolution": [
+    1920,
+    1080
+   ],
+   "version": "18.11.2026.438"
   }
  }
 }

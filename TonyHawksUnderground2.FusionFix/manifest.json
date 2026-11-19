@@ -1,17 +1,13 @@
 {
  "format": 1,
  "plugin": "TonyHawksUnderground2.FusionFix",
- "version": "2.11.2026.2114",
+ "version": "18.11.2026.438",
  "resolution": [
-  1600,
-  900
+  1920,
+  1080
  ],
  "fps": 30,
  "files": {
-  "MAIN.SkipIntro.0.full.webp": "eedefc2dcfab527c",
-  "MAIN.SkipIntro.0.webp": "45c40b77f6e9841a",
-  "MAIN.SkipIntro.1.full.webp": "f6f39abe8bb13d4c",
-  "MAIN.SkipIntro.1.webp": "7fcddf1e978a8a6e",
   "MAIN.FOVFactor.0.full.webp": "a24f62f599a999cb",
   "MAIN.FOVFactor.0.webp": "dcc7fc18d68e4aac",
   "MAIN.FOVFactor.1.full.webp": "041bd9ed46f6b4f5",
@@ -22,6 +18,14 @@
   "MAIN.FOVFactor.3.webp": "f22c349606877d35",
   "MAIN.FOVFactor.4.full.webp": "af7a99d0c2551013",
   "MAIN.FOVFactor.4.webp": "697125e6eab34060",
+  "MAIN.GamepadIcons.0.full.webp": "9b0266183d988b26",
+  "MAIN.GamepadIcons.0.webp": "b8275d26b3745045",
+  "MAIN.GamepadIcons.1.full.webp": "d90354200472d248",
+  "MAIN.GamepadIcons.1.webp": "61067ba96fea7e38",
+  "MAIN.GamepadIcons.2.full.webp": "7d7003e761225b9f",
+  "MAIN.GamepadIcons.2.webp": "5f83eed4f6db7195",
+  "MAIN.GamepadIcons.3.full.webp": "1a82a680bafdcdd3",
+  "MAIN.GamepadIcons.3.webp": "d793274fcd3b8183",
   "MAIN.HudAspectRatioConstraint.0.full.webp": "d42c7068ad78e9fe",
   "MAIN.HudAspectRatioConstraint.0.webp": "846fa60237821706",
   "MAIN.HudAspectRatioConstraint.1.full.webp": "71e7967db3069874",
@@ -31,7 +35,11 @@
   "MAIN.HudAspectRatioConstraint.3.full.webp": "32488591e4f676ac",
   "MAIN.HudAspectRatioConstraint.3.webp": "93ca288586780121",
   "MAIN.HudAspectRatioConstraint.4.full.webp": "f4c6f42e815c3d1e",
-  "MAIN.HudAspectRatioConstraint.4.webp": "b6c7d5b44449386b"
+  "MAIN.HudAspectRatioConstraint.4.webp": "b6c7d5b44449386b",
+  "MAIN.SkipIntro.0.full.webp": "eedefc2dcfab527c",
+  "MAIN.SkipIntro.0.webp": "45c40b77f6e9841a",
+  "MAIN.SkipIntro.1.full.webp": "f6f39abe8bb13d4c",
+  "MAIN.SkipIntro.1.webp": "7fcddf1e978a8a6e"
  },
  "settings": {
   "MAIN.SkipIntro": {
@@ -129,6 +137,38 @@
     1080
    ],
    "version": "5.11.2026.1227"
+  },
+  "MAIN.GamepadIcons": {
+   "kind": "choice",
+   "values": [
+    "0",
+    "1",
+    "2",
+    "3"
+   ],
+   "frameOfValue": {
+    "0": 0,
+    "1": 1,
+    "2": 2,
+    "3": 3
+   },
+   "stills": [
+    "MAIN.GamepadIcons.0.webp",
+    "MAIN.GamepadIcons.1.webp",
+    "MAIN.GamepadIcons.2.webp",
+    "MAIN.GamepadIcons.3.webp"
+   ],
+   "full": [
+    "MAIN.GamepadIcons.0.full.webp",
+    "MAIN.GamepadIcons.1.full.webp",
+    "MAIN.GamepadIcons.2.full.webp",
+    "MAIN.GamepadIcons.3.full.webp"
+   ],
+   "resolution": [
+    1920,
+    1080
+   ],
+   "version": "18.11.2026.438"
   }
  }
 }

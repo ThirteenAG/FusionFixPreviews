@@ -1,0 +1,128 @@
+{
+ "format": 1,
+ "plugin": "TonyHawksProSkater4.FusionFix",
+ "version": "18.11.2026.228",
+ "resolution": [
+  1920,
+  1080
+ ],
+ "fps": 30,
+ "files": {
+  "MAIN.FOVFactor.0.full.webp": "f3ec457f1cb08fd6",
+  "MAIN.FOVFactor.0.webp": "1aa1a270cfa21fc6",
+  "MAIN.FOVFactor.1.full.webp": "f47ecd56e2826d73",
+  "MAIN.FOVFactor.1.webp": "e5ee47bb081b4f89",
+  "MAIN.FOVFactor.2.full.webp": "c2191506e556261c",
+  "MAIN.FOVFactor.2.webp": "69bfd4d6883d7633",
+  "MAIN.FOVFactor.3.full.webp": "70c6d6a813df4dd3",
+  "MAIN.FOVFactor.3.webp": "31ee37ec45ec29f2",
+  "MAIN.FOVFactor.4.full.webp": "669eb9c6d663a698",
+  "MAIN.FOVFactor.4.webp": "815704ea3acb3823",
+  "MAIN.GamepadIcons.0.full.webp": "302ed981b8eb6710",
+  "MAIN.GamepadIcons.0.webp": "6e94acae639d1878",
+  "MAIN.GamepadIcons.1.full.webp": "80c18b0271bca367",
+  "MAIN.GamepadIcons.1.webp": "3d0e802b684428ca",
+  "MAIN.GamepadIcons.2.full.webp": "6847b9470ad301e7",
+  "MAIN.GamepadIcons.2.webp": "6926a1b0db4f94a2",
+  "MAIN.GamepadIcons.3.full.webp": "332d1f5e6c5e83f2",
+  "MAIN.GamepadIcons.3.webp": "a4273195f0bc08b5",
+  "MAIN.HudAspectRatioConstraint.0.full.webp": "b44a77be1ce7a5f9",
+  "MAIN.HudAspectRatioConstraint.0.webp": "363bbbfab41718c6",
+  "MAIN.HudAspectRatioConstraint.1.full.webp": "e5be629e50d95f9e",
+  "MAIN.HudAspectRatioConstraint.1.webp": "118bea59252a65df"
+ },
+ "settings": {
+  "MAIN.GamepadIcons": {
+   "kind": "choice",
+   "values": [
+    "0",
+    "1",
+    "2",
+    "3"
+   ],
+   "frameOfValue": {
+    "0": 0,
+    "1": 1,
+    "2": 2,
+    "3": 3
+   },
+   "stills": [
+    "MAIN.GamepadIcons.0.webp",
+    "MAIN.GamepadIcons.1.webp",
+    "MAIN.GamepadIcons.2.webp",
+    "MAIN.GamepadIcons.3.webp"
+   ],
+   "full": [
+    "MAIN.GamepadIcons.0.full.webp",
+    "MAIN.GamepadIcons.1.full.webp",
+    "MAIN.GamepadIcons.2.full.webp",
+    "MAIN.GamepadIcons.3.full.webp"
+   ],
+   "resolution": [
+    1920,
+    1080
+   ],
+   "version": "18.11.2026.228"
+  },
+  "MAIN.HudAspectRatioConstraint": {
+   "kind": "string",
+   "values": [
+    "Auto",
+    "4:3"
+   ],
+   "frameOfValue": {
+    "Auto": 0,
+    "4:3": 1
+   },
+   "stills": [
+    "MAIN.HudAspectRatioConstraint.0.webp",
+    "MAIN.HudAspectRatioConstraint.1.webp"
+   ],
+   "full": [
+    "MAIN.HudAspectRatioConstraint.0.full.webp",
+    "MAIN.HudAspectRatioConstraint.1.full.webp"
+   ],
+   "resolution": [
+    1920,
+    1080
+   ],
+   "version": "18.11.2026.228"
+  },
+  "MAIN.FOVFactor": {
+   "kind": "float",
+   "values": [
+    "0.5",
+    "0.75",
+    "1.0",
+    "1.5",
+    "2.0"
+   ],
+   "frameOfValue": {
+    "0.5": 0,
+    "0.75": 1,
+    "1.0": 2,
+    "1.5": 3,
+    "2.0": 4
+   },
+   "stills": [
+    "MAIN.FOVFactor.0.webp",
+    "MAIN.FOVFactor.1.webp",
+    "MAIN.FOVFactor.2.webp",
+    "MAIN.FOVFactor.3.webp",
+    "MAIN.FOVFactor.4.webp"
+   ],
+   "full": [
+    "MAIN.FOVFactor.0.full.webp",
+    "MAIN.FOVFactor.1.full.webp",
+    "MAIN.FOVFactor.2.full.webp",
+    "MAIN.FOVFactor.3.full.webp",
+    "MAIN.FOVFactor.4.full.webp"
+   ],
+   "resolution": [
+    1920,
+    1080
+   ],
+   "version": "18.11.2026.228"
+  }
+ }
+}
