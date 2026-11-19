@@ -114,11 +114,11 @@
    "kind": "choice",
    "values": [
     "0",
-    "1"
+    "2"
    ],
    "frameOfValue": {
     "0": 0,
-    "1": 1
+    "2": 1
    },
    "stills": [
     "MAIN.CutsceneBorders.0.webp",
