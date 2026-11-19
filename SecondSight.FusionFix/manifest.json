@@ -1,0 +1,128 @@
+{
+ "format": 1,
+ "plugin": "SecondSight.FusionFix",
+ "version": "18.11.2026.620",
+ "resolution": [
+  1600,
+  900
+ ],
+ "fps": 30,
+ "files": {
+  "MAIN.CutsceneBorders.0.full.webp": "e0f28ef983bd469f",
+  "MAIN.CutsceneBorders.0.webp": "d020098e2a2eaaa5",
+  "MAIN.CutsceneBorders.1.full.webp": "0d6e14748ad7e59b",
+  "MAIN.CutsceneBorders.1.webp": "30e3de885fec9e39",
+  "MAIN.CutsceneBorders.2.full.webp": "e271915ab74ee5aa",
+  "MAIN.CutsceneBorders.2.webp": "c2a9cbb89f0dfc12",
+  "MAIN.CutsceneBorders.3.full.webp": "e72e9792c3629366",
+  "MAIN.CutsceneBorders.3.webp": "48d2d01d38343e29",
+  "MAIN.FOVFactor.0.full.webp": "b0b002fb5a4ced78",
+  "MAIN.FOVFactor.0.webp": "4988d3bcfa43ae8c",
+  "MAIN.FOVFactor.1.full.webp": "e8918617538f3e45",
+  "MAIN.FOVFactor.1.webp": "eb682faee11154b5",
+  "MAIN.FOVFactor.2.full.webp": "8044cc7077457422",
+  "MAIN.FOVFactor.2.webp": "7953f2a01e4d8216",
+  "MAIN.FOVFactor.3.full.webp": "e87f42ab16c0274b",
+  "MAIN.FOVFactor.3.webp": "2172772e87406248",
+  "MAIN.FOVFactor.4.full.webp": "dc98066e2607efb6",
+  "MAIN.FOVFactor.4.webp": "0ee9d156ba6cc84b",
+  "MAIN.HudAspectRatioConstraint.0.full.webp": "db10fc9d64c99002",
+  "MAIN.HudAspectRatioConstraint.0.webp": "87436f908a5a8187",
+  "MAIN.HudAspectRatioConstraint.1.full.webp": "1f95d0473ec6c664",
+  "MAIN.HudAspectRatioConstraint.1.webp": "e1081bbe9520b539"
+ },
+ "settings": {
+  "MAIN.CutsceneBorders": {
+   "kind": "choice",
+   "values": [
+    "0",
+    "1",
+    "2",
+    "3"
+   ],
+   "frameOfValue": {
+    "0": 0,
+    "1": 1,
+    "2": 2,
+    "3": 3
+   },
+   "stills": [
+    "MAIN.CutsceneBorders.0.webp",
+    "MAIN.CutsceneBorders.1.webp",
+    "MAIN.CutsceneBorders.2.webp",
+    "MAIN.CutsceneBorders.3.webp"
+   ],
+   "full": [
+    "MAIN.CutsceneBorders.0.full.webp",
+    "MAIN.CutsceneBorders.1.full.webp",
+    "MAIN.CutsceneBorders.2.full.webp",
+    "MAIN.CutsceneBorders.3.full.webp"
+   ],
+   "resolution": [
+    1600,
+    900
+   ],
+   "version": "18.11.2026.620"
+  },
+  "MAIN.HudAspectRatioConstraint": {
+   "kind": "string",
+   "values": [
+    "Auto",
+    "4:3"
+   ],
+   "frameOfValue": {
+    "Auto": 0,
+    "4:3": 1
+   },
+   "stills": [
+    "MAIN.HudAspectRatioConstraint.0.webp",
+    "MAIN.HudAspectRatioConstraint.1.webp"
+   ],
+   "full": [
+    "MAIN.HudAspectRatioConstraint.0.full.webp",
+    "MAIN.HudAspectRatioConstraint.1.full.webp"
+   ],
+   "resolution": [
+    1600,
+    900
+   ],
+   "version": "18.11.2026.620"
+  },
+  "MAIN.FOVFactor": {
+   "kind": "float",
+   "values": [
+    "0.5",
+    "0.75",
+    "1.0",
+    "1.5",
+    "2.0"
+   ],
+   "frameOfValue": {
+    "0.5": 0,
+    "0.75": 1,
+    "1.0": 2,
+    "1.5": 3,
+    "2.0": 4
+   },
+   "stills": [
+    "MAIN.FOVFactor.0.webp",
+    "MAIN.FOVFactor.1.webp",
+    "MAIN.FOVFactor.2.webp",
+    "MAIN.FOVFactor.3.webp",
+    "MAIN.FOVFactor.4.webp"
+   ],
+   "full": [
+    "MAIN.FOVFactor.0.full.webp",
+    "MAIN.FOVFactor.1.full.webp",
+    "MAIN.FOVFactor.2.full.webp",
+    "MAIN.FOVFactor.3.full.webp",
+    "MAIN.FOVFactor.4.full.webp"
+   ],
+   "resolution": [
+    1600,
+    900
+   ],
+   "version": "18.11.2026.620"
+  }
+ }
+}
